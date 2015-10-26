@@ -26,7 +26,8 @@ public class TypoFinderTests {
 	@Test
 	public void testFindTypos() throws IOException {
 //		String filename = "src/test/resources/samples/test.txt";
-		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/getting-started.adoc";
+//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/getting-started.adoc";
+		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/production-ready-features.adoc";
 //		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/using-spring-boot.adoc";
 		
 		String text = IOUtils.toString(new FileReader(filename));

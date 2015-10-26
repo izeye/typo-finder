@@ -10,7 +10,8 @@ public class DefaultWordTokenizer implements WordTokenizer {
 	private static final String[] CONTRACTED_FORMS = {
 		"'ll", // For contracted form with `will` like `we'll`
 		"'re", // For contracted form with `are` like `you're`
-		"'t" // For contracted form with `not` like `don't`
+		"'t", // For contracted form with `not` like `don't`
+		"'ve" // For contracted form with `have` like `you've`
 	};
 	
 	private static final int CONTEXT_OFFSET = 10;

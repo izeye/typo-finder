@@ -1,2 +1,7 @@
+autowired
+cfapps
+propdeps
 repo
 springframework
+webmvc
+ws

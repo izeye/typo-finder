@@ -1,0 +1,10 @@
+antlib
+classpathref
+conf
+destdir
+destfile
+exejar
+ext
+fileset
+rev
+srcdir

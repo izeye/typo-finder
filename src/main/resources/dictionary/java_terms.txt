@@ -1,4 +1,12 @@
 args
 com
+dt
+egd
+inf
+javax
 org
 src
+xdebug
+xmx
+xrunjdwp
+xx
