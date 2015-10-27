@@ -1,3 +1,16 @@
+auth
+autoconfig
 autoconfigure
+beanfactory
+configprops
+crsh
+datasource
 devtools
 env
+flyway
+httpsessions
+logfile
+mem
+millis
+systemload
+tsdb

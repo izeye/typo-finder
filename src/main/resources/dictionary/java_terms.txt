@@ -3,6 +3,7 @@ com
 dt
 egd
 inf
+int
 javax
 org
 src

@@ -51,6 +51,10 @@ public class DefaultTypoFinder implements TypoFinder {
 					List<String> words = StringUtils.camelCase2Words(token.getWord());
 					boolean satisfied = true;
 					for (String word : words) {
+						if (word.length() == 1 && properties.isIgnoreSingleCharacterWords()) {
+							log.info("A single character word in camelCase has been ignored: {}", word);
+							continue;
+						}
 						if (!containsInAnyDictionary(word.toLowerCase())) {
 							satisfied = false;
 							break;

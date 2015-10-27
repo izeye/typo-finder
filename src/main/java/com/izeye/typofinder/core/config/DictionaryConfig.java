@@ -19,6 +19,7 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_ANT_TERMS = "classpath:dictionary/ant_terms.txt";
 	private static final String RESOURCE_LOCATION_ASCIIDOCTOR_TERMS = "classpath:dictionary/asciidoctor_terms.txt";
 	private static final String RESOURCE_LOCATION_JAVA_TERMS = "classpath:dictionary/java_terms.txt";
+	private static final String RESOURCE_LOCATION_GROOVY_TERMS = "classpath:dictionary/groovy_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_TERMS = "classpath:dictionary/spring_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_BOOT_TERMS = "classpath:dictionary/spring_boot_terms.txt";
 	
@@ -35,6 +36,7 @@ public class DictionaryConfig {
 				RESOURCE_LOCATION_ANT_TERMS,
 				RESOURCE_LOCATION_ASCIIDOCTOR_TERMS,
 				RESOURCE_LOCATION_JAVA_TERMS,
+				RESOURCE_LOCATION_GROOVY_TERMS,
 				RESOURCE_LOCATION_SPRING_TERMS,
 				RESOURCE_LOCATION_SPRING_BOOT_TERMS);
 	}
