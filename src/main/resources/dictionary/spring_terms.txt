@@ -1,7 +1,13 @@
+autowire
 autowired
+basename
 cfapps
+gs
+hsql
 propdeps
+pws
 repo
+spel
 springframework
 webmvc
 ws

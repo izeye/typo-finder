@@ -52,7 +52,7 @@ public class DefaultTypoFinder implements TypoFinder {
 					boolean satisfied = true;
 					for (String word : words) {
 						if (word.length() == 1 && properties.isIgnoreSingleCharacterWords()) {
-							log.info("A single character word in camelCase has been ignored: {}", word);
+							log.trace("A single character word in camelCase has been ignored: {}", word);
 							continue;
 						}
 						if (!containsInAnyDictionary(word.toLowerCase())) {
@@ -73,7 +73,7 @@ public class DefaultTypoFinder implements TypoFinder {
 			for (Map.Entry<String, WordToken> typo : typos.entrySet()) {
 				String key = typo.getKey();
 				if (key.length() == 1) {
-					log.info("A single character word has been ignored: {}", typo);
+					log.trace("A single character word has been ignored: {}", typo);
 					ignored.add(key);
 				}
 			}

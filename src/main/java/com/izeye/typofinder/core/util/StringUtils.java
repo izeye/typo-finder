@@ -1,6 +1,7 @@
 package com.izeye.typofinder.core.util;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -9,6 +10,10 @@ import java.util.List;
 public abstract class StringUtils {
 	
 	public static List<String> camelCase2Words(String camelCase) {
+		if (isUpperCaseOnly(camelCase)) {
+			return Collections.singletonList(camelCase);
+		}
+		
 		List<String> words = new ArrayList<>();
 		
 		StringBuilder sb = new StringBuilder();
@@ -24,6 +29,15 @@ public abstract class StringUtils {
 			words.add(sb.toString());
 		}
 		return words;
+	}
+	
+	public static boolean isUpperCaseOnly(String string) {
+		for (char c : string.toCharArray()) {
+			if (!Character.isUpperCase(c)) {
+				return false;
+			}
+		}
+		return true;
 	}
 	
 }

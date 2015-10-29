@@ -14,12 +14,15 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_ENGLISH_WORDS = "classpath:dictionary/english_words.txt";
 	
 	private static final String RESOURCE_LOCATION_COMPUTER_TERMS = "classpath:dictionary/computer_terms.txt";
-	private static final String RESOURCE_LOCATION_MAVEN_TERMS = "classpath:dictionary/maven_terms.txt";
-	private static final String RESOURCE_LOCATION_GRADLE_TERMS = "classpath:dictionary/gradle_terms.txt";
 	private static final String RESOURCE_LOCATION_ANT_TERMS = "classpath:dictionary/ant_terms.txt";
 	private static final String RESOURCE_LOCATION_ASCIIDOCTOR_TERMS = "classpath:dictionary/asciidoctor_terms.txt";
-	private static final String RESOURCE_LOCATION_JAVA_TERMS = "classpath:dictionary/java_terms.txt";
+	private static final String RESOURCE_LOCATION_GRADLE_TERMS = "classpath:dictionary/gradle_terms.txt";
 	private static final String RESOURCE_LOCATION_GROOVY_TERMS = "classpath:dictionary/groovy_terms.txt";
+	private static final String RESOURCE_LOCATION_HIBERNATE_TERMS = "classpath:dictionary/hibernate_terms.txt";
+	private static final String RESOURCE_LOCATION_HTML_TERMS = "classpath:dictionary/html_terms.txt";
+	private static final String RESOURCE_LOCATION_JAVA_TERMS = "classpath:dictionary/java_terms.txt";
+	private static final String RESOURCE_LOCATION_JWT_TERMS = "classpath:dictionary/jwt_terms.txt";
+	private static final String RESOURCE_LOCATION_MAVEN_TERMS = "classpath:dictionary/maven_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_TERMS = "classpath:dictionary/spring_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_BOOT_TERMS = "classpath:dictionary/spring_boot_terms.txt";
 	
@@ -31,12 +34,15 @@ public class DictionaryConfig {
 	@Bean
 	public Dictionary computerTermsDictionary() {
 		return new DefaultDictionary(RESOURCE_LOCATION_COMPUTER_TERMS,
-				RESOURCE_LOCATION_MAVEN_TERMS,
-				RESOURCE_LOCATION_GRADLE_TERMS,
 				RESOURCE_LOCATION_ANT_TERMS,
 				RESOURCE_LOCATION_ASCIIDOCTOR_TERMS,
-				RESOURCE_LOCATION_JAVA_TERMS,
+				RESOURCE_LOCATION_GRADLE_TERMS,
 				RESOURCE_LOCATION_GROOVY_TERMS,
+				RESOURCE_LOCATION_HIBERNATE_TERMS,
+				RESOURCE_LOCATION_HTML_TERMS,
+				RESOURCE_LOCATION_JAVA_TERMS,
+				RESOURCE_LOCATION_JWT_TERMS,
+				RESOURCE_LOCATION_MAVEN_TERMS,
 				RESOURCE_LOCATION_SPRING_TERMS,
 				RESOURCE_LOCATION_SPRING_BOOT_TERMS);
 	}

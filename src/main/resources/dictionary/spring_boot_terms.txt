@@ -1,3 +1,4 @@
+activemq
 auth
 autoconfig
 autoconfigure
@@ -7,10 +8,15 @@ crsh
 datasource
 devtools
 env
+ex
 flyway
 httpsessions
 logfile
+keyspace
 mem
 millis
+oauth
+rabbitmq
 systemload
 tsdb
+whitelabel
