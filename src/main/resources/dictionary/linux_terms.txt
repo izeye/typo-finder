@@ -1,0 +1,8 @@
+grep
+ln
+man
+nohup
+ps
+systemd
+tmp
+var

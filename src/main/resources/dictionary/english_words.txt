@@ -5,6 +5,7 @@ about
 above
 absence
 absolutely
+abstract
 abstraction
 abstractions
 accept
@@ -22,7 +23,10 @@ account
 achieve
 achieved
 acknowledged
+acknowledges
 across
+act
+action
 actions
 activate
 activated
@@ -36,6 +40,7 @@ actuator
 actuators
 ad
 adapter
+adapts
 add
 added
 adding
@@ -44,6 +49,7 @@ additional
 additionally
 address
 adds
+adjacent
 admin
 administer
 advanced
@@ -64,6 +70,7 @@ aggregates
 aggregating
 aggregation
 aggregator
+agile
 agnostic
 ago
 ahead
@@ -77,6 +84,7 @@ alive
 all
 allocated
 allow
+allowed
 allowing
 allows
 almost
@@ -133,6 +141,7 @@ approximately
 apps
 apt
 arbitrary
+architecture
 archive
 archives
 are
@@ -153,6 +162,8 @@ aspects
 assert
 assertions
 assessor
+assigned
+assigns
 assistance
 associate
 associated
@@ -160,6 +171,7 @@ assume
 assumes
 assuming
 assumptions
+asterisk
 asterisks
 asynchronously
 at
@@ -179,10 +191,10 @@ authenticated
 authentication
 authenticator
 author
-authors
 authorization
 authorize
 authorized
+authors
 auto
 automatic
 automatically
@@ -232,11 +244,13 @@ between
 beyond
 big
 biggest
+bills
 bin
 binary
 bind
 binder
 binding
+bindings
 binds
 birth
 bit
@@ -260,6 +274,7 @@ breaks
 brew
 bridge
 brief
+bring
 bringing
 broker
 browse
@@ -273,6 +288,7 @@ builder
 building
 builds
 built
+bunch
 bundle
 bundled
 business
@@ -301,6 +317,7 @@ care
 careful
 carefully
 carry
+cartridge
 case
 cases
 category
@@ -321,6 +338,7 @@ characters
 charge
 check
 checked
+checking
 checks
 child
 choice
@@ -335,6 +353,8 @@ clash
 class
 classes
 classic
+clean
+cleanly
 cleared
 client
 clients
@@ -362,6 +382,7 @@ combination
 combine
 combined
 combining
+come
 comes
 comfortable
 comma
@@ -394,6 +415,8 @@ compliant
 component
 components
 composed
+compressing
+compression
 compute
 computed
 concepts
@@ -415,8 +438,10 @@ configures
 configuring
 conflicts
 confusing
+congratulations
 conjunction
 connect
+connected
 connecting
 connection
 connections
@@ -435,6 +460,7 @@ construct
 constructed
 constructor
 consult
+consulted
 consume
 consuming
 contact
@@ -489,6 +515,7 @@ could
 count
 counter
 counters
+counting
 country
 counts
 couple
@@ -504,6 +531,7 @@ creation
 credentials
 cross
 cumbersome
+curated
 current
 currently
 custom
@@ -524,13 +552,16 @@ database
 databases
 date
 de
+deal
 decide
 decides
 decimal
+decision
 declaration
 declarations
 declare
 declared
+declares
 declaring
 decode
 decoding
@@ -538,6 +569,7 @@ decorated
 decrement
 dedicated
 deduce
+deep
 default
 defaults
 deferred
@@ -574,6 +606,7 @@ deployment
 deployments
 depth
 described
+describes
 description
 descriptors
 design
@@ -615,6 +648,7 @@ discouraged
 discover
 discovered
 discoverers
+discovering
 discovery
 discussed
 discussing
@@ -631,8 +665,10 @@ distributed
 distribution
 distributions
 diverge
+divergence
 dives
 diving
+diy
 do
 doc
 document
@@ -651,8 +687,11 @@ double
 down
 download
 downloaded
+downloading
+downtime
 driver
 drop
+droplet
 dropping
 due
 dump
@@ -666,6 +705,7 @@ earlier
 early
 ease
 easier
+easiest
 easily
 easy
 echo
@@ -679,6 +719,7 @@ effect
 effectively
 efficient
 either
+elastic
 electronically
 element
 else
@@ -687,6 +728,7 @@ embed
 embeddable
 embedded
 embedding
+employ
 empty
 enable
 enabled
@@ -711,6 +753,7 @@ enroll
 ensure
 ensures
 ensuring
+enterprise
 entity
 entropy
 entry
@@ -741,6 +784,7 @@ evict
 exact
 example
 examples
+excellent
 except
 exception
 exceptions
@@ -753,6 +797,7 @@ exclusive
 executable
 execute
 executed
+executing
 execution
 executions
 exist
@@ -762,6 +807,7 @@ exit
 exotic
 expand
 expanded
+expanding
 expansion
 expects
 expensive
@@ -797,6 +843,7 @@ externalize
 externalized
 extra
 extract
+extracts
 facets
 facing
 fact
@@ -810,6 +857,7 @@ failure
 failures
 fairly
 fallback
+falling
 false
 familiar
 far
@@ -829,9 +877,11 @@ fed
 fee
 feedback
 feeding
+feel
 fetch
 few
 field
+fields
 file
 filename
 files
@@ -845,13 +895,17 @@ find
 finder
 fine
 finish
+finished
 firewall
 first
+fit
 fix
 fixed
 flag
 flagged
 flagging
+flattens
+fledged
 flexibility
 flexible
 fluent
@@ -862,9 +916,11 @@ follow
 followed
 following
 follows
+footprint
 for
 forbidden
 force
+foreground
 forking
 form
 format
@@ -878,19 +934,24 @@ forwarded
 found
 foundation
 foundry
+four
 framework
 frameworks
 free
 freely
 frequently
+fri
 friendly
 from
+front
 full
 fully
 functional
 functionality
 further
 furthermore
+fused
+fusing
 fuss
 future
 garbage
@@ -942,6 +1003,7 @@ gregorian
 ground
 grounding
 group
+groups
 guaranteed
 guess
 guesses
@@ -961,6 +1023,7 @@ happy
 hard
 has
 hash
+hat
 have
 haven't
 having
@@ -981,6 +1044,7 @@ high
 higher
 highest
 highlights
+highly
 hint
 hints
 histogram
@@ -1015,6 +1079,7 @@ if
 ignore
 ignored
 ignoring
+image
 images
 immediately
 immutable
@@ -1033,6 +1098,7 @@ importing
 imports
 improve
 in
+incantation
 include
 included
 includes
@@ -1105,6 +1171,7 @@ interesting
 interface
 interfaces
 interference
+intermediary
 internal
 internally
 internet
@@ -1137,7 +1204,9 @@ keep
 keeping
 key
 keys
+kill
 kind
+kinds
 kit
 know
 known
@@ -1151,6 +1220,8 @@ latest
 latter
 launch
 launched
+launching
+layer
 layout
 lead
 learn
@@ -1163,6 +1234,7 @@ let
 lets
 level
 levels
+leverages
 libraries
 library
 lifecycle
@@ -1170,6 +1242,7 @@ lightweight
 like
 likely
 likes
+likewise
 limit
 limitations
 limited
@@ -1213,12 +1286,15 @@ lot
 low
 lower
 machine
+machines
 made
 mail
 main
+maintained
 major
 make
 makes
+making
 manage
 managed
 management
@@ -1238,6 +1314,7 @@ mapper
 mapping
 mappings
 maps
+mar
 mark
 marked
 marker
@@ -1250,12 +1327,14 @@ matchers
 matches
 matching
 materialized
+materials
 math
 max
 maximum
 may
 maybe
 me
+meaning
 means
 meantime
 mechanical
@@ -1275,12 +1354,15 @@ method
 methods
 metric
 metrics
+micro
 might
 migrations
 milestone
 milestones
 millisecond
 milliseconds
+minimal
+minimizes
 minimum
 minutes
 miss
@@ -1295,6 +1377,7 @@ mode
 model
 modern
 modes
+modifications
 modified
 modify
 module
@@ -1358,6 +1441,7 @@ notes
 noteworthy
 nothing
 notice
+notion
 now
 number
 numerous
@@ -1378,6 +1462,7 @@ offered
 offers
 official
 often
+ok
 old
 older
 omit
@@ -1415,6 +1500,7 @@ organisation
 oriented
 origin
 original
+origins
 other
 others
 otherwise
@@ -1425,11 +1511,14 @@ outgoing
 output
 outside
 over
+overridden
 override
 overrides
 overriding
 overview
 own
+owner
+owns
 package
 packaged
 packages
@@ -1460,6 +1549,8 @@ path
 paths
 pattern
 patterns
+payload
+payloads
 pdt
 peak
 peek
@@ -1470,6 +1561,7 @@ performed
 performs
 period
 perm
+permits
 persistence
 persistent
 person
@@ -1498,6 +1590,7 @@ plugins
 point
 points
 policy
+polyglot
 pool
 pooled
 pooling
@@ -1528,8 +1621,10 @@ prefixed
 prefixes
 prefixing
 prepared
+preparing
 presence
 present
+pretty
 prevent
 prevents
 previously
@@ -1540,6 +1635,7 @@ print
 printed
 prints
 prior
+priority
 private
 probably
 problem
@@ -1579,6 +1675,7 @@ provider
 providers
 provides
 providing
+provisions
 proxy
 public
 publicly
@@ -1591,6 +1688,7 @@ purpose
 purposes
 push
 pushed
+pushing
 put
 qualified
 qualifier
@@ -1642,9 +1740,11 @@ record
 recorded
 recording
 records
+red
 redirect
 redirects
 reduce
+reduces
 reducing
 refer
 reference
@@ -1652,6 +1752,7 @@ referenced
 references
 referred
 referring
+refined
 refresh
 refreshed
 refreshing
@@ -1742,6 +1843,7 @@ return
 returned
 returns
 reuse
+reused
 reversed
 review
 revision
@@ -1774,16 +1876,20 @@ scan
 scanned
 scanning
 scenario
+scenarios
 schema
 scheme
 scope
+scoped
 scratch
 scratched
+scratches
 script
 scripts
 search
 searched
 searching
+sec
 second
 seconds
 secret
@@ -1867,6 +1973,8 @@ simply
 since
 single
 site
+sites
+situated
 situations
 size
 skip
@@ -1893,6 +2001,7 @@ sortable
 source
 sources
 space
+spam
 spec
 special
 specific
@@ -1932,6 +2041,7 @@ steps
 stereotype
 still
 stop
+stopped
 stopping
 storage
 store
@@ -1953,9 +2063,13 @@ subscribers
 subsequent
 subsequently
 subset
+substituting
 success
 successful
+successfully
+successor
 such
+suffixed
 suggested
 suit
 suitable
@@ -1967,11 +2081,14 @@ super
 superclass
 superclasses
 superset
+supplied
+supply
 support
 supported
 supporting
 supports
 suppose
+supposed
 sure
 surefire
 surface
@@ -2013,6 +2130,7 @@ templates
 templating
 temporal
 ten
+tend
 tends
 term
 terminal
@@ -2078,9 +2196,11 @@ topics
 total
 trace
 tracing
+tracks
 traditional
 traditionally
 traffic
+train
 transacted
 transaction
 transactional
@@ -2088,6 +2208,7 @@ transactions
 transferred
 transformed
 transforms
+transition
 transitive
 transitively
 transparently
@@ -2110,6 +2231,7 @@ tune
 tunnel
 tunneling
 turn
+turning
 tutorial
 twice
 two
@@ -2122,6 +2244,7 @@ uber
 unauthenticated
 unauthorized
 unavailable
+unchanged
 unconditionally
 under
 underlying
@@ -2152,6 +2275,8 @@ updates
 upgrade
 upgraded
 upgrading
+upload
+uploading
 upon
 upper
 uptime
@@ -2167,6 +2292,7 @@ uses
 using
 usual
 usually
+utc
 utilities
 utility
 valid
@@ -2188,16 +2314,20 @@ vendor
 verbatim
 verification
 verify
+verifying
 version
 versioning
 versions
 very
 via
 view
+virtual
 visit
 visiting
 vs
+waiting
 want
+wanted
 wants
 warn
 warning
@@ -2212,6 +2342,7 @@ we've
 weak
 wealth
 web
+website
 wed
 welcome
 well
@@ -2243,6 +2374,7 @@ won't
 word
 work
 worked
+workflow
 working
 works
 world
@@ -2252,6 +2384,7 @@ wrapped
 wrapper
 wrappers
 wrapping
+wraps
 write
 writer
 writers

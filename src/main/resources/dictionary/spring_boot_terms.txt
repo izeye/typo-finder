@@ -11,12 +11,14 @@ env
 ex
 flyway
 httpsessions
+jarfile
 logfile
 keyspace
 mem
 millis
 oauth
 rabbitmq
+releasetrain
 systemload
 tsdb
 whitelabel

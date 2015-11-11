@@ -1,7 +1,11 @@
 autowire
 autowired
 basename
+buildpack
+buildpacks
 cfapps
+cloudfoundry
+fowler
 gs
 hsql
 propdeps
@@ -9,5 +13,7 @@ pws
 repo
 spel
 springframework
+sr
+vcap
 webmvc
 ws

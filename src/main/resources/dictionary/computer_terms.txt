@@ -1,3 +1,4 @@
+amazon
 amqp
 ansi
 ant
@@ -8,11 +9,16 @@ artemis
 asm
 aspectj
 atomikos
+awk
 backports
+balancers
 bash
 bitronix
 blob
+blogs
+bom
 boolean
+boxfuse
 btm
 bytecode
 cache
@@ -23,7 +29,9 @@ callback
 callbacks
 cassandra
 catalina
+cd
 charset
+chown
 chrome
 classloader
 classloaders
@@ -105,6 +113,7 @@ ide
 ides
 infinispan
 init
+inline
 intellij
 io
 ip
@@ -146,6 +155,7 @@ jvm
 jwt
 jwts
 kb
+kib
 lib
 linkedin
 linux
@@ -175,6 +185,8 @@ mdc
 meta
 metadata
 mf
+mib
+microsoft
 middleware
 mkdir
 mockito
@@ -197,17 +209,22 @@ ops
 oracle
 orm
 os
+paas
 pdf
 pem
 pid
+pids
 pivotal
+pluggable
 pojo
 pom
 poms
 postfix
 postgres
 putty
+rc
 readme
+reconfiguration
 redis
 rest
 restful
@@ -237,6 +254,9 @@ stomp
 string
 strings
 sts
+symlink
+symlinked
+syslog
 subdirectory
 sudo
 superuser
@@ -245,6 +265,7 @@ tcp
 telnet
 thymeleaf
 tomcat
+tsd
 tvf
 twitter
 txt
@@ -260,7 +281,6 @@ usr
 utf
 util
 utils
-var
 velocity
 vm
 void
@@ -270,6 +290,7 @@ webjars
 wicket
 wiki
 wikipedia
+winsw
 www
 xa
 xhtml
