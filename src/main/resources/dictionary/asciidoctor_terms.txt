@@ -1,7 +1,9 @@
 adoc
 cols
+doctype
 endif
 ifeval
 ifndef
 partintro
 subs
+toclevels

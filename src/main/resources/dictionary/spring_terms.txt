@@ -8,11 +8,14 @@ cloudfoundry
 fowler
 gs
 hsql
+htmlsingle
+libs
 propdeps
 pws
 repo
 spel
 springframework
+springloaded
 sr
 vcap
 webmvc

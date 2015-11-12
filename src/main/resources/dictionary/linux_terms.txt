@@ -1,4 +1,5 @@
 grep
+lib
 ln
 man
 nohup
