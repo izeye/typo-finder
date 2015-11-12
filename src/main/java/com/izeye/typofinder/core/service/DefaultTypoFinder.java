@@ -9,9 +9,12 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -80,10 +83,11 @@ public class DefaultTypoFinder implements TypoFinder {
 			ignored.forEach(key -> typos.remove(key));
 		}
 		
-		org.springframework.core.io.Resource ignoredWordFile = properties.getIgnoredWordFile();
-		if (ignoredWordFile != null) {
+		
+		String[] ignoredWordFiles = properties.getIgnoredWordFiles();
+		for (String ignoredWordFile : ignoredWordFiles) {
 			try {
-				List<String> ignoredWords = IOUtils.readLines(ignoredWordFile.getInputStream());
+				List<String> ignoredWords = IOUtils.readLines(new ClassPathResource(ignoredWordFile).getInputStream());
 				ignoredWords.forEach(key -> typos.remove(key));
 			} catch (IOException ex) {
 				throw new RuntimeException(ex);
@@ -91,7 +95,17 @@ public class DefaultTypoFinder implements TypoFinder {
 		}
 		return new TreeSet<>(typos.values());
 	}
-	
+
+	@Override
+	public Set<WordToken> findTypos(File file) {
+		try {
+			String text = IOUtils.toString(new FileReader(file));
+			return findTypos(text);
+		} catch (IOException ex) {
+			throw new RuntimeException(ex);
+		}
+	}
+
 	private boolean containsInAnyDictionary(String word) {
 		return englishWordsDictionary.contains(word)
 				|| computerTermsDictionary.contains(word);

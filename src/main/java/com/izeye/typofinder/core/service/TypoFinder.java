@@ -2,6 +2,7 @@ package com.izeye.typofinder.core.service;
 
 import com.izeye.typofinder.core.domain.WordToken;
 
+import java.io.File;
 import java.util.Set;
 
 /**
@@ -10,5 +11,7 @@ import java.util.Set;
 public interface TypoFinder {
 	
 	Set<WordToken> findTypos(String text);
+
+	Set<WordToken> findTypos(File file);
 	
 }

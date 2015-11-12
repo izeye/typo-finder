@@ -1,5 +1,6 @@
 autowire
 autowired
+autowiring
 basename
 buildpack
 buildpacks
@@ -9,6 +10,7 @@ fowler
 gs
 hsql
 htmlsingle
+impl
 libs
 propdeps
 pws

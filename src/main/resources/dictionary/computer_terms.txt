@@ -13,6 +13,7 @@ atomikos
 awk
 backports
 balancers
+basenames
 bash
 bitronix
 blob
@@ -29,6 +30,7 @@ caches
 caching
 callback
 callbacks
+camelcase
 cassandra
 catalina
 cd
@@ -52,8 +54,11 @@ crud
 csrf
 css
 ctrl
+curie
+curies
 curl
 cxf
+dao
 db
 dbcp
 ddl
@@ -63,10 +68,13 @@ debugger
 debugging
 derby
 dereferencers
+dereferencing
 deserialization
+deserialized
 dev
 dir
 dirs
+dml
 docker
 docs
 dropwizard
@@ -79,6 +87,7 @@ elasticsearch
 epub
 facebook
 favicon
+filesystem
 firefox
 fluentd
 foo
@@ -96,6 +105,7 @@ gradle
 grails
 graphite
 groovy
+gson
 guava
 gz
 gzip
@@ -170,6 +180,7 @@ jwt
 jwts
 kb
 kib
+kilobyte
 linkedin
 linux
 liquibase
@@ -190,6 +201,7 @@ ls
 lucene
 mac
 macports
+macro
 macros
 markup
 marshal
@@ -197,6 +209,7 @@ maven
 mb
 md
 mdc
+megabyte
 meta
 metadata
 mf
@@ -229,6 +242,7 @@ os
 paas
 pdf
 pem
+php
 pid
 pids
 pivotal
@@ -238,12 +252,15 @@ pom
 poms
 postfix
 postgres
+prefetch
+pub
 putty
 rc
 reactor
 readme
 reconfiguration
 redis
+regex
 rest
 restful
 rs
@@ -262,14 +279,18 @@ servlets
 sh
 sha
 slf
+smtp
 snakeyaml
 solr
 spock
+spring
 sql
+sqls
 ssh
 ssl
 sso
 stackoverflow
+stacktrace
 statsd
 stax
 stdout
@@ -301,6 +322,7 @@ uncompressed
 undertow
 uninstall
 unix
+unzip
 urandom
 uri
 url

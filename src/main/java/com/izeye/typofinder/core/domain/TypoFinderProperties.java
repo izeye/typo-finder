@@ -2,7 +2,6 @@ package com.izeye.typofinder.core.domain;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.core.io.Resource;
 
 /**
  * Created by izeye on 15. 10. 25..
@@ -12,7 +11,7 @@ import org.springframework.core.io.Resource;
 public class TypoFinderProperties {
 	
 	private boolean ignoreSingleCharacterWords;
-	private Resource ignoredWordFile;
+	private String[] ignoredWordFiles;
 	private boolean allowCamelCase;
 	
 }
