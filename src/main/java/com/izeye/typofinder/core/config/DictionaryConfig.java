@@ -32,6 +32,9 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_SPRING_TERMS = "classpath:dictionary/spring_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_BOOT_TERMS = "classpath:dictionary/spring_boot_terms.txt";
 	private static final String RESOURCE_LOCATION_TOMCAT_TERMS = "classpath:dictionary/tomcat_terms.txt";
+	private static final String RESOURCE_LOCATION_UNDERTOW_TERMS = "classpath:dictionary/undertow_terms.txt";
+	
+	private static final String RESOURCE_LOCATION_PERSON_NAMES = "classpath:dictionary/person_names.txt";
 	
 	@Bean
 	public Dictionary englishWordsDictionary() {
@@ -58,7 +61,13 @@ public class DictionaryConfig {
 				RESOURCE_LOCATION_MAVEN_TERMS,
 				RESOURCE_LOCATION_SPRING_TERMS,
 				RESOURCE_LOCATION_SPRING_BOOT_TERMS,
-				RESOURCE_LOCATION_TOMCAT_TERMS);
+				RESOURCE_LOCATION_TOMCAT_TERMS,
+				RESOURCE_LOCATION_UNDERTOW_TERMS);
+	}
+	
+	@Bean
+	 public Dictionary miscDictionary() {
+		return new DefaultDictionary(RESOURCE_LOCATION_PERSON_NAMES);
 	}
 	
 }

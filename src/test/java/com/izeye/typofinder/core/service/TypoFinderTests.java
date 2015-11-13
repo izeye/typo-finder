@@ -60,7 +60,10 @@ public class TypoFinderTests {
 		fileExtensions.add("java");
 		fileExtensions.add("adoc");
 
-		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions);
+		Set<String> exclusions = new HashSet<>();
+		exclusions.add("MimeMappings.java");
+		
+		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
 		int size = allFiles.size();
 		for (int i = 0; i < size; i++) {
 			File file = allFiles.get(i);

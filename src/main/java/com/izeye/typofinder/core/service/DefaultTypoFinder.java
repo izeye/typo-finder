@@ -39,6 +39,9 @@ public class DefaultTypoFinder implements TypoFinder {
 	@Resource
 	private Dictionary computerTermsDictionary;
 	
+	@Resource
+	private Dictionary miscDictionary;
+	
 	private final Logger log = LoggerFactory.getLogger(getClass());
 
 	@Override
@@ -108,7 +111,8 @@ public class DefaultTypoFinder implements TypoFinder {
 
 	private boolean containsInAnyDictionary(String word) {
 		return englishWordsDictionary.contains(word)
-				|| computerTermsDictionary.contains(word);
+				|| computerTermsDictionary.contains(word)
+				|| miscDictionary.contains(word);
 	}
 	
 }

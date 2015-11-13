@@ -24,14 +24,16 @@ public class FileUtilsTests {
 	@Test
 	public void testFindAllFiles() {
 		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/");
-		List<File> allFiles = FileUtils.findAllFiles(directory, Collections.singleton("adoc"), false);
+		List<File> allFiles = FileUtils.findAllFiles(
+				directory, Collections.singleton("adoc"), Collections.emptySet(), false);
 		allFiles.forEach(System.out::println);
 	}
 
 	@Test
 	public void testFindAllFilesIncludingSubdirectories() {
 		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/");
-		List<File> allFiles = FileUtils.findAllFiles(directory, Collections.singleton("java"));
+		List<File> allFiles = FileUtils.findAllFiles(
+				directory, Collections.singleton("java"), Collections.emptySet());
 		allFiles.forEach(System.out::println);
 		System.out.println("Total count: " + allFiles.size());
 	}

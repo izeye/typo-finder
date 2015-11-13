@@ -1,5 +1,8 @@
+em
+gt
 href
 iframe
 li
+lt
 quot
 ul

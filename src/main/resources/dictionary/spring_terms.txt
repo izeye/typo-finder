@@ -2,9 +2,11 @@ autowire
 autowired
 autowiring
 basename
+beanvalidation
 buildpack
 buildpacks
 cfapps
+classreading
 cloudfoundry
 fowler
 gs
@@ -12,6 +14,8 @@ hsql
 htmlsingle
 impl
 libs
+oxm
+persistenceunit
 propdeps
 pws
 repo
@@ -19,6 +23,7 @@ spel
 springframework
 springloaded
 sr
+tx
 vcap
 webmvc
 ws

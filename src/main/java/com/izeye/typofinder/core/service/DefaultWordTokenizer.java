@@ -27,12 +27,30 @@ public class DefaultWordTokenizer implements WordTokenizer {
 	@Override
 	public WordToken next() {
 		StringBuilder sb = new StringBuilder();
-		for (; index < text.length(); index++) {
+		int textLength = text.length();
+		for (; index < textLength; index++) {
 			char c = text.charAt(index);
 			if (Character.isAlphabetic(c)) {
 				sb.append(c);
 			}
 			else {
+				// Skip newline.
+				if (c == '\\' && index + 1 < textLength) {
+					switch (text.charAt(index + 1)) {
+						case 'n':
+							index++;
+							if (sb.length() > 0) {
+								index++;
+								return createWordToken(sb.toString());
+							}
+							break;
+							
+						default:
+							break;
+					}
+				}
+				
+				// Handle contracted form like I'm.
 				if (sb.length() > 0 && c == '\'') {
 					boolean contractedFormFound = false;
 					for (String contractedForm : CONTRACTED_FORMS) {

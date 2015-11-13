@@ -15,6 +15,7 @@ datasource
 devicedelegatingviewresolver
 devtools
 diskspace
+docbase
 env
 ex
 exceptiontranslation
@@ -28,9 +29,11 @@ keyspace
 mainclass
 mem
 millis
+msg
 oauth
 obj
 postgresql
+props
 rabbitmq
 releasetrain
 sendgrid
