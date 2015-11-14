@@ -27,12 +27,14 @@ jarfile
 logfile
 keyspace
 mainclass
+mbean
 mem
 millis
 msg
 oauth
 obj
 postgresql
+prop
 props
 rabbitmq
 releasetrain

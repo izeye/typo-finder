@@ -1,7 +1,10 @@
 abs
+acc
+addr
 agentlib
 antlr
 aopalliance
+arg
 args
 aspectjrt
 aspectjweaver
@@ -26,10 +29,13 @@ el
 entitymanager
 enum
 enums
+eq
 err
 fasterxml
 fileupload
 flywaydb
+generic
+generics
 getenv
 hh
 hikari
@@ -45,12 +51,14 @@ jasper
 javassist
 javax
 jaxrpc
+jboss
 jcl
 jdom
 jdwp
 jks
 joda
 joran
+jsessionid
 jsn
 jsp
 jsps
@@ -69,6 +77,7 @@ println
 rawtypes
 rome
 sb
+sf
 spi
 src
 ss

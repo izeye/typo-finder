@@ -59,9 +59,11 @@ public class TypoFinderTests {
 		Set<String> fileExtensions = new HashSet<>();
 		fileExtensions.add("java");
 		fileExtensions.add("adoc");
-
+		
 		Set<String> exclusions = new HashSet<>();
 		exclusions.add("MimeMappings.java");
+		exclusions.add("ConfigFileApplicationListenerTests.java");
+		exclusions.add("SpringBootMockServletContextTests.java");
 		
 		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
 		int size = allFiles.size();

@@ -14,10 +14,12 @@ hsql
 htmlsingle
 impl
 libs
+mav
 oxm
 persistenceunit
 propdeps
 pws
+rel
 repo
 spel
 springframework

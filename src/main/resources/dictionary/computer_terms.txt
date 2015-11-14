@@ -1,3 +1,4 @@
+ascii
 ajp
 amazon
 amqp
@@ -17,6 +18,7 @@ awk
 azure
 backports
 balancers
+bamboo
 bar
 basenames
 bash
@@ -43,6 +45,7 @@ camelcase
 cassandra
 catalina
 cd
+cgi
 charset
 chown
 chrome
@@ -94,12 +97,14 @@ dropwizard
 dsl
 ear
 eclipse
+eh
 ehcache
 ejb
 elasticsearch
 epub
 facebook
 favicon
+fds
 filesystem
 firefox
 fluentd
@@ -248,9 +253,11 @@ namespace
 namespaces
 netty
 nio
+nondefault
 nosql
 null
 nullable
+opcodes
 opentsdb
 ops
 oracle
@@ -264,6 +271,7 @@ php
 pid
 pids
 pivotal
+pkcs
 pluggable
 pojo
 pom
@@ -324,6 +332,8 @@ stomp
 string
 strings
 sts
+stub
+stubbing
 sun
 symlink
 symlinked
@@ -379,6 +389,7 @@ winsw
 woodstox
 wsdl
 www
+wwwroot
 xa
 xerces
 xhtml
