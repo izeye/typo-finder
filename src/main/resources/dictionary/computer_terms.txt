@@ -47,6 +47,7 @@ catalina
 cd
 cgi
 charset
+checksum
 chown
 chrome
 class
@@ -93,6 +94,7 @@ dml
 docker
 docs
 dom
+dos
 dropwizard
 dsl
 ear
@@ -210,6 +212,7 @@ livereload
 localhost
 logback
 log
+logfiles
 logged
 logger
 loggers
@@ -307,7 +310,9 @@ sdks
 se
 serializable
 serialization
+serialize
 serialized
+serializer
 servlet
 servlets
 sh
@@ -355,6 +360,7 @@ thymeleaf
 tls
 tomcat
 tsd
+ttl
 tvf
 twitter
 txt
@@ -375,6 +381,7 @@ usr
 utf
 util
 utils
+uuid
 velocity
 vm
 void

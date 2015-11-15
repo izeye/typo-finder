@@ -9,6 +9,7 @@ acloudyspringtime
 acme
 activeprofilerepro
 adf
+adhoctestsuite
 aimonetti
 amiibcgkc
 andrey
@@ -30,6 +31,7 @@ bbba
 bbbb
 bbbbb
 bd
+beandesc
 benson
 bex
 bg
@@ -72,6 +74,7 @@ da
 dat
 datageekery
 datasources
+datastax
 dave
 david
 dbpass
@@ -89,6 +92,7 @@ djava
 doesnotexist
 parseargsdoesntreplace
 dontrestoreexpired
+dp
 dps
 dserver
 dskiptests
@@ -128,6 +132,7 @@ gh
 globalsettings
 gorylenko
 grün
+healthindicator
 herokuapp
 hihlovskiy
 hotswapping
@@ -148,6 +153,7 @@ joao
 josh
 jruby
 juergen
+keypath
 kohsuke
 ktoso
 len
@@ -220,6 +226,7 @@ pwebb
 pwmbp
 pxlsgvpsc
 qos
+querybuilder
 quickstart
 rab
 raphael

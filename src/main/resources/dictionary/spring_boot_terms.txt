@@ -3,6 +3,7 @@ activemq
 auth
 autoconfig
 autoconfigure
+avg
 basedir
 beanfactory
 beaninfo
@@ -27,7 +28,6 @@ jarfile
 logfile
 keyspace
 mainclass
-mbean
 mem
 millis
 msg

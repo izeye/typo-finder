@@ -13,6 +13,7 @@ gs
 hsql
 htmlsingle
 impl
+javamail
 libs
 mav
 oxm
@@ -20,6 +21,7 @@ persistenceunit
 propdeps
 pws
 rel
+rels
 repo
 spel
 springframework

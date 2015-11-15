@@ -14,7 +14,7 @@ public class DefaultWordTokenizer implements WordTokenizer {
 		"'ve" // For contracted form with `have` like `you've`
 	};
 	
-	private static final int CONTEXT_OFFSET = 10;
+	private static final int CONTEXT_OFFSET = 20;
 	
 	private final String text;
 	

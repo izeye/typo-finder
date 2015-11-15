@@ -45,6 +45,7 @@ inet
 inf
 instanceof
 int
+isnan
 jaas
 jandex
 jasper
@@ -68,8 +69,10 @@ juli
 keystore
 lang
 linkplain
+mbean
 mkdirs
 mm
+mx
 org
 param
 params
@@ -78,6 +81,7 @@ rawtypes
 rome
 sb
 sf
+solrj
 spi
 src
 ss

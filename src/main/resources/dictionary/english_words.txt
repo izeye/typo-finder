@@ -105,6 +105,7 @@ ago
 agreed
 ahead
 aid
+aims
 alert
 alerted
 algorithm
@@ -142,6 +143,7 @@ amongst
 amount
 amounts
 an
+analysed
 analysis
 analytics
 analyzed
@@ -216,6 +218,7 @@ aspect
 aspects
 assemble
 assembled
+assembler
 assembling
 assert
 assertions
@@ -258,11 +261,15 @@ authenticated
 authentication
 authenticator
 author
+authorities
+authority
 authorization
 authorize
 authorized
 authors
 auto
+autodetect
+autodetection
 automatic
 automatically
 available
@@ -301,6 +308,7 @@ bean
 beans
 bearer
 bearing
+beautify
 beats
 because
 become
@@ -399,6 +407,7 @@ bug
 bugs
 build
 builder
+builders
 building
 builds
 built
@@ -411,8 +420,10 @@ busting
 but
 button
 by
+bye
 bypass
 calendar
+calculated
 call
 callable
 called
@@ -427,6 +438,7 @@ candidate
 candidates
 cannot
 canonical
+cap
 capabilities
 capable
 capacity
@@ -454,6 +466,7 @@ cause
 caused
 causes
 causing
+cautiously
 center
 central
 centrally
@@ -538,6 +551,7 @@ collected
 collecting
 collection
 collections
+collector
 collects
 colon
 color
@@ -621,6 +635,7 @@ configurator
 configure
 configured
 configurer
+configurers
 configures
 configuring
 conflict
@@ -660,6 +675,7 @@ consume
 consumed
 consumer
 consumers
+consumes
 consuming
 contact
 contain
@@ -969,6 +985,7 @@ downloading
 downstream
 downtime
 drawn
+drift
 drive
 driven
 driver
@@ -1011,6 +1028,7 @@ effective
 effectively
 effects
 efficient
+eight
 either
 elapsed
 elastic
@@ -1032,9 +1050,11 @@ empty
 enable
 enabled
 enablement
+enabler
 enables
 enabling
 encapsulate
+encapsulates
 enclosed
 enclosing
 encodable
@@ -1239,6 +1259,7 @@ fee
 feedback
 feeding
 feel
+fell
 fetch
 fetches
 few
@@ -1266,6 +1287,7 @@ finished
 finishes
 fired
 firewall
+firing
 first
 fit
 five
@@ -1285,11 +1307,13 @@ fledged
 flexibility
 flexible
 flight
+float
 flub
 fluent
 flush
 flushed
 fly
+focus
 folder
 follow
 followed
@@ -1347,6 +1371,7 @@ fuss
 future
 fuzzy
 garbage
+gateway
 gathered
 gathering
 gathers
@@ -1440,10 +1465,12 @@ hat
 have
 haven't
 having
+head
 header
 headers
 headless
 health
+healths
 heap
 heartbeat
 heavily
@@ -1473,7 +1500,9 @@ highly
 hint
 hints
 histogram
+history
 hit
+hits
 hitting
 hoc
 hold
@@ -1520,6 +1549,7 @@ if
 ignorable
 ignore
 ignored
+ignores
 ignoring
 illegal
 image
@@ -1573,6 +1603,8 @@ indicate
 indicated
 indicates
 indicating
+indication
+indications
 indicator
 indicators
 indirectly
@@ -1672,6 +1704,7 @@ into
 introduced
 introducing
 introduction
+introspect
 introspection
 introspector
 invalid
@@ -1726,6 +1759,7 @@ kit
 know
 known
 knows
+kosher
 label
 labels
 laid
@@ -1750,6 +1784,7 @@ lazy
 lead
 leading
 leak
+leaking
 learn
 learning
 least
@@ -1831,6 +1866,7 @@ location
 locations
 locator
 lock
+locks
 logic
 logical
 long
@@ -1850,6 +1886,7 @@ lower
 lowercase
 lowest
 machine
+machinery
 machines
 made
 magenta
@@ -1891,10 +1928,12 @@ mapping
 mappings
 maps
 mar
+marginally
 mark
 marked
 marker
 marking
+masked
 master
 match
 matched
@@ -1918,6 +1957,7 @@ meaning
 means
 meant
 meantime
+measures
 mechanical
 mechanism
 mechanisms
@@ -1967,6 +2007,7 @@ mirrors
 misconfiguration
 mismatch
 miss
+misses
 missing
 mistake
 mistakes
@@ -1984,6 +2025,7 @@ modes
 modification
 modifications
 modified
+modifier
 modify
 modifying
 module
@@ -2026,6 +2068,7 @@ need
 needed
 needing
 needs
+negated
 negative
 negotiate
 negotiating
@@ -2152,6 +2195,7 @@ ours
 ourselves
 out
 outcome
+outcomes
 outer
 outgoing
 output
@@ -2228,6 +2272,7 @@ peek
 peer
 people
 per
+percentage
 perfectly
 perform
 performance
@@ -2235,11 +2280,13 @@ performed
 performs
 perhaps
 period
+periodic
 periods
 perm
 permissions
 permit
 permits
+permitted
 persist
 persisted
 persistence
@@ -2333,6 +2380,7 @@ prepared
 preparing
 prepend
 prepended
+prerequisite
 presence
 present
 preserved
@@ -2388,6 +2436,7 @@ programming
 progress
 project
 projects
+prompted
 propagate
 propagated
 propagates
@@ -2425,6 +2474,8 @@ publishes
 publishing
 pull
 pulled
+pulls
+pumped
 purpose
 purposes
 push
@@ -2449,15 +2500,18 @@ quickly
 quiet
 quit
 quite
+quote
 quoted
 quotes
 rabbit
+racily
 radically
 raised
 ran
 random
 randomly
 range
+rate
 rather
 ratio
 raw
@@ -2502,10 +2556,12 @@ recursively
 red
 redefine
 redirect
+redirection
 redirects
 reduce
 reduces
 reducing
+reentrant
 ref
 refer
 reference
@@ -2582,6 +2638,9 @@ repeatedly
 replace
 replaced
 replacement
+replacements
+replacer
+replacers
 replaces
 replacing
 replay
@@ -2635,6 +2694,7 @@ restarts
 restore
 restored
 restoring
+restrict
 restricted
 restrictions
 result
@@ -2689,6 +2749,7 @@ sample
 samples
 sanitize
 sanitized
+sanitizer
 sanity
 save
 saved
@@ -2700,9 +2761,12 @@ scan
 scanned
 scanner
 scanning
+scavenge
 scenario
 scenarios
 schedule
+scheduled
+scheduling
 schema
 schemas
 scheme
@@ -2744,11 +2808,13 @@ select
 selected
 selection
 selector
+selects
 self
 semantic
 semantics
 send
 sender
+senders
 sending
 sends
 sensible
@@ -2764,6 +2830,7 @@ separators
 sequence
 sequences
 serial
+series
 serve
 served
 server
@@ -2782,6 +2849,7 @@ setters
 setting
 settings
 setup
+seven
 several
 severe
 severity
@@ -2812,6 +2880,7 @@ shows
 shut
 shutdown
 shutdowns
+shutting
 sibling
 side
 sign
@@ -2866,6 +2935,7 @@ social
 socket
 sockets
 software
+solely
 solution
 solutions
 solve
@@ -2889,9 +2959,11 @@ spanning
 speaking
 spec
 special
+specialized
 specific
 specifically
 specification
+specifics
 specified
 specifies
 specify
@@ -2908,6 +2980,7 @@ stable
 stack
 stage
 staging
+stale
 stamp
 stand
 standalone
@@ -2954,6 +3027,7 @@ stream
 strict
 strip
 stripped
+stripper
 strives
 strong
 strongly
@@ -2968,11 +3042,13 @@ styling
 sub
 submit
 subscribers
+subscribing
 subsequent
 subsequently
 subset
 substitute
 substituting
+subsystem
 subtle
 succeeds
 success
@@ -3017,6 +3093,7 @@ swallow
 swallowed
 swap
 swapping
+sweep
 switch
 switched
 switches
@@ -3049,6 +3126,7 @@ task
 tasks
 taste
 teach
+tear
 technical
 technically
 technique
@@ -3168,6 +3246,7 @@ transferred
 transform
 transformations
 transformed
+transformer
 transforms
 transition
 transitive
@@ -3207,6 +3286,7 @@ turbo
 turn
 turned
 turning
+turns
 tutorial
 tweak
 tweaks
@@ -3229,6 +3309,7 @@ uncapitalize
 uncaught
 unchanged
 unchecked
+uncommitted
 unconditionally
 unconfigured
 undefined
@@ -3249,12 +3330,15 @@ unique
 uniquely
 uniqueness
 unit
+unity
 unknown
 unless
 unlike
 unlikely
 unlimited
 unloaded
+unlock
+unmapped
 unmatched
 unmerged
 unmodifiable
@@ -3268,12 +3352,15 @@ unprocessed
 unqualified
 unqualify
 unregister
+unrestricted
 unsafe
 unspecified
 unsuccessful
 unsupported
 until
+unused
 unusual
+unwanted
 unwrapped
 up
 update
