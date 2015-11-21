@@ -6,6 +6,7 @@ destfile
 exejar
 ext
 fileset
+refid
 rev
 srcdir
 todir

@@ -1,0 +1,6 @@
+asf
+itl
+nist
+sega
+sony
+teradata

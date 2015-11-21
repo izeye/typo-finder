@@ -1,6 +1,10 @@
 aether
 exec
+failsafe
 mojo
+mvnw
+readonly
+takari
 xmlns
 xmlschema
 xsd

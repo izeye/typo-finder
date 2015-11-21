@@ -3,8 +3,12 @@ lc
 lib
 ln
 man
+mv
 nohup
 ps
+rm
+sig
+sigint
 systemd
 tmp
 var

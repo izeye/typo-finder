@@ -19,6 +19,7 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_ASCIIDOCTOR_TERMS = "classpath:dictionary/asciidoctor_terms.txt";
 	private static final String RESOURCE_LOCATION_BASH_TERMS = "classpath:dictionary/bash_terms.txt";
 	private static final String RESOURCE_LOCATION_DOMAIN_TERMS = "classpath:dictionary/domain_terms.txt";
+	private static final String RESOURCE_LOCATION_GIT_TERMS = "classpath:dictionary/git_terms.txt";
 	private static final String RESOURCE_LOCATION_GRADLE_TERMS = "classpath:dictionary/gradle_terms.txt";
 	private static final String RESOURCE_LOCATION_GROOVY_TERMS = "classpath:dictionary/groovy_terms.txt";
 	private static final String RESOURCE_LOCATION_HEROKU_TERMS = "classpath:dictionary/heroku_terms.txt";
@@ -29,11 +30,14 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_JWT_TERMS = "classpath:dictionary/jwt_terms.txt";
 	private static final String RESOURCE_LOCATION_LINUX_TERMS = "classpath:dictionary/linux_terms.txt";
 	private static final String RESOURCE_LOCATION_MAVEN_TERMS = "classpath:dictionary/maven_terms.txt";
+	private static final String RESOURCE_LOCATION_REDIS_TERMS = "classpath:dictionary/redis_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_TERMS = "classpath:dictionary/spring_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_BOOT_TERMS = "classpath:dictionary/spring_boot_terms.txt";
 	private static final String RESOURCE_LOCATION_TOMCAT_TERMS = "classpath:dictionary/tomcat_terms.txt";
 	private static final String RESOURCE_LOCATION_UNDERTOW_TERMS = "classpath:dictionary/undertow_terms.txt";
-	
+
+
+	private static final String RESOURCE_LOCATION_ORGANIZATION_TERMS = "classpath:dictionary/organization_terms.txt";
 	private static final String RESOURCE_LOCATION_PERSON_NAMES = "classpath:dictionary/person_names.txt";
 	
 	@Bean
@@ -49,6 +53,7 @@ public class DictionaryConfig {
 				RESOURCE_LOCATION_ASCIIDOCTOR_TERMS,
 				RESOURCE_LOCATION_BASH_TERMS,
 				RESOURCE_LOCATION_DOMAIN_TERMS,
+				RESOURCE_LOCATION_GIT_TERMS,
 				RESOURCE_LOCATION_GRADLE_TERMS,
 				RESOURCE_LOCATION_GROOVY_TERMS,
 				RESOURCE_LOCATION_HEROKU_TERMS,
@@ -59,6 +64,7 @@ public class DictionaryConfig {
 				RESOURCE_LOCATION_JWT_TERMS,
 				RESOURCE_LOCATION_LINUX_TERMS,
 				RESOURCE_LOCATION_MAVEN_TERMS,
+				RESOURCE_LOCATION_REDIS_TERMS,
 				RESOURCE_LOCATION_SPRING_TERMS,
 				RESOURCE_LOCATION_SPRING_BOOT_TERMS,
 				RESOURCE_LOCATION_TOMCAT_TERMS,
@@ -67,7 +73,8 @@ public class DictionaryConfig {
 	
 	@Bean
 	 public Dictionary miscDictionary() {
-		return new DefaultDictionary(RESOURCE_LOCATION_PERSON_NAMES);
+		return new DefaultDictionary(RESOURCE_LOCATION_ORGANIZATION_TERMS,
+				RESOURCE_LOCATION_PERSON_NAMES);
 	}
 	
 }

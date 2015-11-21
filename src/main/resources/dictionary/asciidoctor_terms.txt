@@ -1,9 +1,13 @@
+asciidoctor
 adoc
+asciidoc
 cols
 doctype
 endif
 ifeval
 ifndef
+idprefix
 partintro
+sectanchors
 subs
 toclevels

@@ -1,8 +1,14 @@
+div
 em
 gt
 href
+htm
 iframe
 li
 lt
+ol
 quot
+span
+tbody
+th
 ul

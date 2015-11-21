@@ -55,15 +55,21 @@ public class TypoFinderTests {
 	public void testFindTyposInDirectory() throws IOException {
 //		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/");
 		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/");
+//		File directory = new File("/Users/izeye/IdeaProjects/spring-restdocs/");
 		
 		Set<String> fileExtensions = new HashSet<>();
 		fileExtensions.add("java");
 		fileExtensions.add("adoc");
+		fileExtensions.add("vm");
 		
 		Set<String> exclusions = new HashSet<>();
+		exclusions.add("target");
 		exclusions.add("MimeMappings.java");
 		exclusions.add("ConfigFileApplicationListenerTests.java");
 		exclusions.add("SpringBootMockServletContextTests.java");
+		exclusions.add("ResourceServerTokenServicesConfigurationTests.java");
+		exclusions.add("SampleClient.java");
+		exclusions.add("SampleSecureOAuth2Application.java");
 		
 		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
 		int size = allFiles.size();
@@ -83,6 +89,14 @@ public class TypoFinderTests {
 
 			System.out.printf("%d of %d file(s) succeeded.%n", i + 1, size);
 		}
+	}
+	
+	@Test
+	public void testFindTyposWithText() {
+		// FIXME: How to handle this kind of camelCase?
+		String text = "localhostIsIPv6";
+		Set<WordToken> typos = this.typoFinder.findTypos(text);
+		System.out.println(typos);
 	}
 	
 }
