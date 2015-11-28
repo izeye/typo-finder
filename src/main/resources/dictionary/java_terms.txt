@@ -103,6 +103,7 @@ mm
 modelmapper
 multiline
 mx
+mybatis
 nl
 npe
 objenesis
