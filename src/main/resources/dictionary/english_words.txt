@@ -2184,6 +2184,7 @@ kind
 kinds
 kit
 know
+knowledge
 known
 knows
 kosher
