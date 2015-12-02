@@ -659,6 +659,7 @@ code
 codec
 coded
 codes
+coding
 coerce
 coerced
 coercible
@@ -1631,6 +1632,7 @@ followed
 following
 follows
 font
+food
 fool
 footprint
 for
