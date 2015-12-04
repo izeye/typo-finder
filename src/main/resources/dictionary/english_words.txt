@@ -633,6 +633,7 @@ classifiers
 clean
 cleaned
 cleanly
+cleans
 cleanup
 clear
 cleared
