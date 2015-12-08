@@ -975,6 +975,7 @@ dear
 death
 decide
 decides
+deciding
 decimal
 decision
 decisions

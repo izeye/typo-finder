@@ -109,6 +109,8 @@ deserialization
 deserialize
 deserialized
 deserializer
+deserializers
+deserializing
 dev
 dir
 dirs
@@ -381,6 +383,8 @@ serialization
 serialize
 serialized
 serializer
+serializers
+serializing
 servlet
 servlets
 sh
