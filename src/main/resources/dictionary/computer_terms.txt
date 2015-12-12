@@ -261,6 +261,7 @@ lombok
 longs
 lookup
 lookups
+loopback
 ls
 lucene
 mac
