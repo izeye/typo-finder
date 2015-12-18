@@ -2061,6 +2061,7 @@ instances
 instant
 instantiate
 instantiated
+instantiating
 instantiation
 instantly
 instead
@@ -2082,6 +2083,7 @@ integrity
 intelligent
 intend
 intended
+intentional
 intentionally
 interact
 interacting
@@ -2598,6 +2600,7 @@ normally
 north
 not
 notable
+notably
 notation
 note
 notes
@@ -2998,6 +3001,7 @@ programmatically
 programming
 progress
 progressed
+prohibited
 project
 projects
 prompt
@@ -3955,6 +3959,7 @@ tick
 ticks
 tied
 tiger
+tilde
 tiles
 time
 timed

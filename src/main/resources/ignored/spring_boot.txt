@@ -135,6 +135,7 @@ der
 dest
 devguide
 dfb
+dflt
 dfoo
 dispatcherservlet
 djava
@@ -187,6 +188,7 @@ fbca
 fdf
 fdfcf
 fg
+fileonly
 filewatcher
 firstname
 flapdoodle
@@ -300,6 +302,7 @@ mongoserver
 multiconnector
 mxab
 myapp
+myapplication
 mybean
 mybeanclass
 myclientid
@@ -359,6 +362,7 @@ onpropertyaorbcondition
 oof
 openjdk
 openshift
+orgspring
 oss
 ost
 osx
@@ -461,6 +465,7 @@ sssshhh
 st
 staticcontent
 str
+strval
 su
 substvars
 supersecret
