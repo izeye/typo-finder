@@ -8,6 +8,7 @@ artem
 arthur
 artur
 badie
+beaudet
 benedikt
 bergamin
 biju
@@ -42,6 +43,7 @@ eddú
 eder
 edmeier
 egorov
+etienne
 frederick
 fullarton
 gary
@@ -56,6 +58,7 @@ hoeller
 husen
 hwan
 ingram
+jacques
 jakub
 janne
 jay

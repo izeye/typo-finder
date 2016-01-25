@@ -130,6 +130,7 @@ elasticsearch
 endian
 eocd
 epub
+esc
 eval
 exe
 facebook
@@ -447,6 +448,7 @@ tls
 tomcat
 tsd
 ttl
+tty
 tvf
 twitter
 txt

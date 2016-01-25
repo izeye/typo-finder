@@ -27,6 +27,7 @@ dataformat
 datatype
 ddebug
 deser
+dotall
 dt
 eap
 ecj

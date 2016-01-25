@@ -6,6 +6,7 @@ ab
 abc
 abcd
 abcdef
+abstrsyncdockercmdexec
 ac
 aca
 acloudyspringtime
@@ -30,6 +31,7 @@ asl
 asttransformation
 ationconfigembeddedwebapplicationcontext
 authenticationmanager
+awilkinson
 axelfontaine
 backgroundpreinitializer
 baqefaaocaq
@@ -141,6 +143,8 @@ dispatcherservlet
 djava
 dloader
 dlrow
+dockerfile
+dockerjava
 doesnotexist
 doesntinterferwithotherexceptions
 doesntwarnifusinghttps
@@ -180,6 +184,7 @@ escf
 eu
 evangelista
 exceptionhandlers
+exitcode
 extraslash
 fa
 factorybean
@@ -244,6 +249,7 @@ invm
 ivan
 javaee
 javase
+jaxrs
 jboss
 jc
 jcc
@@ -265,6 +271,7 @@ koordinierte
 ktoso
 largemessages
 lastname
+launchscript
 lemur
 libx
 lievendoclo
@@ -291,6 +298,7 @@ mbeanserver
 mbs
 megadrive
 mel
+metainf
 miibi
 miibijanbgkqhkig
 mikekelly
@@ -360,6 +368,7 @@ objectmapper
 olleh
 onpropertyaorbcondition
 oof
+ooops
 openjdk
 openshift
 orgspring
@@ -377,8 +386,12 @@ paramvalue
 parseargsdoesntreplace
 pbootversion
 pdefault
+pdocker
 pedro
 pexcludedevtools
+pextensionexecutable
+pextensionproperties
+pextensionscript
 pg
 pgenerate
 phil
@@ -393,7 +406,9 @@ pmc
 pository
 pr
 prefertokeninfo
+preinit
 prepackage
+proc
 prod
 propertyvalidation
 proddb
@@ -408,6 +423,9 @@ pspringloadedversion
 pspringversion
 psql
 pstarter
+ptaskexecutable
+ptaskproperties
+ptaskscript
 pv
 pwd
 pwebb
