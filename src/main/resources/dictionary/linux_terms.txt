@@ -17,6 +17,7 @@ sbin
 sig
 sigint
 sys
+systemctl
 systemd
 tmp
 usermod

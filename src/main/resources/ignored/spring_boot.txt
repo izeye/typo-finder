@@ -83,6 +83,7 @@ christian
 cleardb
 clqg
 cloudamqp
+cloudant
 clr
 codecentric
 codegen
@@ -140,6 +141,7 @@ dfb
 dflt
 dfoo
 dispatcherservlet
+dit
 djava
 dloader
 dlrow
@@ -237,6 +239,7 @@ htttttp
 hzpz
 ic
 icatch
+icha
 idx
 improvednamingstrategy
 inc

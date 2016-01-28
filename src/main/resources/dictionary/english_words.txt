@@ -163,6 +163,7 @@ alternative
 alternatively
 alternatives
 although
+altogether
 always
 am
 amenable

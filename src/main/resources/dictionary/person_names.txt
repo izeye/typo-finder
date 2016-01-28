@@ -18,6 +18,7 @@ blum
 bob
 bourgain
 brannen
+bray
 brian
 brisbin
 brock
@@ -55,6 +56,7 @@ harrop
 henryk
 heusingfeld
 hoeller
+huang
 husen
 hwan
 ingram
@@ -99,6 +101,7 @@ mohsin
 nicolas
 oliver
 olivier
+patrick
 pavic
 pierre
 piotr
@@ -140,3 +143,4 @@ wallace
 wolff
 yang
 young
+yunkun
