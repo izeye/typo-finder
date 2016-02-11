@@ -3504,6 +3504,7 @@ scans
 scavenge
 scenario
 scenarios
+scenes
 schedule
 scheduled
 scheduling
@@ -3682,6 +3683,7 @@ singleton
 singletons
 site
 sites
+sits
 situated
 situation
 situations
@@ -3840,6 +3842,7 @@ style
 styles
 styling
 sub
+subject
 submit
 submitted
 submitting
