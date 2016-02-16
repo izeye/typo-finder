@@ -270,6 +270,7 @@ assertion
 assertions
 assessor
 asset
+assets
 assign
 assignable
 assigned
@@ -1016,6 +1017,7 @@ decorate
 decorated
 decorating
 decorator
+decorators
 decrease
 decrement
 decrypt
@@ -1676,6 +1678,7 @@ foreground
 foreign
 forever
 forgery
+forget
 forgets
 fork
 forked
@@ -3507,6 +3510,7 @@ scenarios
 scenes
 schedule
 scheduled
+scheduler
 scheduling
 schema
 schemas
@@ -3851,6 +3855,7 @@ subscribe
 subscriber
 subscribers
 subscribing
+subscription
 subsection
 subsequent
 subsequently
@@ -4136,6 +4141,7 @@ trusted
 try
 trying
 tune
+tuned
 tunnel
 tunneling
 turbo

@@ -73,6 +73,7 @@ juergen
 julien
 kaewkasi
 kalimullin
+kazuki
 klerk
 konczak
 konsek
@@ -117,6 +118,7 @@ sam
 sebastien
 sergei
 severson
+shimizu
 simon
 smith
 spencer
