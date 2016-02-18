@@ -3,6 +3,7 @@ abbreviating
 ability
 able
 abort
+aborting
 aborts
 about
 above
@@ -182,6 +183,7 @@ analysed
 analysis
 analytics
 analyzed
+analyzer
 analyzing
 anchor
 ancestor
@@ -375,6 +377,8 @@ basics
 basis
 bat
 batch
+batched
+batching
 be
 bean
 beans
@@ -917,6 +921,7 @@ correlate
 correspond
 corresponding
 corresponds
+corrupted
 cosmetic
 could
 count
@@ -1318,6 +1323,7 @@ embeddable
 embedded
 embedding
 embraces
+emit
 emitted
 employ
 employed
@@ -1705,6 +1711,7 @@ four
 fourth
 fragment
 fragmented
+fragments
 frame
 frames
 framework
@@ -1791,6 +1798,7 @@ grab
 grabbed
 grabbing
 grabs
+graceful
 gracefully
 grade
 gradually
@@ -2039,6 +2047,7 @@ independent
 indices
 index
 indexed
+indexes
 indexing
 indicate
 indicated

@@ -291,6 +291,7 @@ lo
 loc
 localhostisipv
 logpath
+lrc
 luke
 madeup
 marcel
@@ -439,6 +440,10 @@ pwd
 pwebb
 pwmbp
 pxlsgvpsc
+qlprimary
+qlprimaryindexed
+qlsecondary
+qlsecondaryindexed
 qos
 querybuilder
 quickstart
@@ -521,6 +526,7 @@ testrunner
 testsecdb
 thefile
 timgroup
+tlog
 tmlog
 tmpl
 tp
