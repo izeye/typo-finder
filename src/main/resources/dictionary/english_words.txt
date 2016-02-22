@@ -182,8 +182,10 @@ an
 analysed
 analysis
 analytics
+analyze
 analyzed
 analyzer
+analyzers
 analyzing
 anchor
 ancestor
@@ -3318,6 +3320,7 @@ rendered
 renderer
 rendering
 renders
+renegotiation
 reorder
 reordered
 repackage
@@ -3348,6 +3351,7 @@ report
 reportable
 reported
 reporter
+reporters
 reporting
 reports
 repositories
@@ -3763,6 +3767,7 @@ speakers
 speaking
 spec
 special
+specialization
 specialized
 specific
 specifically

@@ -524,9 +524,11 @@ testname
 testpath
 testrunner
 testsecdb
+testutil
 thefile
 timgroup
 tlog
+tlsv
 tmlog
 tmpl
 tp
