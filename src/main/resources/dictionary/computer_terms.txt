@@ -447,6 +447,7 @@ thread
 threaded
 threading
 threads
+thrift
 thymeleaf
 tinyint
 tls

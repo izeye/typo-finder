@@ -1424,6 +1424,7 @@ establish
 established
 establishes
 establishing
+estimated
 etc
 ethnicity
 evaluate
@@ -3763,6 +3764,7 @@ space
 spaces
 spam
 spanning
+speaker
 speakers
 speaking
 spec
@@ -3904,6 +3906,7 @@ summary
 summed
 sunny
 super
+supersede
 superset
 supplied
 supplier
@@ -4204,6 +4207,7 @@ understand
 understanding
 understands
 understood
+unencoded
 unethical
 unexpected
 unfortunately

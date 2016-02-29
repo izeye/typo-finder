@@ -50,9 +50,12 @@ bc
 bcd
 bd
 beandesc
+ben
+benmanes
 benson
 bex
 bg
+bigdullrock
 bignumber
 bla
 blam
@@ -294,6 +297,7 @@ logpath
 lrc
 luke
 madeup
+manes
 marcel
 marceloverdijk
 marcgiffing

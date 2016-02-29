@@ -14,6 +14,7 @@ awt
 baos
 bcprov
 beanutils
+caffeine
 cglib
 char
 chars
@@ -106,6 +107,7 @@ modelmapper
 multiline
 mx
 mybatis
+nifty
 nl
 npe
 objenesis
