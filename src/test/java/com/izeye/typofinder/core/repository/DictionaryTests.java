@@ -3,9 +3,10 @@ package com.izeye.typofinder.core.repository;
 import com.izeye.typofinder.Application;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import javax.annotation.Resource;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -17,7 +18,7 @@ import static org.junit.Assert.assertTrue;
 @SpringApplicationConfiguration(Application.class)
 public class DictionaryTests {
 	
-	@Autowired
+	@Resource(name = "englishWordsDictionary")
 	Dictionary dictionary;
 	
 	@Test
