@@ -34,9 +34,9 @@ repositories {
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter")
-    compile("commons-io:commons-io:2.4")
+    compile("commons-io:commons-io:$commonsIoVersion")
 
-    provided("org.projectlombok:lombok:$lombokVersion")
+    provided("org.projectlombok:lombok")
 
     testCompile("org.springframework.boot:spring-boot-starter-test")
 }
