@@ -874,6 +874,7 @@ contract
 contrary
 contribute
 contributed
+contributes
 contributing
 contribution
 contributions
@@ -3700,6 +3701,7 @@ since
 single
 singleton
 singletons
+singular
 site
 sites
 sits

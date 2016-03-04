@@ -1,4 +1,5 @@
 ahlenstorf
+akira
 alexander
 alice
 anderson
@@ -95,6 +96,7 @@ manuel
 marten
 martin
 mattias
+meang
 meléndez
 michael
 mills
@@ -127,6 +129,7 @@ stéphane
 stolyarov
 strobl
 stummvoll
+tanaka
 thomas
 thornhill
 tomasz
