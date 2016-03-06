@@ -2581,6 +2581,7 @@ move
 moved
 moving
 ms
+msec
 much
 multi
 multicast
