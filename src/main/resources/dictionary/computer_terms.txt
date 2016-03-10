@@ -38,6 +38,7 @@ blogs
 bom
 bool
 boolean
+booter
 bosh
 boxfuse
 btm

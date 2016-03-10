@@ -8,6 +8,7 @@ abcabc
 abcd
 abcdef
 abcdefg
+abcdefghijklmno
 abstrsyncdockercmdexec
 ac
 aca
@@ -75,6 +76,7 @@ caniuse
 cantgetinstancebeforeinitialize
 cassandrahost
 cassandraunit
+cbcc
 ccdd
 cccc
 ccccc
@@ -199,8 +201,10 @@ fa
 factorybean
 fb
 fbca
+fd
 fdf
 fdfcf
+ff
 fg
 fileonly
 filewatcher
@@ -275,8 +279,10 @@ jmnarloch
 joao
 jooqtest
 josh
+jp
 jruby
 keypath
+klass
 ko
 kohsuke
 koordinierte
@@ -506,6 +512,7 @@ strval
 su
 substvars
 supersecret
+surefirebooter
 syer
 sysdummy
 sysibm
