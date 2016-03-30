@@ -38,6 +38,7 @@ blogs
 bom
 bool
 boolean
+booleans
 booter
 bosh
 boxfuse
@@ -207,6 +208,8 @@ installer
 installing
 installs
 intellij
+int
+ints
 io
 ip
 ivy
@@ -281,6 +284,7 @@ markup
 marshal
 marshall
 marshaller
+marshallers
 maven
 mb
 md
@@ -319,6 +323,7 @@ nosql
 nul
 null
 nullable
+nulls
 octet
 opcodes
 opentsdb
@@ -370,6 +375,8 @@ regexp
 remap
 remapper
 repl
+requeue
+requeued
 rest
 restful
 rethrow
@@ -385,6 +392,7 @@ sdk
 sdkman
 sdks
 se
+selenium
 semaphore
 serializable
 serialization

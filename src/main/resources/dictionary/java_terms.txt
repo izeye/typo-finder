@@ -46,6 +46,7 @@ fileupload
 firebirdsql
 fixme
 flywaydb
+gargoylesoftware
 generic
 generics
 getenv
@@ -56,12 +57,12 @@ hashtable
 hdiv
 hh
 hikari
+htmlunit
 httpclient
 inetaddress
 inet
 inf
 instanceof
-int
 isnan
 jaas
 jandex
@@ -74,6 +75,7 @@ javarebel
 javassist
 javax
 jaxrpc
+jayway
 jboss
 jcl
 jdom
@@ -91,6 +93,8 @@ jre
 jres
 jsessionid
 jsn
+jsonassert
+jsonpath
 jsp
 jsps
 jspx
@@ -113,6 +117,7 @@ npe
 objenesis
 ois
 oos
+openqa
 org
 param
 paramnames
@@ -127,6 +132,7 @@ rmi
 rome
 sb
 sf
+skyscreamer
 solrj
 spi
 src

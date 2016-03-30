@@ -1,13 +1,16 @@
 amazonaws
 co
+costigliola
 dl
 fogbugz
 googlesource
 gov
 im
 jetbrains
+joel
 mindprod
 nz
+osherove
 redhat
 sock
 sourceforge

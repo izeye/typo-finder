@@ -258,6 +258,7 @@ arrays
 artifact
 artifacts
 as
+ascending
 ask
 asked
 asking
@@ -272,6 +273,7 @@ assembly
 assert
 assertion
 assertions
+asserts
 assessor
 asset
 assets
@@ -303,12 +305,14 @@ atomically
 attach
 attached
 attacher
+attaches
 attaching
 attachment
 attack
 attacker
 attacks
 attempt
+attempted
 attempting
 attempts
 attr
@@ -488,6 +492,7 @@ brand
 breadth
 break
 breaks
+brevity
 brew
 bridge
 bridging
@@ -686,6 +691,7 @@ coercible
 coercion
 coexists
 cold
+collaborators
 collapse
 collated
 collect
@@ -803,6 +809,7 @@ configurer
 configurers
 configures
 configuring
+confirm
 conflict
 conflicting
 conflicts
@@ -954,6 +961,7 @@ creates
 creating
 creation
 creator
+creators
 credential
 credentials
 credit
@@ -971,6 +979,7 @@ cursor
 custom
 customer
 customers
+customizable
 customization
 customizations
 customize
@@ -1052,6 +1061,7 @@ define
 defined
 defines
 defining
+definite
 definitely
 definition
 definitions
@@ -1074,8 +1084,10 @@ delimited
 delimiter
 delimiters
 delisted
+deliver
 delivered
 delivery
+deliveries
 delta
 deltas
 demo
@@ -1165,6 +1177,7 @@ died
 differ
 different
 differentiate
+differentiator
 differently
 differing
 differs
@@ -1445,6 +1458,7 @@ ever
 every
 everyone
 everything
+everywhere
 evict
 evictable
 eviction
@@ -1672,6 +1686,7 @@ flushable
 flushed
 fly
 focus
+focuses
 folder
 folders
 follow
@@ -1779,6 +1794,7 @@ generator
 generators
 gentle
 geo
+geospatial
 get
 gets
 getter
@@ -1802,6 +1818,7 @@ goodbye
 got
 govern
 governing
+gpl
 grab
 grabbed
 grabbing
@@ -1824,6 +1841,7 @@ great
 greater
 greatest
 green
+greet
 greeting
 greetings
 gregorian
@@ -1981,6 +1999,7 @@ ideally
 idempotent
 identical
 identifiable
+identification
 identified
 identifier
 identifiers
@@ -1988,6 +2007,7 @@ identifies
 identify
 identifying
 identity
+idiomatic
 idioms
 idle
 ids
@@ -2047,6 +2067,7 @@ incremental
 incremented
 incrementer
 indeed
+indefinite
 indefinitely
 indent
 indented
@@ -2171,6 +2192,7 @@ internals
 internationalization
 internet
 interpolate
+interpolated
 interpolation
 interpolator
 interpretation
@@ -2200,6 +2222,7 @@ invoked
 invoker
 invokes
 invoking
+involve
 involved
 involves
 involving
@@ -2237,6 +2260,7 @@ jul
 jump
 jun
 just
+kebab
 keep
 keeper
 keeping
@@ -2302,6 +2326,8 @@ legal
 legit
 length
 lengths
+lenient
+leniently
 less
 let
 lets
@@ -2317,6 +2343,7 @@ library
 license
 licensed
 licenses
+licensing
 lieu
 life
 lifecycle
@@ -2387,6 +2414,7 @@ loosely
 los
 lose
 losing
+lost
 lot
 lots
 low
@@ -2827,6 +2855,7 @@ paragraphs
 parallel
 parallelism
 parameter
+parameterize
 parameterized
 parameters
 parametric
@@ -2968,6 +2997,7 @@ populates
 populator
 port
 portable
+portfolio
 portion
 ports
 position
@@ -3167,6 +3197,7 @@ racily
 radically
 raise
 raised
+raising
 ran
 random
 randomly
@@ -3219,12 +3250,15 @@ recorded
 recording
 records
 recover
+recovered
+recoverer
 recovery
 recreated
 recursive
 recursively
 red
 redefine
+redeliveries
 redirect
 redirection
 redirects
@@ -3374,6 +3408,7 @@ reproduce
 reproduces
 request
 requested
+requesting
 requests
 require
 required
@@ -3432,11 +3467,14 @@ results
 retain
 retains
 retention
+retried
+retries
 retrievable
 retrieval
 retrieve
 retrieved
 retrieves
+retrieving
 retry
 retryable
 retrying
@@ -3446,8 +3484,10 @@ returning
 returns
 reuse
 reused
+reuses
 reverse
 reversed
+reverser
 revert
 review
 reviewed
@@ -3669,6 +3709,7 @@ shows
 shut
 shutdown
 shutdowns
+shuts
 shutting
 sibling
 side
@@ -3724,6 +3765,9 @@ skips
 slash
 slashes
 sleep
+slice
+slices
+slicing
 slight
 slightly
 slow
@@ -3763,6 +3807,7 @@ sort
 sortable
 sorted
 sorter
+sorters
 sorting
 sorts
 source
@@ -3785,6 +3830,7 @@ specifically
 specification
 specifics
 specified
+specifiers
 specifies
 specify
 specifying
@@ -4014,6 +4060,7 @@ test
 testable
 tested
 tester
+testers
 testing
 tests
 text
@@ -4086,6 +4133,7 @@ tokenize
 tokenizer
 tokens
 tolerant
+tolerate
 tolerated
 too
 took
@@ -4266,6 +4314,7 @@ unspecified
 unstopped
 unstructured
 unsuccessful
+unsupport
 unsupported
 until
 unused
@@ -4292,6 +4341,7 @@ upon
 upper
 uppercase
 uptime
+upwards
 us
 usage
 use
@@ -4335,12 +4385,14 @@ variety
 various
 vary
 vector
+vehicle
 vendor
 vendors
 verbatim
 verbose
 verification
 verifier
+verifies
 verify
 verifying
 version
@@ -4352,6 +4404,7 @@ via
 victoria
 view
 views
+violated
 violation
 virtual
 visit
@@ -4372,6 +4425,7 @@ waiting
 waits
 want
 wanted
+wanting
 wants
 warn
 warning

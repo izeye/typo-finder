@@ -2,6 +2,7 @@ autoproxy
 autowire
 autowired
 autowiring
+backoff
 basename
 beanvalidation
 buildpack

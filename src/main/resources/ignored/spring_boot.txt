@@ -20,9 +20,11 @@ adf
 adhoctestsuite
 ahost
 aimonetti
+alexo
 allegro
 alt
 amiibcgkc
+amqprejectanddontrequeueexception
 andrey
 andy
 ann
@@ -35,6 +37,7 @@ asl
 asttransformation
 ationconfigembeddedwebapplicationcontext
 authenticationmanager
+autoconfigured
 awilkinson
 axelfontaine
 backgroundpreinitializer
@@ -89,6 +92,7 @@ ch
 chandler
 changeit
 christian
+cla
 cleardb
 clqg
 cloudamqp
@@ -187,6 +191,7 @@ ef
 efg
 ele
 en
+enableautoconfiguration
 enableother
 enableprofileviaapplicationproperties
 endpointoutput
@@ -208,6 +213,7 @@ ff
 fg
 fileonly
 filewatcher
+filtersample
 firstname
 flapdoodle
 flatdir
@@ -232,6 +238,8 @@ gh
 gid
 globalsettings
 gorylenko
+graphiql
+graphql
 groovytemplate
 groovytemplates
 grpc
@@ -287,6 +295,8 @@ ko
 kohsuke
 koordinierte
 ktoso
+kvendpoints
+kvtimeout
 largemessages
 lastname
 launchscript
@@ -386,6 +396,8 @@ nounique
 noweb
 ns
 objectmapper
+oembedler
+ogm
 olleh
 onpropertyaorbcondition
 oof
@@ -405,9 +417,11 @@ packagestest
 paddresources
 paramvalue
 parseargsdoesntreplace
+pbootrunmain
 pbootversion
 pdefault
 pdocker
+pds
 pedro
 pexcludedevtools
 pextensionexecutable
@@ -424,6 +438,7 @@ playfield
 playstation
 pm
 pmc
+pnonjavaexecrun
 pository
 pr
 prefertokeninfo
@@ -448,10 +463,12 @@ ptaskexecutable
 ptaskproperties
 ptaskscript
 pv
+pvs
 pwd
 pwebb
 pwmbp
 pxlsgvpsc
+ql
 qlprimary
 qlprimaryindexed
 qlsecondary
@@ -461,6 +478,7 @@ querybuilder
 quickstart
 rab
 raphael
+rejectanddontrequeuerecoverer
 reloadtrigger
 remoteaddr
 req
@@ -477,9 +495,11 @@ sampletomeedeployapplication
 sampletomeedeployapplicationit
 samskivert
 sat
+sboot
 sbuettner
 sc
 sce
+sdf
 secondmarket
 serverendpoint
 serverwontstart
@@ -490,14 +510,17 @@ sg
 shhhhh
 sierra
 signup
+simons
 singledeprecated
 snicoll
 somefile
 somekey
 somepassword
 somesecret
+sometoken
 sopov
 spr
+springapplicationtest
 springbeans
 springboot
 springbootapplication
@@ -523,6 +546,7 @@ taylor
 td
 te
 ted
+templatemode
 templateresolver
 testatdebug
 testatfatal
@@ -573,6 +597,7 @@ von
 wc
 webb
 webcontainer
+webintegrationtest
 weblogic
 websphere
 webstatic

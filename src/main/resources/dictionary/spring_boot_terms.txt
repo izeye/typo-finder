@@ -9,6 +9,7 @@ avg
 basedir
 beanfactory
 beaninfo
+buildinfo
 classesroot
 cls
 configprops
@@ -67,6 +68,8 @@ toolbox
 tsdb
 userid
 val
+webclient
+webdriver
 websocket
 websockets
 whitelabel

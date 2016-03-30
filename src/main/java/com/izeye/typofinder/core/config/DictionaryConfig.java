@@ -36,9 +36,10 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_TOMCAT_TERMS = "classpath:dictionary/tomcat_terms.txt";
 	private static final String RESOURCE_LOCATION_UNDERTOW_TERMS = "classpath:dictionary/undertow_terms.txt";
 
-
 	private static final String RESOURCE_LOCATION_ORGANIZATION_TERMS = "classpath:dictionary/organization_terms.txt";
 	private static final String RESOURCE_LOCATION_PERSON_NAMES = "classpath:dictionary/person_names.txt";
+	private static final String RESOURCE_LOCATION_PRODUCT_NAMES = "classpath:dictionary/product_names.txt";
+	private static final String RESOURCE_LOCATION_TEST_DATA = "classpath:dictionary/test_data.txt";
 	
 	@Bean
 	public Dictionary englishWordsDictionary() {
@@ -74,7 +75,9 @@ public class DictionaryConfig {
 	@Bean
 	 public Dictionary miscDictionary() {
 		return new DefaultDictionary(RESOURCE_LOCATION_ORGANIZATION_TERMS,
-				RESOURCE_LOCATION_PERSON_NAMES);
+				RESOURCE_LOCATION_PERSON_NAMES,
+				RESOURCE_LOCATION_PRODUCT_NAMES,
+				RESOURCE_LOCATION_TEST_DATA);
 	}
 	
 }

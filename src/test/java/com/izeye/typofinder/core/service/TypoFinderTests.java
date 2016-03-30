@@ -56,11 +56,13 @@ public class TypoFinderTests {
 //		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/");
 		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/");
 //		File directory = new File("/Users/izeye/IdeaProjects/spring-restdocs/");
+//		File directory = new File("/Users/izeye/IdeaProjects/tensorflow/tensorflow/g3doc/tutorials/deep_cnn/");
 		
 		Set<String> fileExtensions = new HashSet<>();
 		fileExtensions.add("java");
 		fileExtensions.add("adoc");
 		fileExtensions.add("vm");
+		fileExtensions.add("md");
 		
 		Set<String> exclusions = new HashSet<>();
 		exclusions.add("target");
