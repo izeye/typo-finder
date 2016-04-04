@@ -3843,7 +3843,10 @@ spinel
 split
 splitting
 spot
+spied
+spies
 spy
+spying
 square
 squash
 stable
