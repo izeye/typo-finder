@@ -245,6 +245,7 @@ archive
 archived
 archives
 are
+area
 aren't
 arguably
 argument
@@ -583,6 +584,7 @@ case
 cases
 cast
 cat
+catalog
 catch
 catching
 categorized
@@ -810,6 +812,7 @@ configurers
 configures
 configuring
 confirm
+confirms
 conflict
 conflicting
 conflicts
@@ -2399,6 +2402,7 @@ locating
 location
 locations
 locator
+locators
 lock
 locks
 logic
@@ -3387,6 +3391,7 @@ replacing
 replay
 replica
 replicas
+replicated
 replicates
 replication
 reply
@@ -3819,6 +3824,7 @@ space
 spaces
 spam
 spanning
+spare
 speaker
 speakers
 speaking
@@ -3922,6 +3928,8 @@ styles
 styling
 sub
 subject
+submission
+submissions
 submit
 submitted
 submitting
@@ -4040,6 +4048,7 @@ technique
 techniques
 technologies
 technology
+telephone
 tell
 telling
 tells
@@ -4310,6 +4319,7 @@ unrelated
 unresolvable
 unresolved
 unrestricted
+unroutable
 unsafe
 unsatisfied
 unsecure

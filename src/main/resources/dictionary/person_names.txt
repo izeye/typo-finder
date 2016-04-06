@@ -41,6 +41,7 @@ dawson
 deinum
 doninger
 doo
+dreis
 drummond
 dubois
 eberhard
@@ -79,6 +80,7 @@ julien
 kaewkasi
 kalimullin
 kazuki
+kirsch
 klerk
 konczak
 konsek
@@ -114,6 +116,7 @@ pavic
 pierre
 piotr
 przybyla
+quinten
 ramnivas
 rickard
 ritter
@@ -122,6 +125,7 @@ roy
 russell
 saldanha
 sam
+sebastian
 sebastien
 sergei
 severson
@@ -135,6 +139,7 @@ stéphane
 stolyarov
 strobl
 stummvoll
+swaef
 tanaka
 thomas
 thornhill
