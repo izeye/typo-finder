@@ -33,8 +33,6 @@ apitester
 appname
 appserver
 ar
-arjuna
-arjunacore
 asl
 asttransformation
 ationconfigembeddedwebapplicationcontext

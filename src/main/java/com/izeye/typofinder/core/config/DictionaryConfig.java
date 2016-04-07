@@ -27,6 +27,7 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_HTML_TERMS = "classpath:dictionary/html_terms.txt";
 	private static final String RESOURCE_LOCATION_HTTP_TERMS = "classpath:dictionary/http_terms.txt";
 	private static final String RESOURCE_LOCATION_JAVA_TERMS = "classpath:dictionary/java_terms.txt";
+	private static final String RESOURCE_LOCATION_JAVA_PACKAGES = "classpath:dictionary/java_packages.txt";
 	private static final String RESOURCE_LOCATION_JWT_TERMS = "classpath:dictionary/jwt_terms.txt";
 	private static final String RESOURCE_LOCATION_LINUX_TERMS = "classpath:dictionary/linux_terms.txt";
 	private static final String RESOURCE_LOCATION_MAVEN_TERMS = "classpath:dictionary/maven_terms.txt";
@@ -62,6 +63,7 @@ public class DictionaryConfig {
 				RESOURCE_LOCATION_HTML_TERMS,
 				RESOURCE_LOCATION_HTTP_TERMS,
 				RESOURCE_LOCATION_JAVA_TERMS,
+				RESOURCE_LOCATION_JAVA_PACKAGES,
 				RESOURCE_LOCATION_JWT_TERMS,
 				RESOURCE_LOCATION_LINUX_TERMS,
 				RESOURCE_LOCATION_MAVEN_TERMS,
