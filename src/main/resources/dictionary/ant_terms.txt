@@ -3,9 +3,12 @@ classpathref
 conf
 destdir
 destfile
+erroronmissingdir
 exejar
 ext
 fileset
+globmapper
+mappedresources
 refid
 rev
 srcdir

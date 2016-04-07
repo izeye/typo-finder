@@ -33,9 +33,12 @@ apitester
 appname
 appserver
 ar
+arjuna
+arjunacore
 asl
 asttransformation
 ationconfigembeddedwebapplicationcontext
+ats
 authenticationmanager
 autoconfigured
 awilkinson
@@ -109,6 +112,7 @@ configurableembeddedservletcontainerfactory
 configurationsample
 configwarnings
 conn
+connectionimple
 consolappender
 controlleroutput
 cpe
@@ -261,6 +265,7 @@ ic
 icatch
 icha
 idx
+iface
 ifxdriver
 improvednamingstrategy
 inc
@@ -447,6 +452,7 @@ preinit
 prepackage
 proc
 prod
+propertyservice
 propertyvalidation
 proddb
 prodmq

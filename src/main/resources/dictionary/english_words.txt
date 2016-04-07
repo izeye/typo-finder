@@ -919,6 +919,7 @@ cookies
 cool
 coordinate
 coordinates
+coordinator
 copied
 copies
 copy
@@ -2108,6 +2109,7 @@ inherited
 inheriting
 inherits
 initial
+initialise
 initialised
 initialisers
 initialization
@@ -2780,6 +2782,7 @@ opinionated
 opposed
 opposite
 opt
+optimisation
 optimization
 optimizations
 optimize
@@ -2803,6 +2806,7 @@ oriented
 origin
 original
 origins
+orphan
 other
 others
 otherwise
@@ -3569,6 +3573,7 @@ scaled
 scan
 scanned
 scanner
+scanners
 scanning
 scans
 scavenge
