@@ -1137,6 +1137,7 @@ descriptions
 descriptor
 descriptors
 design
+designated
 designed
 desirable
 desired
@@ -4247,6 +4248,7 @@ trolling
 trouble
 troubleshoot
 true
+trumps
 truncated
 truncating
 trust
