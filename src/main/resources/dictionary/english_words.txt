@@ -256,6 +256,7 @@ armed
 around
 array
 arrays
+art
 artifact
 artifacts
 as
@@ -676,6 +677,7 @@ closeable
 closed
 closer
 closes
+closest
 closing
 closure
 closures
@@ -780,6 +782,7 @@ compressed
 compressible
 compressing
 compression
+comprised
 compromised
 compute
 computed
@@ -1000,6 +1003,7 @@ daemon
 dallas
 damage
 dangerous
+dark
 dash
 dashed
 dashes
@@ -1052,6 +1056,7 @@ dedicated
 deduce
 deduced
 deduces
+deduction
 deem
 deemed
 deep
@@ -1179,6 +1184,7 @@ didn't
 die
 died
 differ
+difference
 different
 differentiate
 differentiator
@@ -1233,6 +1239,7 @@ displayed
 displays
 disposable
 disposition
+distance
 distinct
 distinguish
 distinguished
@@ -1830,6 +1837,7 @@ grabs
 graceful
 gracefully
 grade
+gradient
 gradually
 grained
 grammar
@@ -1840,6 +1848,7 @@ grape
 grapes
 graph
 graphed
+graphics
 graphing
 great
 greater
@@ -2217,6 +2226,8 @@ introspection
 introspector
 invalid
 inverse
+invert
+inverted
 investigated
 investigating
 invite
@@ -2478,6 +2489,7 @@ mapping
 mappings
 maps
 mar
+margin
 marginally
 mark
 marked
@@ -2878,6 +2890,7 @@ parses
 parsing
 part
 partial
+partially
 partials
 participants
 participate
@@ -2957,6 +2970,7 @@ pipe
 pipeline
 piste
 pivot
+pixel
 place
 placed
 placeholder
@@ -3036,6 +3050,7 @@ preferably
 preference
 preferences
 preferred
+prefers
 prefill
 prefix
 prefixed
@@ -3433,6 +3448,8 @@ reserved
 reset
 resets
 resides
+resize
+resized
 resolution
 resolvable
 resolve
@@ -3509,6 +3526,7 @@ rewrite
 rewrites
 rewriting
 rewritten
+rgb
 rich
 richer
 richly
@@ -3768,6 +3786,7 @@ situation
 situations
 six
 size
+sized
 sizes
 skip
 skipped
@@ -4090,6 +4109,7 @@ that
 the
 their
 them
+themes
 themselves
 then
 theories
@@ -4231,6 +4251,7 @@ truncated
 truncating
 trust
 trusted
+trusting
 try
 trying
 tune

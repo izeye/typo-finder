@@ -15,6 +15,8 @@ baos
 bcprov
 beanutils
 caffeine
+cbrt
+ceil
 cglib
 char
 chars
@@ -59,6 +61,7 @@ hh
 hikari
 htmlunit
 httpclient
+imageio
 inetaddress
 inet
 inf
@@ -127,6 +130,7 @@ paramnames
 params
 pjp
 pkgs
+pow
 printf
 println
 rawtypes
@@ -138,6 +142,7 @@ sf
 skyscreamer
 solrj
 spi
+sqrt
 src
 ss
 sss

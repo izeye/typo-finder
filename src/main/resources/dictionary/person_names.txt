@@ -27,6 +27,7 @@ brian
 brisbin
 brock
 buettner
+burke
 cédric
 champeau
 chanwit
@@ -39,6 +40,7 @@ cramer
 daniel
 dawson
 deinum
+dijkstra
 doninger
 doo
 dreis
@@ -94,6 +96,7 @@ landsverk
 lau
 leboulanger
 lejeune
+lonkar
 lucas
 ludwig
 lukas
@@ -110,6 +113,7 @@ michael
 mills
 mohsin
 nicolas
+noronha
 oliver
 olivier
 patrick
@@ -123,6 +127,7 @@ rickard
 ritter
 rocher
 roy
+ruben
 russell
 saldanha
 sam
@@ -153,6 +158,7 @@ turnquist
 tyler
 valkealahti
 vedran
+venil
 vince
 volder
 wadge
@@ -161,5 +167,6 @@ walls
 wallace
 wolff
 yang
+yogesh
 young
 yunkun

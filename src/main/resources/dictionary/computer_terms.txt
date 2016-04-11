@@ -159,6 +159,7 @@ gc
 gecko
 gemfire
 geronimo
+gif
 git
 github
 globbing
@@ -235,6 +236,7 @@ jira
 jolokia
 jooq
 jpa
+jpg
 jrebel
 js
 json
@@ -250,6 +252,7 @@ jwts
 kb
 kib
 kilobyte
+lab
 lifo
 linkedin
 linux

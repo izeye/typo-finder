@@ -30,7 +30,8 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_JAVA_PACKAGES = "classpath:dictionary/java_packages.txt";
 	private static final String RESOURCE_LOCATION_JWT_TERMS = "classpath:dictionary/jwt_terms.txt";
 	private static final String RESOURCE_LOCATION_LINUX_TERMS = "classpath:dictionary/linux_terms.txt";
-	private static final String RESOURCE_LOCATION_MAVEN_TERMS = "classpath:dictionary/maven_terms.txt";
+	private static final String RESOURCE_LOCATION_MONGODB_TERMS = "classpath:dictionary/maven_terms.txt";
+	private static final String RESOURCE_LOCATION_MAVEN_TERMS = "classpath:dictionary/mongodb_terms.txt";
 	private static final String RESOURCE_LOCATION_REDIS_TERMS = "classpath:dictionary/redis_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_TERMS = "classpath:dictionary/spring_terms.txt";
 	private static final String RESOURCE_LOCATION_SPRING_BOOT_TERMS = "classpath:dictionary/spring_boot_terms.txt";
@@ -67,6 +68,7 @@ public class DictionaryConfig {
 				RESOURCE_LOCATION_JWT_TERMS,
 				RESOURCE_LOCATION_LINUX_TERMS,
 				RESOURCE_LOCATION_MAVEN_TERMS,
+				RESOURCE_LOCATION_MONGODB_TERMS,
 				RESOURCE_LOCATION_REDIS_TERMS,
 				RESOURCE_LOCATION_SPRING_TERMS,
 				RESOURCE_LOCATION_SPRING_BOOT_TERMS,
