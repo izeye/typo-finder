@@ -22,6 +22,7 @@ acceptable
 accepted
 accepting
 acceptor
+acceptors
 accepts
 access
 accessed
@@ -1120,6 +1121,7 @@ deployer
 deploying
 deployment
 deployments
+deprecate
 deprecated
 deprecation
 depth
