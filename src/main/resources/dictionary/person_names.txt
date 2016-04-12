@@ -61,6 +61,7 @@ graeme
 greg
 gytis
 harrop
+henri
 henryk
 heusingfeld
 hoeller
@@ -83,6 +84,7 @@ julien
 kaewkasi
 kalimullin
 kazuki
+kerola
 kirsch
 klerk
 konczak
