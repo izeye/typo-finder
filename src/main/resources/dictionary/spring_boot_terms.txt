@@ -70,6 +70,7 @@ userid
 val
 webclient
 webdriver
+webservices
 websocket
 websockets
 whitelabel
