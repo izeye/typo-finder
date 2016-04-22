@@ -1403,6 +1403,7 @@ engines
 english
 enhance
 enhanced
+enhancement
 enhancements
 enhancer
 enhances
@@ -1693,6 +1694,7 @@ flip
 float
 floats
 flow
+flows
 flub
 fluent
 flush
@@ -2291,6 +2293,7 @@ kick
 kicks
 kill
 killed
+killer
 kind
 kinds
 kit
@@ -3005,6 +3008,8 @@ policies
 policy
 poll
 pollable
+poller
+pollers
 polling
 polluting
 polyglot
@@ -3228,6 +3233,7 @@ ran
 random
 randomly
 range
+rapid
 rate
 rather
 rating
