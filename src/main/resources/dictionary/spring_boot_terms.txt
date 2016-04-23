@@ -11,6 +11,7 @@ beanfactory
 beaninfo
 buildinfo
 classesroot
+closeables
 cls
 configprops
 configurationmetadata
