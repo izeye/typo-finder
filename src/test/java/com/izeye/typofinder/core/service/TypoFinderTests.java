@@ -1,13 +1,12 @@
 package com.izeye.typofinder.core.service;
 
-import com.izeye.typofinder.Application;
 import com.izeye.typofinder.core.domain.WordToken;
 import com.izeye.typofinder.core.util.FileUtils;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.SpringApplicationConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,8 +19,8 @@ import static org.junit.Assert.assertTrue;
 /**
  * Created by izeye on 15. 7. 2..
  */
-@RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(Application.class)
+@RunWith(SpringRunner.class)
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.NONE)
 public class TypoFinderTests {
 	
 	@Autowired

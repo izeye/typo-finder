@@ -135,6 +135,7 @@ elasticsearch
 endian
 eocd
 epub
+esb
 esc
 eval
 exe
@@ -311,6 +312,7 @@ mongodb
 mozilla
 mpsc
 mq
+mule
 multicore
 multipart
 mvc
@@ -412,6 +414,7 @@ slf
 smtp
 smtps
 snakeyaml
+soa
 soap
 solr
 sonatype
