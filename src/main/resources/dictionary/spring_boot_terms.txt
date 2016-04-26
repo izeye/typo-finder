@@ -58,6 +58,7 @@ postgresql
 prop
 props
 rabbitmq
+rcf
 releasetrain
 repro
 sendgrid
