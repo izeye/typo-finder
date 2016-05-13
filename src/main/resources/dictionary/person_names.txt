@@ -59,6 +59,7 @@ gierke
 gordon
 graeme
 greg
+grzegorz
 gytis
 harrop
 henri
@@ -122,6 +123,7 @@ patrick
 pavic
 pierre
 piotr
+poznachowski
 przybyla
 quinten
 ramnivas

@@ -20,6 +20,7 @@ htmlsingle
 impl
 initializr
 javamail
+joinpoint
 libs
 mav
 mockmvc
