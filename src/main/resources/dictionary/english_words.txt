@@ -1588,6 +1588,7 @@ extracts
 extras
 eyes
 facade
+faces
 facets
 facilitate
 facing

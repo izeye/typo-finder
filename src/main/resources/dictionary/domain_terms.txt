@@ -6,12 +6,15 @@ fogbugz
 googlesource
 gov
 im
+javaserverfaces
 jetbrains
 joel
 mindprod
 mulesoft
 nz
+omnifaces
 osherove
+primefaces
 redhat
 sock
 sourceforge

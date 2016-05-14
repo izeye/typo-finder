@@ -97,6 +97,7 @@ joran
 jre
 jres
 jsessionid
+jsf
 jsn
 jsonassert
 jsonpath
@@ -113,6 +114,7 @@ mbean
 mkdirs
 mm
 modelmapper
+mojarra
 multiline
 mx
 mybatis
