@@ -565,6 +565,7 @@ testattrace
 testcluster
 testcomment
 testcomponents
+testcontext
 testdb
 testdomain
 testgoodbyeprofilefromcommandline

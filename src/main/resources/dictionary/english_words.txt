@@ -2811,6 +2811,7 @@ operational
 operations
 operator
 opinionated
+opportunity
 opposed
 opposite
 opt
@@ -3052,6 +3053,7 @@ positives
 possible
 possibly
 post
+posted
 posting
 posts
 potential
