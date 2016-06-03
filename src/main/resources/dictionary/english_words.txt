@@ -89,6 +89,7 @@ addition
 additional
 additionally
 additionals
+additions
 additive
 address
 addressed
@@ -1214,6 +1215,7 @@ directly
 directories
 directory
 dirties
+dirty
 disability
 disable
 disabled
@@ -1528,6 +1530,7 @@ expanded
 expanding
 expansion
 expect
+expectation
 expectations
 expected
 expects
@@ -1772,6 +1775,7 @@ french
 frequency
 frequent
 frequently
+fresh
 fri
 friendly
 friends
@@ -3967,6 +3971,7 @@ strictly
 strip
 stripped
 stripper
+strips
 strives
 strong
 strongly

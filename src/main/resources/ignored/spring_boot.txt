@@ -497,6 +497,7 @@ res
 resourceresolver
 resp
 responsebody
+restclient
 restdoc
 rob
 rtn

@@ -45,6 +45,7 @@ keyspace
 mainclass
 mem
 millis
+mockrestserviceserver
 msg
 nonheap
 noverify
