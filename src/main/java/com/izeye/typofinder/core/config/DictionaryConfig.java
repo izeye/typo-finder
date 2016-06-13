@@ -41,7 +41,7 @@ public class DictionaryConfig {
 	private static final String RESOURCE_LOCATION_ORGANIZATION_TERMS = "classpath:dictionary/organization_terms.txt";
 	private static final String RESOURCE_LOCATION_PERSON_NAMES = "classpath:dictionary/person_names.txt";
 	private static final String RESOURCE_LOCATION_PRODUCT_NAMES = "classpath:dictionary/product_names.txt";
-	private static final String RESOURCE_LOCATION_GITHUB_USERS = "classpath:dictionary/github_users.txt";
+	private static final String RESOURCE_LOCATION_GITHUB = "classpath:dictionary/github.txt";
 	private static final String RESOURCE_LOCATION_SPRING_BOOT_TEST_DATA = "classpath:dictionary/spring_boot_test_data.txt";
 	
 	@Bean
@@ -82,7 +82,7 @@ public class DictionaryConfig {
 		return new DefaultDictionary(RESOURCE_LOCATION_ORGANIZATION_TERMS,
 				RESOURCE_LOCATION_PERSON_NAMES,
 				RESOURCE_LOCATION_PRODUCT_NAMES,
-				RESOURCE_LOCATION_GITHUB_USERS,
+				RESOURCE_LOCATION_GITHUB,
 				RESOURCE_LOCATION_SPRING_BOOT_TEST_DATA);
 	}
 	
