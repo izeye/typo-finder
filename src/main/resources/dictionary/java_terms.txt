@@ -25,6 +25,7 @@ clazz
 com
 comp
 concat
+conn
 cp
 databind
 dataformat
@@ -85,6 +86,7 @@ jbossts
 jcl
 jdom
 jdwp
+jest
 jks
 jline
 jmx
