@@ -448,6 +448,7 @@ playfield
 playstation
 pm
 pmc
+pnomainclass
 pnonjavaexecrun
 pository
 pr

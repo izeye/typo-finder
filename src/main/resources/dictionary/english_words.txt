@@ -1288,6 +1288,7 @@ doubles
 doubletree
 down
 downcast
+downgrade
 download
 downloaded
 downloading
@@ -3106,6 +3107,7 @@ preserves
 prettify
 pretty
 prevent
+prevented
 preventing
 prevents
 previous
