@@ -11,6 +11,7 @@ jetbrains
 joel
 mindprod
 mulesoft
+myfaces
 nz
 omnifaces
 osherove

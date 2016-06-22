@@ -3,3 +3,4 @@ arjunacore
 okhttp
 searchbox
 squareup
+webresources

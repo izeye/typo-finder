@@ -1524,6 +1524,7 @@ existent
 existing
 exists
 exit
+exiting
 exits
 exotic
 expand
