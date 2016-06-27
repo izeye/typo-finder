@@ -167,7 +167,7 @@ dlrow
 dockerfile
 dockerjava
 doesnotexist
-doesntinterferwithotherexceptions
+doesntinterferewithotherexceptions
 doesntwarnifusinghttps
 domix
 dontrecompresszips
