@@ -97,6 +97,7 @@ addresses
 adds
 adheres
 adjacent
+adjust
 adjusted
 admin
 administer
@@ -796,6 +797,7 @@ comprised
 compromised
 compute
 computed
+computing
 conceivably
 concept
 concepts
@@ -3311,6 +3313,7 @@ recover
 recovered
 recoverer
 recovery
+recreate
 recreated
 recursive
 recursively

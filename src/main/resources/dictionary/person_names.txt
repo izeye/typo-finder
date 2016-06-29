@@ -116,10 +116,12 @@ meléndez
 michael
 mills
 mohsin
+nasko
 nicolas
 noronha
 oliver
 olivier
+paluch
 patrick
 pavic
 pierre
@@ -162,6 +164,7 @@ turanski
 turnquist
 tyler
 valkealahti
+vasilev
 vedran
 venil
 vince

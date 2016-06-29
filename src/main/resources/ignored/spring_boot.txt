@@ -64,6 +64,7 @@ benson
 bex
 bg
 bigdullrock
+bigint
 bignumber
 bla
 blam
@@ -336,6 +337,7 @@ mbeans
 mbeanserver
 mbs
 mcast
+mco
 megadrive
 mel
 metainf
@@ -623,6 +625,7 @@ wilkinson
 winch
 withscores
 wls
+wrappedmco
 wssci
 xdb
 xetorthio
