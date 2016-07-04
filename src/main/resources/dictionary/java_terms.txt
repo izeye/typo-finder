@@ -60,6 +60,7 @@ hashtable
 hdiv
 hh
 hikari
+hprof
 htmlunit
 httpclient
 imageio

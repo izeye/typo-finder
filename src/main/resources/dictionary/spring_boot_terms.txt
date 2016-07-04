@@ -37,6 +37,7 @@ findmainclass
 flyway
 fs
 hangup
+heapdump
 httpsessions
 jarfile
 len

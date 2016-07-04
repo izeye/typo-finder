@@ -228,6 +228,7 @@ appended
 appender
 appenders
 appendices
+appending
 appendix
 applicable
 application
@@ -619,6 +620,7 @@ chain
 chained
 chaining
 chains
+challenge
 chance
 chances
 change
@@ -1314,6 +1316,7 @@ dual
 due
 dummy
 dump
+dumped
 dumper
 dumps
 duplicate
@@ -2241,6 +2244,7 @@ interpreter
 interrogate
 interrupt
 interrupted
+interruption
 interval
 into
 introduced
@@ -2444,6 +2448,7 @@ locations
 locator
 locators
 lock
+locked
 locks
 logic
 logical
@@ -3321,6 +3326,7 @@ red
 redefine
 redeliveries
 redirect
+redirected
 redirection
 redirects
 reduce
