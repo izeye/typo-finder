@@ -2254,6 +2254,7 @@ introspect
 introspected
 introspection
 introspector
+introspectors
 invalid
 inverse
 invert
@@ -4259,6 +4260,7 @@ transformed
 transformer
 transformers
 transforms
+transient
 transition
 transitive
 transitively
