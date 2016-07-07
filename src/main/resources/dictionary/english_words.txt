@@ -200,6 +200,7 @@ ancestor
 ancestors
 and
 angeles
+angular
 annotate
 annotated
 annotating
@@ -480,6 +481,7 @@ booking
 books
 boom
 boot
+boots
 bootstrap
 bootstrapped
 bootstrapper
@@ -2386,6 +2388,7 @@ level
 levels
 leveraged
 leverages
+lexical
 libraries
 library
 license

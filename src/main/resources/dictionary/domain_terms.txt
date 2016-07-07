@@ -1,4 +1,6 @@
 amazonaws
+angularfaces
+bootsfaces
 co
 costigliola
 dl
