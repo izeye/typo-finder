@@ -1203,6 +1203,7 @@ die
 died
 differ
 difference
+differences
 different
 differentiate
 differentiator
@@ -3876,6 +3877,7 @@ solo
 solution
 solutions
 solve
+solves
 some
 someone
 something
@@ -4107,6 +4109,8 @@ take
 taken
 takes
 taking
+tangle
+tangled
 tap
 target
 targeting
