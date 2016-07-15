@@ -2258,6 +2258,7 @@ introspected
 introspection
 introspector
 introspectors
+intuitive
 invalid
 inverse
 invert
