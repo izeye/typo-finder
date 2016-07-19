@@ -2433,6 +2433,7 @@ lite
 literal
 little
 live
+living
 load
 loadable
 loaded
@@ -3853,6 +3854,7 @@ slices
 slicing
 slight
 slightly
+slots
 slow
 slower
 sluggish
@@ -4025,6 +4027,7 @@ subset
 substantially
 substitute
 substituting
+substitutions
 subsystem
 subtle
 succeed

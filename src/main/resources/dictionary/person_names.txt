@@ -31,6 +31,7 @@ burke
 cédric
 champeau
 chanwit
+christoffer
 christoph
 clarkson
 clement
@@ -133,6 +134,7 @@ przybyla
 quinten
 ramnivas
 rickard
+richard
 ritter
 rocher
 roy
@@ -140,6 +142,8 @@ ruben
 russell
 saldanha
 sam
+santana
+sawicki
 sebastian
 sebastien
 sergei
