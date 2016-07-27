@@ -1,6 +1,7 @@
 amazonaws
 angularfaces
 bootsfaces
+butterfaces
 co
 costigliola
 dl
@@ -11,6 +12,7 @@ im
 javaserverfaces
 jetbrains
 joel
+joinfaces
 mindprod
 mulesoft
 myfaces

@@ -92,6 +92,7 @@ csrf
 css
 csv
 ctrl
+cucumber
 curie
 curies
 curl
@@ -166,6 +167,7 @@ git
 github
 globbing
 google
+gopher
 gradle
 grails
 graphite

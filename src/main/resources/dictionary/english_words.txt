@@ -149,6 +149,7 @@ alias
 aliased
 aliases
 aliasing
+align
 aligned
 alive
 all
@@ -1779,6 +1780,7 @@ frame
 frames
 framework
 frameworks
+france
 free
 freely
 french
@@ -1836,6 +1838,7 @@ generators
 gentle
 geo
 geospatial
+german
 get
 gets
 getter
@@ -1952,6 +1955,7 @@ he
 head
 header
 headers
+heading
 headless
 health
 healths
@@ -2287,6 +2291,7 @@ issue
 issuers
 issues
 it
+italian
 italic
 item
 items
@@ -2887,6 +2892,7 @@ overloaded
 overridable
 overridden
 override
+overriden
 overrides
 overriding
 overview
@@ -3337,6 +3343,7 @@ redirected
 redirection
 redirects
 reduce
+reduced
 reduces
 reducing
 redundant
@@ -4219,6 +4226,7 @@ timers
 times
 timestamp
 timestamps
+timezone
 timing
 timings
 tip
@@ -4238,6 +4246,7 @@ too
 took
 tool
 tooling
+toolkit
 tools
 top
 topaz
@@ -4375,6 +4384,7 @@ unfortunately
 unhandled
 unhelpful
 uniform
+uninitialized
 unique
 uniquely
 uniqueness
@@ -4447,6 +4457,7 @@ uppercase
 uptime
 upwards
 us
+usable
 usage
 use
 used
