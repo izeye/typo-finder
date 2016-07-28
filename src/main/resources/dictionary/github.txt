@@ -5,3 +5,4 @@ denschu
 paypal
 persapiens
 resteasy
+wiremock
