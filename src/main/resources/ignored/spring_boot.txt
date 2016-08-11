@@ -161,6 +161,7 @@ dfb
 dflt
 dfoo
 dispatcherservlet
+dist
 dit
 djava
 dloader

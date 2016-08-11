@@ -241,6 +241,7 @@ jolokia
 jooq
 jpa
 jpg
+jquery
 jrebel
 js
 json
