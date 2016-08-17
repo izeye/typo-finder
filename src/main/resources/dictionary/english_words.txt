@@ -1976,6 +1976,7 @@ helpfully
 helps
 hence
 here
+hero
 hex
 hexadecimal
 hey
@@ -4312,6 +4313,7 @@ triggered
 triggering
 triggers
 trim
+trimmed
 trip
 triple
 trivial
