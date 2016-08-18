@@ -2013,6 +2013,7 @@ holiday
 home
 honored
 honors
+honoured
 honours
 hood
 hook
@@ -4439,6 +4440,7 @@ unusual
 unwanted
 unwrap
 unwrapped
+unwrapping
 up
 updatable
 update
