@@ -2930,6 +2930,7 @@ paragraphs
 parallel
 parallelism
 parameter
+parameterizable
 parameterize
 parameterized
 parameters
@@ -3636,6 +3637,7 @@ same
 sample
 samples
 sampling
+sane
 sanitization
 sanitize
 sanitized

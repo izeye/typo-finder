@@ -69,6 +69,7 @@ seq
 sitepreference
 stdev
 systemload
+tomcats
 toolbox
 tsdb
 userid
