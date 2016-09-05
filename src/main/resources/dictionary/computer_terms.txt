@@ -258,6 +258,7 @@ kb
 kib
 kilobyte
 lab
+ldap
 lifo
 linkedin
 linux
