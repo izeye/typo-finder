@@ -29,17 +29,17 @@ public class TypoFinderTests {
 	@Test
 	public void testFindTypos() throws IOException {
 //		String filename = "src/test/resources/samples/test.txt";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/index.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/documentation-overview.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/getting-started.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/using-spring-boot.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/spring-boot-features.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/production-ready-features.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/deployment.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/spring-boot-cli.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/build-tool-plugins.adoc";
-//		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/howto.adoc";
-		String filename = "/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/appendix.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/index.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/documentation-overview.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/getting-started.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/using-spring-boot.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/spring-boot-features.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/production-ready-features.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/deployment.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/spring-boot-cli.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/build-tool-plugins.adoc";
+//		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/howto.adoc";
+		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/appendix.adoc";
 		
 		Set<WordToken> typos = this.typoFinder.findTypos(new File(filename));
 		System.out.println("\n= Typos =");
@@ -52,10 +52,10 @@ public class TypoFinderTests {
 
 	@Test
 	public void testFindTyposInDirectory() throws IOException {
-//		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/spring-boot-docs/src/main/asciidoc/");
-		File directory = new File("/Users/izeye/IdeaProjects/spring-boot/");
-//		File directory = new File("/Users/izeye/IdeaProjects/spring-restdocs/");
-//		File directory = new File("/Users/izeye/IdeaProjects/tensorflow/tensorflow/g3doc/tutorials/deep_cnn/");
+//		File directory = new File("../spring-boot/spring-boot-docs/src/main/asciidoc/");
+		File directory = new File("../spring-boot/");
+//		File directory = new File("../spring-restdocs/");
+//		File directory = new File("../tensorflow/tensorflow/g3doc/tutorials/deep_cnn/");
 		
 		Set<String> fileExtensions = new HashSet<>();
 		fileExtensions.add("java");
