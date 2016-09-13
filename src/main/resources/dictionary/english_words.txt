@@ -269,6 +269,7 @@ arrangement
 array
 arrays
 art
+article
 artifact
 artifacts
 as
@@ -588,6 +589,7 @@ capitalized
 capitalizing
 capitals
 capped
+caps
 captor
 capture
 captured
@@ -1409,6 +1411,7 @@ encoding
 encompassing
 encounter
 encountered
+encourage
 encouraged
 encrypted
 end
@@ -2667,6 +2670,7 @@ modify
 modifying
 module
 modules
+money
 mongo
 monitor
 monitored
@@ -3049,6 +3053,7 @@ pledge
 plug
 plugin
 plugins
+plural
 plus
 point
 pointer
@@ -3588,6 +3593,7 @@ reviewed
 reviews
 revised
 revision
+revisiting
 reward
 rewrite
 rewrites

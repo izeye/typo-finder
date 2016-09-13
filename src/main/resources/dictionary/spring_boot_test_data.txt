@@ -16,6 +16,8 @@ rojo
 sframework
 simpsons
 springbootssl
+testa
+testb
 testenum
 teststring
 vehicledetails

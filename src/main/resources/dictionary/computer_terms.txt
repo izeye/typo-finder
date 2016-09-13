@@ -142,6 +142,7 @@ esc
 eval
 exe
 facebook
+failover
 falsy
 favicon
 fds
