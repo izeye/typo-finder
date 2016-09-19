@@ -3137,6 +3137,7 @@ presented
 preserve
 preserved
 preserves
+preserving
 prettify
 pretty
 prevent
@@ -3257,6 +3258,7 @@ puts
 putting
 qualified
 qualifier
+qualifiers
 qualifying
 quartz
 queries
@@ -3317,6 +3319,7 @@ realm
 reap
 reason
 reasons
+reassign
 rebuild
 rebuilding
 rebuilt
@@ -3395,6 +3398,7 @@ registrations
 registry
 regular
 reinitialize
+reinject
 reinstate
 reject
 rejected
@@ -3935,6 +3939,7 @@ specialized
 specific
 specifically
 specification
+specifications
 specifics
 specified
 specifiers
@@ -4091,6 +4096,7 @@ suppose
 supposed
 suppress
 suppressed
+suppresses
 sure
 surefire
 surface

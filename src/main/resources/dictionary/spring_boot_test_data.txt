@@ -16,6 +16,7 @@ rojo
 sframework
 simpsons
 springbootssl
+ssshh
 testa
 testb
 testenum
