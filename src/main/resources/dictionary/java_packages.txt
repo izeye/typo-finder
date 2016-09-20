@@ -1,6 +1,7 @@
 arjuna
 arjunacore
 hawtbuf
+minidev
 okhttp
 searchbox
 squareup

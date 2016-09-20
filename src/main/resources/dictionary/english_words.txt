@@ -1130,6 +1130,7 @@ denied
 denotes
 deny
 depend
+depended
 dependencies
 dependency
 dependent
@@ -3317,6 +3318,7 @@ real
 really
 realm
 reap
+rearrange
 reason
 reasons
 reassign
