@@ -2639,6 +2639,7 @@ mirror
 mirrors
 misc
 misconfiguration
+misconfigured
 mismatch
 miss
 misses
