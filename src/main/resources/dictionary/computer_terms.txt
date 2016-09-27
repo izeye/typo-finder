@@ -60,6 +60,7 @@ cas
 cassandra
 catalina
 cbc
+cbor
 cd
 cgi
 changelog
@@ -417,6 +418,7 @@ servlets
 sh
 sha
 slf
+smile
 smtp
 smtps
 snakeyaml
