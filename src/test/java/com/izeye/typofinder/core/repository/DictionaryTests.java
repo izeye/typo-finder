@@ -1,30 +1,28 @@
 package com.izeye.typofinder.core.repository;
 
-import com.izeye.typofinder.Application;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.boot.test.SpringApplicationConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
 
 import javax.annotation.Resource;
 
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
+import static org.assertj.core.api.Assertions.assertThat;
 
 /**
  * Created by izeye on 15. 10. 23..
  */
-@RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(Application.class)
+@RunWith(SpringRunner.class)
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.NONE)
 public class DictionaryTests {
 	
 	@Resource(name = "englishWordsDictionary")
-	Dictionary dictionary;
+	private Dictionary dictionary;
 	
 	@Test
 	public void testContains() {
-		assertTrue(dictionary.contains("this"));
-		assertFalse(dictionary.contains("izeye"));
+		assertThat(this.dictionary.contains("this")).isTrue();
+		assertThat(this.dictionary.contains("izeye")).isFalse();
 	}
 	
 }
