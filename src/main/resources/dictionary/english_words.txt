@@ -519,6 +519,7 @@ brief
 bright
 bring
 bringing
+brings
 broadcast
 broader
 broken
@@ -1099,6 +1100,7 @@ definitions
 definitive
 deflate
 deflated
+degrade
 delay
 delayed
 delegate
@@ -2207,6 +2209,7 @@ instruct
 instructed
 instructing
 instructions
+instructs
 instrumentation
 insufficient
 insulting

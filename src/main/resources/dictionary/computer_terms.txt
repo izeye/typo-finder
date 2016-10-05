@@ -369,6 +369,9 @@ postgres
 prefetch
 pub
 putty
+# FIXME: For 'QoS' temporarily.
+qo
+qos
 raid
 rc
 rdb
