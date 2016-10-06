@@ -607,6 +607,7 @@ cases
 cast
 cat
 catalog
+catalogs
 catch
 catching
 categorized

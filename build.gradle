@@ -34,7 +34,10 @@ repositories {
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter")
+
+    compile("org.apache.commons:commons-lang3:$commonsLangVersion")
     compile("commons-io:commons-io:$commonsIoVersion")
+    compile("com.github.javaparser:javaparser-core:${javaParserVersion}")
 
     provided("org.projectlombok:lombok")
 

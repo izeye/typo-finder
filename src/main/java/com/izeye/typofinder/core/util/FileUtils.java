@@ -1,5 +1,6 @@
 package com.izeye.typofinder.core.util;
 
+import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,9 +14,8 @@ import java.util.Set;
 /**
  * Created by izeye on 15. 11. 12..
  */
+@Slf4j
 public abstract class FileUtils {
-	
-	private static final Logger LOG = LoggerFactory.getLogger(FileUtils.class);
 
 	public static String extractFileExtension(File file) {
 		String filename = file.getName();
@@ -29,7 +29,7 @@ public abstract class FileUtils {
 			@Override
 			public boolean accept(File pathname) {
 				if (exclusions.contains(pathname.getName())) {
-					LOG.info("Excluded {}", pathname);
+					log.info("Excluded {}", pathname);
 					return false;
 				}
 				if (pathname.isDirectory()) {

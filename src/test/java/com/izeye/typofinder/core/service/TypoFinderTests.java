@@ -1,7 +1,10 @@
 package com.izeye.typofinder.core.service;
 
+import com.izeye.typofinder.core.domain.ValidationReport;
 import com.izeye.typofinder.core.domain.WordToken;
 import com.izeye.typofinder.core.util.FileUtils;
+import com.izeye.typofinder.core.util.StringFormatValidationUtils;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,11 +13,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import static org.junit.Assert.assertTrue;
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.junit.Assert.fail;
 
 /**
  * Created by izeye on 15. 7. 2..
@@ -74,6 +79,7 @@ public class TypoFinderTests {
 		
 		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
 		int size = allFiles.size();
+		List<ValidationReport> failureReports = new ArrayList<>();
 		for (int i = 0; i < size; i++) {
 			File file = allFiles.get(i);
 			System.out.println("Target file: " + file);
@@ -86,9 +92,19 @@ public class TypoFinderTests {
 			System.out.println("\n= Typos for analysis =");
 			typos.stream().forEach(System.out::println);
 			
-			assertTrue(typos.isEmpty());
+			assertThat(typos).isEmpty();
+
+			if (file.getName().endsWith(".java")) {
+				failureReports.addAll(StringFormatValidationUtils.validate(file));
+			}
 
 			System.out.printf("%d of %d file(s) succeeded.%n", i + 1, size);
+		}
+
+		if (!failureReports.isEmpty()) {
+			System.out.println("----- Failure Summary -----");
+			failureReports.stream().forEach(System.out::println);
+			fail();
 		}
 	}
 	
