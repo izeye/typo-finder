@@ -21,6 +21,7 @@ omnifaces
 osherove
 primefaces
 redhat
+restfb
 sock
 sourceforge
 tbaggery

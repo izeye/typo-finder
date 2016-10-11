@@ -3,7 +3,9 @@ charon
 clun
 denschu
 eddumelendez
+marsbits
 paypal
 persapiens
 resteasy
+restfbmessenger
 wiremock

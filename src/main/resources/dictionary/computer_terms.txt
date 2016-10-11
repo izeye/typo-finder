@@ -384,6 +384,7 @@ recompiled
 recompiling
 reconfiguration
 redis
+referer
 regex
 regexes
 regexp
