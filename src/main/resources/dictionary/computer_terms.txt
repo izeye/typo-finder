@@ -259,6 +259,7 @@ jwts
 kb
 kib
 kilobyte
+kotlin
 lab
 ldap
 lifo

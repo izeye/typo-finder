@@ -2,6 +2,7 @@ arr
 bart
 bogus
 byaw
+cloudfoundryapplication
 dilbert
 dlq
 hellotwo
