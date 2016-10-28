@@ -3635,7 +3635,9 @@ rolling
 room
 root
 roots
+rotatable
 rotate
+rotation
 roughly
 round
 rounded
