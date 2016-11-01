@@ -19,6 +19,7 @@ configurationprocessor
 connectionfactory
 crsh
 datasource
+datasources
 delims
 dep
 dependencymanagement
