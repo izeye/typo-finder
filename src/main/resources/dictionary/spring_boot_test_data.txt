@@ -15,6 +15,7 @@ mmouse
 mymain
 mywebapp
 nomjvb
+nosecurity
 rojo
 sframework
 simpsons
