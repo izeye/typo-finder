@@ -336,6 +336,7 @@ attr
 attrs
 attribute
 attributes
+audience
 audit
 auditing
 augment
@@ -674,6 +675,7 @@ circumvents
 circumstances
 cities
 city
+claims
 clarified
 clash
 clashes
@@ -2309,6 +2311,7 @@ iso
 isolated
 isolation
 issue
+issuer
 issuers
 issues
 it
@@ -2890,6 +2893,7 @@ orientation
 oriented
 origin
 original
+originates
 origins
 orphan
 other
@@ -4160,6 +4164,7 @@ take
 taken
 takes
 taking
+tampered
 tangle
 tangled
 tap

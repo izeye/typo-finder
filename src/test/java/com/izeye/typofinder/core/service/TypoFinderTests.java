@@ -76,7 +76,11 @@ public class TypoFinderTests {
 		exclusions.add("ResourceServerTokenServicesConfigurationTests.java");
 		exclusions.add("SampleClient.java");
 		exclusions.add("SampleSecureOAuth2Application.java");
-		
+		exclusions.add("CloudFoundrySecurityInterceptorTests.java");
+		exclusions.add("CloudFoundrySecurityServiceTests.java");
+		exclusions.add("TokenTests.java");
+		exclusions.add("TokenValidatorTests.java");
+
 		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
 		int size = allFiles.size();
 		List<ValidationReport> failureReports = new ArrayList<>();
