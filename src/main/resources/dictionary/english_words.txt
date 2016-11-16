@@ -871,6 +871,7 @@ consist
 consistency
 consistent
 consistently
+consists
 console
 consolidate
 const
@@ -1162,6 +1163,7 @@ derive
 derived
 deriving
 derogatory
+descending
 describe
 described
 describes
@@ -2170,6 +2172,7 @@ information
 informational
 infrastructure
 infrequently
+inherent
 inherit
 inherited
 inheriting
@@ -2685,6 +2688,7 @@ modifications
 modified
 modifier
 modifiers
+modifies
 modify
 modifying
 module
