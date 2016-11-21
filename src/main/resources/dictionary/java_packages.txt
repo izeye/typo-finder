@@ -1,5 +1,6 @@
 arjuna
 arjunacore
+bytebuddy
 hawtbuf
 minidev
 okhttp

@@ -534,6 +534,7 @@ browse
 browser
 browsers
 bucket
+buddy
 buffer
 buffered
 buffering
@@ -1237,6 +1238,7 @@ dimension
 direct
 direction
 directive
+directives
 directly
 directories
 directory
@@ -2004,6 +2006,7 @@ hey
 hi
 hidden
 hide
+hides
 hiding
 hierarchical
 hierarchies
@@ -2995,7 +2998,9 @@ passwords
 past
 paste
 patch
+patched
 patches
+patching
 path
 paths
 pattern
@@ -3285,6 +3290,7 @@ qualified
 qualifier
 qualifiers
 qualifying
+quality
 quartz
 queries
 query
