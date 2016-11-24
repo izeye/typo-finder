@@ -185,6 +185,7 @@ hal
 hamcrest
 hardcoded
 hardcoding
+hashcodes
 hateoas
 hazelcast
 heroku
@@ -256,6 +257,7 @@ jvisualvm
 jvm
 jwt
 jwts
+kafka
 kb
 kib
 kilobyte

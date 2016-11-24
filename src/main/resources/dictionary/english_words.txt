@@ -42,12 +42,15 @@ accumulated
 accurate
 achieve
 achieved
+ack
 acknowledge
 acknowledged
 acknowledgement
 acknowledgements
 acknowledges
 acknowledgment
+acknowledgments
+acks
 acme
 acquire
 acquired
@@ -212,6 +215,7 @@ anonymously
 another
 answer
 answered
+answering
 answers
 any
 anymore
@@ -586,6 +590,7 @@ candidate
 candidates
 cannot
 canonical
+canonicalize
 cap
 capabilities
 capable
@@ -1175,6 +1180,7 @@ descriptor
 descriptors
 design
 designated
+designates
 designed
 desirable
 desired
@@ -1986,6 +1992,7 @@ healths
 heap
 heart
 heartbeat
+heartbeats
 heaven
 heavily
 height
@@ -2063,6 +2070,7 @@ human
 hunt
 hyper
 hyphen
+hyphenated
 hyphens
 icon
 icons
@@ -2113,6 +2121,7 @@ implicitly
 implied
 implies
 import
+importance
 important
 imported
 importing
@@ -2395,6 +2404,7 @@ layouts
 lazily
 lazy
 lead
+leader
 leading
 leads
 leak
@@ -3689,6 +3699,7 @@ sanitized
 sanitizer
 sanity
 sapphire
+satisfy
 saturation
 sauce
 save
