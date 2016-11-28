@@ -179,6 +179,7 @@ dps
 drun
 ds
 dserver
+dskip
 dskiptests
 dsm
 dsome
