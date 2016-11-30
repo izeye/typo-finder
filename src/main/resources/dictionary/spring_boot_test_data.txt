@@ -10,6 +10,7 @@ cloudfoundryapplication
 dilbert
 dlq
 donttell
+gradleit
 hellotwo
 kcom
 ksloc

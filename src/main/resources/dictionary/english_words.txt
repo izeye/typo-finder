@@ -688,6 +688,7 @@ clashes
 clashing
 classed
 classic
+classified
 classifier
 classifiers
 clean
@@ -1803,6 +1804,7 @@ foundation
 foundry
 four
 fourth
+fragile
 fragment
 fragmented
 fragments
@@ -2453,6 +2455,7 @@ likely
 likes
 likewise
 limit
+limitation
 limitations
 limited
 limits
@@ -2995,6 +2998,7 @@ participating
 participation
 particular
 particularly
+parties
 partition
 partitioner
 parts
@@ -4592,6 +4596,7 @@ views
 violated
 violation
 virtual
+visible
 visibility
 visit
 visited
