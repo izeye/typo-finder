@@ -5,5 +5,6 @@ hawtbuf
 minidev
 okhttp
 searchbox
+spockframework
 squareup
 webresources
