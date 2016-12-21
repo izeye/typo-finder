@@ -166,6 +166,7 @@ dit
 djava
 dloader
 dlrow
+dnop
 dockerfile
 dockerjava
 doesnotexist

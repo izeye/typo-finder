@@ -70,6 +70,7 @@ repro
 sendgrid
 seq
 sitepreference
+sqli
 stdev
 systemload
 tomcats
