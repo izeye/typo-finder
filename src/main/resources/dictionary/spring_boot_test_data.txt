@@ -3,13 +3,16 @@ arr
 bah
 bart
 bogus
+buz
 byaw
 ccid
+changelogdbtest
 cid
 cloudfoundryapplication
 dilbert
 dlq
 donttell
+fiz
 gradleit
 hellotwo
 kcom
@@ -23,6 +26,7 @@ mywebapp
 nomjvb
 nosecurity
 orcl
+qux
 rojo
 sframework
 simpsons
@@ -33,6 +37,7 @@ testb
 testenum
 testnomockito
 teststring
+testviamg
 tsloc
 tslocp
 ud

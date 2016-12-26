@@ -152,6 +152,8 @@ firebird
 firefox
 fk
 fluentd
+flyway
+flyways
 fn
 foo
 foobar
@@ -268,6 +270,7 @@ lifo
 linkedin
 linux
 liquibase
+liquibases
 livereload
 localhost
 logback
@@ -388,6 +391,7 @@ recompiled
 recompiling
 reconfiguration
 redis
+rediss
 referer
 regex
 regexes

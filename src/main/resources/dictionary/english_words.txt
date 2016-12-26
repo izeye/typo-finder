@@ -1538,6 +1538,7 @@ exception
 exceptions
 excess
 exchange
+exchanger
 exclude
 excluded
 excludes
@@ -2229,6 +2230,7 @@ instances
 instant
 instantiate
 instantiated
+instantiates
 instantiating
 instantiation
 instantly
@@ -2769,6 +2771,7 @@ needs
 negated
 negative
 negotiate
+negotiated
 negotiating
 negotiation
 neither
@@ -2944,6 +2947,7 @@ override
 overriden
 overrides
 overriding
+overrule
 overview
 overwrite
 overwriting
@@ -3158,6 +3162,7 @@ preferably
 preference
 preferences
 preferred
+preferring
 prefers
 prefill
 prefix
@@ -3495,6 +3500,7 @@ remote
 remotely
 remotes
 remoting
+removal
 remove
 removed
 remover
@@ -3568,6 +3574,7 @@ requisite
 rerun
 reserve
 reserved
+reservoir
 reset
 resets
 resides

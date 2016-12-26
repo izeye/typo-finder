@@ -10,6 +10,7 @@ artem
 arthur
 artur
 aurélien
+aust
 badie
 beaudet
 benedikt
@@ -117,6 +118,7 @@ madhura
 maj
 maki
 manuel
+marco
 marten
 martin
 mattias
