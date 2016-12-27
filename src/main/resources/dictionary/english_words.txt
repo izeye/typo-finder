@@ -4408,6 +4408,7 @@ try
 trying
 tune
 tuned
+tunes
 tunnel
 tunneling
 turbo
