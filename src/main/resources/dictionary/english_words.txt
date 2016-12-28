@@ -1241,6 +1241,7 @@ difficult
 digest
 digester
 digit
+digits
 dimension
 direct
 direction
