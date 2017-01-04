@@ -1,6 +1,7 @@
 accesslog
 activemq
 arch
+auditevents
 auth
 authserver
 autoconfig

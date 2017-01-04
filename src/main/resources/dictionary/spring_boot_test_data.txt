@@ -15,6 +15,7 @@ donttell
 fiz
 gradleit
 hellotwo
+idontexist
 kcom
 ksloc
 kslocp

@@ -265,6 +265,7 @@ kib
 kilobyte
 kotlin
 lab
+lambda
 ldap
 lifo
 linkedin
