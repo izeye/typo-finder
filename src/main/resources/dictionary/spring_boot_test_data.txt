@@ -23,6 +23,7 @@ logname
 logz
 mmouse
 mymain
+mypath
 mywebapp
 nomjvb
 nosecurity

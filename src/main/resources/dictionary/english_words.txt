@@ -344,6 +344,7 @@ audience
 audit
 auditing
 augment
+augmented
 australia
 authenticate
 authenticated
@@ -1447,6 +1448,7 @@ endpoint
 endpoints
 ends
 enforce
+enforced
 enforces
 engine
 engines
@@ -1655,6 +1657,7 @@ fairly
 fake
 fall
 fallback
+fallbacks
 falling
 falls
 false
