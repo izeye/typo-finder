@@ -620,6 +620,7 @@ cat
 catalog
 catalogs
 catch
+catchall
 catching
 categorized
 category
@@ -3268,6 +3269,7 @@ properties
 property
 protect
 protected
+protecting
 protection
 protocol
 protocols
