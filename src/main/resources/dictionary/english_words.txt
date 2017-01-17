@@ -2181,6 +2181,7 @@ indicators
 indirectly
 individual
 individually
+industry
 inefficient
 infer
 inferred
@@ -2416,6 +2417,7 @@ lead
 leader
 leading
 leads
+leaf
 leak
 leaking
 leaky
@@ -2548,6 +2550,7 @@ maintain
 maintained
 maintainer
 maintainers
+maintaining
 maintains
 maintenance
 major
@@ -2921,6 +2924,7 @@ orientation
 oriented
 origin
 original
+originate
 originates
 origins
 orphan
@@ -3067,6 +3071,7 @@ person
 personal
 phase
 phases
+phone
 phrase
 physical
 pi
@@ -4172,6 +4177,7 @@ swallow
 swallowed
 swap
 swapping
+sweden
 swedish
 sweep
 switch

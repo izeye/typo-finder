@@ -112,6 +112,7 @@ jtaextensions
 juli
 keystore
 lang
+ldapsdk
 linkplain
 mbean
 mkdirs

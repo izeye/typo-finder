@@ -24,6 +24,7 @@ logz
 mmouse
 mymain
 mypath
+myserver
 mywebapp
 nomjvb
 nosecurity

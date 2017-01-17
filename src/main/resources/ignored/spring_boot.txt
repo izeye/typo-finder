@@ -244,6 +244,7 @@ fusesource
 gae
 gensrc
 geoffrey
+getbasedns
 getmymap
 getval
 gh

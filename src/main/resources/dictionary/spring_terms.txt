@@ -16,6 +16,7 @@ exp
 fowler
 gridfs
 gs
+hierarchicalroles
 hsql
 htmlsingle
 impl

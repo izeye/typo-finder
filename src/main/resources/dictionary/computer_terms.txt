@@ -79,6 +79,7 @@ classpath
 classpaths
 cli
 cmd
+cn
 codahale
 codehaus
 commons
@@ -122,6 +123,8 @@ dev
 dir
 dirs
 dml
+dn
+dns
 docker
 docs
 dom
@@ -267,6 +270,7 @@ kotlin
 lab
 lambda
 ldap
+ldif
 lifo
 linkedin
 linux
@@ -345,12 +349,14 @@ null
 nullable
 nulls
 octet
+odm
 opcodes
 opentsdb
 ops
 oracle
 orm
 os
+ou
 paas
 packet
 passphrase
