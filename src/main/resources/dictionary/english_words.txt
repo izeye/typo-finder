@@ -1821,6 +1821,7 @@ frameworks
 france
 free
 freely
+freeze
 french
 frequency
 frequent
@@ -1839,6 +1840,7 @@ fume
 function
 functional
 functionality
+functioning
 functions
 further
 furthermore
@@ -4133,6 +4135,7 @@ successful
 successfully
 successor
 such
+suffered
 sufficient
 suffix
 suffixed
@@ -4173,6 +4176,7 @@ surface
 surrounded
 surrounding
 suspend
+suspending
 swallow
 swallowed
 swap
