@@ -3,6 +3,7 @@ charon
 clun
 denschu
 eddumelendez
+freefair
 marsbits
 paypal
 persapiens

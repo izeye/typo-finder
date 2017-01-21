@@ -1666,6 +1666,7 @@ familiar
 family
 fancy
 fault
+faulty
 far
 fashion
 fast
@@ -3984,6 +3985,7 @@ sometimes
 somewhat
 somewhere
 soon
+sophisticated
 sorry
 sort
 sortable

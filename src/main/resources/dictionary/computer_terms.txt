@@ -45,6 +45,7 @@ boxfuse
 bpm
 breakpoint
 breakpoints
+bson
 btm
 byte
 bytecode
@@ -90,6 +91,7 @@ configs
 cors
 couchbase
 coyote
+cql
 crc
 crud
 csrf
