@@ -20,6 +20,7 @@ sys
 systemctl
 systemd
 tmp
+tmpwatch
 usermod
 var
 vinit

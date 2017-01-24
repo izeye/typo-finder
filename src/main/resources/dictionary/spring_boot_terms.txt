@@ -6,6 +6,7 @@ auth
 authserver
 autoconfig
 autoconfigure
+autoconfigureprocessor
 avg
 basedir
 beanfactory

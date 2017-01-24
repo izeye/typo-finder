@@ -2449,6 +2449,7 @@ level
 levels
 leveraged
 leverages
+leveraging
 lexical
 lexically
 libraries
@@ -3681,6 +3682,7 @@ rights
 rigorous
 ring
 risk
+road
 robust
 role
 roles
@@ -4726,6 +4728,7 @@ works
 world
 worried
 worry
+worse
 worth
 would
 wrap
