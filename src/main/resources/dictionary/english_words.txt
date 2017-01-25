@@ -572,6 +572,7 @@ bypassing
 calendar
 calculate
 calculated
+calculator
 call
 callable
 called
@@ -630,6 +631,7 @@ caused
 causes
 causing
 cautiously
+cellar
 center
 central
 centrally
@@ -4424,6 +4426,7 @@ truncating
 trust
 trusted
 trusting
+trusty
 try
 trying
 tune

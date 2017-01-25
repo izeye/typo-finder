@@ -115,6 +115,7 @@ lang
 ldapsdk
 linkplain
 mbean
+metaspace
 mkdirs
 mm
 modelmapper
@@ -176,6 +177,7 @@ xdebug
 xff
 xid
 xids
+xms
 xmx
 xnio
 xrunjdwp

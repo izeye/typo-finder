@@ -6,6 +6,7 @@ grep
 kernel
 lc
 lib
+libexec
 ln
 man
 mv
