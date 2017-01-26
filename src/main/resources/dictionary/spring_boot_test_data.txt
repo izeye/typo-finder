@@ -2,6 +2,7 @@ amock
 arr
 bah
 bart
+bindtoapplication
 bogus
 buz
 byaw
