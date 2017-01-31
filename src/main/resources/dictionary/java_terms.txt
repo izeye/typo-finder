@@ -48,6 +48,7 @@ fasterxml
 fileupload
 firebirdsql
 fixme
+flux
 flywaydb
 gargoylesoftware
 generic
@@ -120,6 +121,7 @@ mkdirs
 mm
 modelmapper
 mojarra
+mono
 multiline
 mx
 mybatis

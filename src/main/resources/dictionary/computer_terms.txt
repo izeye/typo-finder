@@ -30,6 +30,7 @@ basenames
 bash
 bath
 baz
+beanstalk
 birt
 bintray
 bitronix
@@ -164,6 +165,7 @@ flyways
 fn
 foo
 foobar
+formation
 fqn
 freemarker
 ftl
@@ -343,6 +345,7 @@ mysql
 namespace
 namespaces
 netty
+nginx
 nio
 nix
 nondefault

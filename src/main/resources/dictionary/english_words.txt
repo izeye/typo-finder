@@ -391,6 +391,7 @@ backwards
 bad
 badge
 badges
+balanced
 balancer
 balancing
 ban
@@ -983,6 +984,8 @@ corresponding
 corresponds
 corrupted
 cosmetic
+cost
+costs
 could
 couldn't
 count
@@ -1000,6 +1003,7 @@ course
 covenant
 cover
 covered
+covering
 covers
 crap
 crash
@@ -1207,6 +1211,7 @@ detection
 detecting
 detector
 detects
+determinable
 determine
 determined
 determines
@@ -2833,6 +2838,7 @@ nothing
 notice
 notification
 notified
+notifier
 notify
 notion
 now
@@ -3075,6 +3081,7 @@ persistence
 persistent
 person
 personal
+perspective
 phase
 phases
 phone
@@ -3212,6 +3219,7 @@ prevents
 previous
 previously
 price
+pricing
 primarily
 primary
 prime
@@ -4718,6 +4726,7 @@ wishing
 with
 within
 without
+wizard
 won't
 word
 words
