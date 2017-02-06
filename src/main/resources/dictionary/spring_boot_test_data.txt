@@ -33,6 +33,12 @@ nomatch
 nomjvb
 nosecurity
 orcl
+pcaffeine
+pcouchbase
+pehcache
+phazelcast
+pinfinispan
+predis
 qux
 rojo
 setx
