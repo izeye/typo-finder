@@ -19,6 +19,7 @@ configprops
 configurationmetadata
 configurationprocessor
 connectionfactory
+connecttimeout
 crsh
 datasource
 datasources
@@ -86,4 +87,5 @@ websocket
 websockets
 whitelabel
 wlp
+writetimeout
 zk

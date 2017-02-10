@@ -4,6 +4,7 @@ bytebuddy
 hawtbuf
 minidev
 okhttp
+reactivestreams
 searchbox
 spockframework
 squareup

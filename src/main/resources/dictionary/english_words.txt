@@ -607,6 +607,7 @@ caps
 captor
 capture
 captured
+capturing
 care
 careful
 carefully
@@ -1292,6 +1293,7 @@ disk
 dispatch
 dispatched
 dispatcher
+dispatchers
 display
 displayed
 displays
@@ -2385,6 +2387,7 @@ keyed
 keys
 kick
 kicks
+kid
 kill
 killed
 killer
@@ -2768,6 +2771,7 @@ naming
 nano
 nanoseconds
 narrow
+narrowed
 nashville
 nationality
 native
@@ -2779,6 +2783,7 @@ navigable
 navigate
 nb
 near
+nearest
 nearly
 necessarily
 necessary
@@ -3423,6 +3428,7 @@ records
 recover
 recovered
 recoverer
+recoverers
 recovery
 recreate
 recreated
@@ -4532,6 +4538,7 @@ unregister
 unrelated
 unresolvable
 unresolved
+unresponsive
 unrestricted
 unroutable
 unsafe
