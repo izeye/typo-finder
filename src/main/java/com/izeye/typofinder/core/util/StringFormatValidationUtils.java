@@ -21,7 +21,7 @@ import org.apache.commons.lang3.StringUtils;
 import com.izeye.typofinder.core.domain.ValidationReport;
 
 /**
- * Utilities for validating on {@linke String#format} like matching varargs.
+ * Utilities for validating on {@link String#format} like matching varargs.
  *
  * @author Johnny Lim
  */
