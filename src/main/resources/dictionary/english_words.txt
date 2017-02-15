@@ -1223,6 +1223,7 @@ developers
 developing
 development
 develops
+deviate
 deviation
 device
 devices
