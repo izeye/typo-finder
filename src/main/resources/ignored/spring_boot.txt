@@ -442,6 +442,8 @@ pdocker
 pds
 pedro
 pexcludedevtools
+pexcludedevtoolsonbootrepackage
+pexcludedevtoolsonextension
 pextensionexecutable
 pextensionproperties
 pextensionscript
