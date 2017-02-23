@@ -121,6 +121,7 @@ manuel
 marco
 marten
 martin
+mathieu
 mattias
 meang
 meléndez
@@ -132,6 +133,7 @@ nicolas
 noronha
 oliver
 olivier
+ouellet
 paluch
 patrick
 pavic
