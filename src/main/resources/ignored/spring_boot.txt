@@ -264,6 +264,7 @@ healthindicator
 hel
 herokuapp
 hihlovskiy
+hm
 hotswapping
 howto
 hr

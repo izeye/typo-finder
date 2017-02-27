@@ -82,6 +82,7 @@ userid
 val
 webclient
 webdriver
+webflux
 webservices
 websocket
 websockets

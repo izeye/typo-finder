@@ -1301,6 +1301,7 @@ display
 displayed
 displays
 disposable
+dispose
 disposition
 distance
 distinct
@@ -2241,6 +2242,7 @@ insecured
 insensitive
 insert
 inserted
+inserters
 inserts
 inside
 inspect
@@ -3484,6 +3486,7 @@ registrars
 registration
 registrations
 registry
+regroups
 regular
 reinitialize
 reinject
@@ -3720,6 +3723,7 @@ rounded
 rounding
 route
 routed
+router
 routing
 row
 rubbish
