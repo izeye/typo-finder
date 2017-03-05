@@ -69,6 +69,7 @@ cd
 cgi
 changelog
 charset
+checkstyle
 checksum
 chown
 chrome
@@ -534,6 +535,7 @@ util
 utils
 uuid
 uuids
+vars
 varchar
 velocity
 vm

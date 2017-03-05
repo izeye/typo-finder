@@ -448,6 +448,7 @@ pexcludedevtoolsonextension
 pextensionexecutable
 pextensionproperties
 pextensionscript
+pfast
 pg
 pgenerate
 phil

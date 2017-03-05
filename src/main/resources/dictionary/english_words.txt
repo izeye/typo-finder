@@ -600,6 +600,7 @@ cap
 capabilities
 capable
 capacity
+capitalise
 capitalize
 capitalized
 capitalizing
@@ -1563,6 +1564,7 @@ excluding
 exclusion
 exclusions
 exclusive
+exclusively
 executable
 execute
 executed
@@ -2054,6 +2056,7 @@ hint
 hints
 histogram
 histograms
+historic
 history
 hit
 hits
@@ -2256,6 +2259,7 @@ instantiated
 instantiates
 instantiating
 instantiation
+instantiator
 instantly
 instead
 instruct
@@ -4096,6 +4100,7 @@ statuses
 stay
 step
 steps
+stepwise
 stereotype
 stick
 still
