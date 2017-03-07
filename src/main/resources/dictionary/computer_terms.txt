@@ -348,6 +348,7 @@ mysql
 namespace
 namespaces
 netty
+newline
 nginx
 nio
 nix
@@ -369,10 +370,12 @@ os
 ou
 paas
 packet
+pascal
 passphrase
 pathname
 pdf
 pem
+perl
 php
 pid
 pids
@@ -391,6 +394,7 @@ postfix
 postfixes
 postgres
 prefetch
+python
 pub
 putty
 # FIXME: For 'QoS' temporarily.
@@ -517,6 +521,7 @@ uk
 unc
 uncompressed
 undertow
+unicode
 uninstall
 uninstalling
 unix

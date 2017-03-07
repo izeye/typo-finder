@@ -237,6 +237,7 @@ appenders
 appendices
 appending
 appendix
+apple
 applicable
 application
 applications
@@ -386,6 +387,7 @@ background
 backing
 backlog
 backs
+backslash
 backslashes
 backup
 backward
@@ -541,6 +543,7 @@ bravo
 browse
 browser
 browsers
+bsc
 bucket
 buddy
 buffer
@@ -614,6 +617,7 @@ capturing
 care
 careful
 carefully
+carriage
 carried
 carries
 carry
@@ -772,6 +776,7 @@ command
 commands
 commence
 comment
+commented
 comments
 commercial
 commercially
@@ -1397,6 +1402,7 @@ editions
 editor
 editors
 edits
+education
 effect
 effective
 effectively
@@ -1412,6 +1418,7 @@ electronically
 element
 elements
 eligible
+elite
 else
 elsewhere
 email
@@ -1789,6 +1796,7 @@ following
 follows
 font
 food
+foods
 fool
 footprint
 for
@@ -1876,6 +1884,7 @@ gathering
 gathers
 gauge
 gauges
+gcses
 geekery
 gem
 gems
@@ -2415,6 +2424,7 @@ lacks
 laid
 lame
 language
+languages
 large
 last
 lastly
@@ -2592,6 +2602,7 @@ manages
 managing
 mandated
 mandatory
+mango
 manifest
 manipulate
 manipulating
@@ -2938,6 +2949,7 @@ optionally
 options
 opts
 or
+orange
 order
 ordered
 ordering
@@ -2951,6 +2963,7 @@ oriented
 origin
 original
 originate
+originated
 originates
 origins
 orphan
@@ -3766,6 +3779,7 @@ saw
 say
 says
 scalable
+scalar
 scale
 scaled
 scan
@@ -3905,6 +3919,7 @@ shop
 short
 shortcomings
 shortcut
+shortcuts
 shorten
 shorter
 shorthand
@@ -4118,6 +4133,7 @@ straight
 strap
 strategies
 strategy
+strawberry
 stream
 streams
 strict
@@ -4387,6 +4403,7 @@ trace
 traces
 tracing
 track
+tracked
 tracker
 tracking
 tracks

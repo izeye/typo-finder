@@ -598,6 +598,7 @@ tp
 tr
 translatecommandline
 triggerfile
+trnf
 tsanev
 ttest
 turnquest
@@ -614,6 +615,7 @@ urlencoded
 urpruqtf
 userinfo
 utm
+uxxxx
 verylockish
 veryokish
 vfs

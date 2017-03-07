@@ -3,6 +3,7 @@ arr
 bah
 bart
 bindtoapplication
+bling
 bogus
 bsomething
 buz
@@ -14,9 +15,11 @@ cloudfoundryapplication
 dilbert
 dlq
 donttell
+fbar
 fiz
 gradleit
 hellotwo
+helloworld
 idontexist
 intx
 kcom
@@ -40,6 +43,7 @@ phazelcast
 pinfinispan
 predis
 qux
+rbar
 rojo
 setx
 sframework
@@ -47,6 +51,7 @@ simpsons
 springbootssl
 ssshh
 stringx
+tbar
 testa
 testb
 testenum
@@ -56,8 +61,10 @@ testviamg
 testx
 tsloc
 tslocp
+ty
 ud
 udca
 vehicledetails
 vin
+vloper
 za
