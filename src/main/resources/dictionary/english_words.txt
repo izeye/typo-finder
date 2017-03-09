@@ -3766,6 +3766,8 @@ sanitization
 sanitize
 sanitized
 sanitizer
+sanitizes
+sanitizing
 sanity
 sapphire
 satisfy
