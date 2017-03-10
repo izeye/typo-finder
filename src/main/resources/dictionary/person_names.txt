@@ -149,6 +149,7 @@ rickard
 richard
 ritter
 rocher
+roland
 roy
 ruben
 russell
@@ -191,6 +192,7 @@ wadge
 walkowiak
 walls
 wallace
+weisleder
 wolff
 yang
 yogesh
