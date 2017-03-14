@@ -1,3 +1,4 @@
 buildscript
+dist
 gradlew
 userguide

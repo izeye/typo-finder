@@ -511,6 +511,7 @@ tomcat
 tsd
 ttl
 tty
+tuple
 tvf
 twitter
 txt

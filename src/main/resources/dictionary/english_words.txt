@@ -752,6 +752,7 @@ collecting
 collection
 collections
 collector
+collectors
 collects
 collision
 collisions
@@ -3254,6 +3255,7 @@ primitive
 primitives
 principal
 principally
+principals
 principle
 principles
 print
