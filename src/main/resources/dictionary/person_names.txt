@@ -148,6 +148,7 @@ ramnivas
 rickard
 richard
 ritter
+robert
 rocher
 roland
 roy
@@ -168,6 +169,7 @@ smith
 spencer
 stephane
 stéphane
+stern
 stolyarov
 strobl
 stummvoll
