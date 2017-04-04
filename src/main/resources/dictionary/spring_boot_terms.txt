@@ -1,3 +1,4 @@
+abbrev
 accesslog
 activemq
 arch
