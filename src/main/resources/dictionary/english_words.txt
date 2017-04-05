@@ -260,6 +260,7 @@ arbitrary
 architecture
 archive
 archived
+archivers
 archives
 are
 area
@@ -293,6 +294,7 @@ assembler
 assembling
 assembly
 assert
+asserting
 assertion
 assertions
 asserts
@@ -1316,6 +1318,7 @@ distinguish
 distinguished
 distribute
 distributed
+distributing
 distribution
 distributions
 diverge
@@ -1560,6 +1563,7 @@ examples
 exceed
 excellent
 except
+excepted
 exception
 exceptions
 excess
@@ -3234,6 +3238,7 @@ prerequisite
 presence
 present
 presented
+preservation
 preserve
 preserved
 preserves
@@ -3409,6 +3414,7 @@ re
 reach
 reachable
 reached
+reacting
 reactive
 reacts
 read
@@ -3618,6 +3624,7 @@ representing
 represents
 reproduce
 reproduces
+reproducible
 request
 requested
 requesting
@@ -3773,6 +3780,7 @@ sanitizes
 sanitizing
 sanity
 sapphire
+satisfied
 satisfy
 saturation
 sauce
@@ -4195,6 +4203,7 @@ suffix
 suffixed
 suffixes
 suggested
+suggesting
 suggestion
 suit
 suitable
@@ -4616,6 +4625,7 @@ upwards
 us
 usable
 usage
+usages
 use
 used
 useful
@@ -4670,6 +4680,7 @@ verify
 verifying
 version
 versioning
+versionless
 versions
 very
 veto

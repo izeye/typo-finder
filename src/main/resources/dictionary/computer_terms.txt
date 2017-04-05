@@ -547,6 +547,7 @@ velocity
 vm
 void
 war
+wars
 webjar
 webjars
 wget

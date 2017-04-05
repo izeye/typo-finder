@@ -76,6 +76,7 @@ sitepreference
 sqli
 stdev
 systemload
+testkit
 tomcats
 toolbox
 tsdb
