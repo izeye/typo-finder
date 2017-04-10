@@ -2,6 +2,7 @@ arjuna
 arjunacore
 bytebuddy
 hawtbuf
+hotswap
 minidev
 okhttp
 reactivestreams

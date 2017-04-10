@@ -4212,6 +4212,7 @@ suited
 suites
 suits
 sum
+summarized
 summarizes
 summary
 summed
