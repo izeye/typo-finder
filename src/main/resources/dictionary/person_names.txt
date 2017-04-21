@@ -43,6 +43,7 @@ cramer
 daniel
 dawson
 deinum
+del
 dijkstra
 doninger
 doo
@@ -131,6 +132,7 @@ mohsin
 nasko
 nicolas
 noronha
+odín
 oliver
 olivier
 ouellet
@@ -148,6 +150,7 @@ ramnivas
 rickard
 richard
 ritter
+río
 robert
 rocher
 roland

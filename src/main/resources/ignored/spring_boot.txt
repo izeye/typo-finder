@@ -326,6 +326,7 @@ ll
 lo
 loc
 localhostisipv
+loglevelforloggerwithnamethatcouldbemistakenforapathextension
 logpath
 lrc
 luke
@@ -545,6 +546,7 @@ somepassword
 somesecret
 sometoken
 sopov
+specificmetricwithnamethatcouldbemistakenforapathextension
 spr
 springapplicationtest
 springbeans
