@@ -4553,6 +4553,7 @@ unhelpful
 uniform
 uninitialized
 uninterruptibly
+union
 unique
 uniquely
 uniqueness

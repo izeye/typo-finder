@@ -2,6 +2,7 @@ amazonaws
 angularfaces
 apidocs
 bootsfaces
+brunorozendo
 butterfaces
 co
 costigliola
