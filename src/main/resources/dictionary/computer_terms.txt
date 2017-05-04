@@ -69,6 +69,7 @@ cd
 cgi
 changelog
 charset
+charsets
 checkstyle
 checksum
 chown
@@ -275,6 +276,7 @@ kafka
 kb
 kib
 kilobyte
+kilobytes
 kotlin
 lab
 lambda
@@ -347,6 +349,7 @@ mvn
 mysql
 namespace
 namespaces
+ncsa
 netty
 newline
 nginx

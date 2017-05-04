@@ -26,6 +26,7 @@ com
 comp
 concat
 conn
+connectiontimeout
 cp
 databind
 dataformat
@@ -114,11 +115,13 @@ juli
 keystore
 lang
 ldapsdk
+lettuce
 linkplain
 mbean
 metaspace
 mkdirs
 mm
+mmm
 modelmapper
 mojarra
 mono
@@ -151,6 +154,7 @@ sf
 skyscreamer
 solrj
 spi
+spliterator
 sqrt
 src
 ss
@@ -185,4 +189,5 @@ xnio
 xrunjdwp
 xx
 yyyy
+yyyymmdd
 zos

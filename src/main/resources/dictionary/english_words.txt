@@ -168,6 +168,7 @@ alone
 along
 alongside
 alpha
+alphabetic
 alphabetically
 alphanumeric
 already
@@ -205,6 +206,7 @@ ancestor
 ancestors
 and
 angeles
+angle
 angular
 annotate
 annotated
@@ -238,6 +240,7 @@ appendices
 appending
 appendix
 apple
+applicability
 applicable
 application
 applications
@@ -291,6 +294,7 @@ aspects
 assemble
 assembled
 assembler
+assembles
 assembling
 assembly
 assert
@@ -312,6 +316,7 @@ associate
 associates
 associated
 association
+associative
 assume
 assumed
 assumes
@@ -469,6 +474,7 @@ binary
 bind
 bindable
 binder
+binders
 binding
 bindings
 binds
@@ -518,6 +524,7 @@ bound
 boundary
 bounds
 box
+boxed
 boxing
 bracket
 brackets
@@ -529,6 +536,7 @@ breaks
 brevity
 brew
 bridge
+bridged
 bridging
 brief
 bright
@@ -555,6 +563,7 @@ buffers
 bug
 bugs
 build
+buildable
 builder
 builders
 building
@@ -769,6 +778,7 @@ columns
 combination
 combine
 combined
+combines
 combining
 come
 comes
@@ -895,6 +905,7 @@ consist
 consistency
 consistent
 consistently
+consisting
 consists
 console
 consolidate
@@ -940,6 +951,7 @@ continue
 continued
 continuously
 contract
+contracts
 contrary
 contribute
 contributed
@@ -997,6 +1009,7 @@ corresponds
 corrupted
 cosmetic
 cost
+costly
 costs
 could
 couldn't
@@ -1081,10 +1094,12 @@ dealing
 deals
 dear
 death
+decapitalize
 decide
 decides
 deciding
 decimal
+decimals
 decision
 decisions
 declaration
@@ -1190,6 +1205,8 @@ derive
 derived
 deriving
 derogatory
+descendant
+descendants
 descending
 describe
 described
@@ -1227,6 +1244,7 @@ determinable
 determine
 determined
 determines
+determining
 develop
 developed
 developer
@@ -1510,6 +1528,7 @@ entry
 enumerable
 enumerate
 enumerated
+enumerating
 enumeration
 environment
 environmental
@@ -1827,6 +1846,7 @@ formatter
 formatters
 formatting
 formed
+forms
 formula
 forward
 forwarded
@@ -1944,6 +1964,7 @@ gradient
 gradually
 grained
 grammar
+grandchild
 grandparent
 grant
 granted
@@ -1956,6 +1977,7 @@ graphing
 great
 greater
 greatest
+greedy
 green
 greet
 greeting
@@ -2079,6 +2101,7 @@ hoc
 hold
 holdability
 holder
+holders
 holding
 holds
 holiday
@@ -2187,6 +2210,8 @@ inconsistent
 incorrect
 incorrectly
 increase
+increased
+increases
 increment
 incremental
 incremented
@@ -2269,6 +2294,7 @@ inspection
 instance
 instances
 instant
+instantiable
 instantiate
 instantiated
 instantiates
@@ -2395,6 +2421,7 @@ job
 jobs
 join
 joined
+joining
 journal
 judging
 jul
@@ -2436,6 +2463,7 @@ last
 lastly
 latch
 late
+latency
 later
 latest
 latter
@@ -2727,6 +2755,7 @@ misc
 misconfiguration
 misconfigured
 mismatch
+mismatched
 miss
 misses
 missing
@@ -3204,6 +3233,7 @@ potentially
 powered
 powerful
 practical
+practically
 practice
 practices
 pre
@@ -3357,6 +3387,7 @@ pulled
 pulls
 pumped
 pure
+purely
 purpose
 purposes
 push
@@ -3737,6 +3768,7 @@ road
 robust
 role
 roles
+roll
 rolled
 rolling
 room
@@ -3744,6 +3776,7 @@ root
 roots
 rotatable
 rotate
+rotated
 rotation
 roughly
 round
@@ -3794,6 +3827,7 @@ say
 says
 scalable
 scalar
+scalars
 scale
 scaled
 scan
@@ -3809,6 +3843,7 @@ scenes
 schedule
 scheduled
 scheduler
+schedulers
 scheduling
 schema
 schemas
@@ -3885,6 +3920,7 @@ separator
 separators
 sequence
 sequences
+sequential
 sequentially
 serial
 series
@@ -4105,6 +4141,7 @@ standalone
 standard
 standardized
 standards
+stands
 star
 stars
 start
@@ -4244,6 +4281,8 @@ suspend
 suspending
 swallow
 swallowed
+swallowing
+swallows
 swap
 swapping
 sweden
@@ -4263,6 +4302,7 @@ synonym
 synonymous
 synonyms
 syntax
+synthesize
 synthetic
 system
 systems
@@ -4524,6 +4564,8 @@ unauthenticated
 unauthorized
 unavailable
 unbind
+unbindable
+unbound
 unboxing
 uncapitalize
 uncaught
@@ -4533,6 +4575,7 @@ uncommitted
 unconditional
 unconditionally
 unconfigured
+undeclared
 undefined
 under
 underline

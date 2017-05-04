@@ -17,6 +17,7 @@ classesroot
 closeables
 cls
 configprops
+configurableservletwebserverfactory
 configurationmetadata
 configurationprocessor
 connectionfactory
