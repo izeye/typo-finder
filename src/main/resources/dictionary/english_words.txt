@@ -83,6 +83,7 @@ adaptable
 adapted
 adapter
 adapters
+adapting
 adapts
 add
 added
@@ -693,6 +694,9 @@ choice
 choose
 chooses
 choosing
+chop
+chopped
+chopping
 chore
 chosen
 chunk
@@ -2251,6 +2255,7 @@ info
 inform
 information
 informational
+informed
 infrastructure
 infrequently
 inherent
@@ -3599,6 +3604,7 @@ remotely
 remotes
 remoting
 removal
+removals
 remove
 removed
 remover
