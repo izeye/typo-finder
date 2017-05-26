@@ -406,6 +406,7 @@ badges
 balanced
 balancer
 balancing
+ball
 ban
 bang
 banner
@@ -2198,6 +2199,7 @@ imports
 impossible
 improve
 improved
+improvements
 in
 inaccessible
 inactive
@@ -2737,6 +2739,7 @@ micro
 middle
 might
 migrate
+migrated
 migrating
 migration
 migrations
@@ -3473,6 +3476,7 @@ rearrange
 reason
 reasons
 reassign
+rebindable
 rebuild
 rebuilding
 rebuilt
@@ -3693,6 +3697,7 @@ resolver
 resolvers
 resolves
 resolving
+resort
 resource
 resourceless
 resources

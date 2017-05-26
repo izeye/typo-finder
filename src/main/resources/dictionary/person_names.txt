@@ -97,6 +97,7 @@ kazuki
 kerola
 kirsch
 klerk
+kolli
 konczak
 konsek
 kris
@@ -148,6 +149,7 @@ potter
 poznachowski
 przybyla
 quinten
+raja
 ramnivas
 rickard
 richard
