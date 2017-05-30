@@ -3012,6 +3012,7 @@ originated
 originates
 origins
 orphan
+orphaned
 other
 others
 otherwise
@@ -3126,6 +3127,7 @@ peak
 pearl
 peek
 peer
+pending
 people
 per
 percentage
