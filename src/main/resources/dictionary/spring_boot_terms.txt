@@ -45,7 +45,9 @@ fs
 hangup
 heapdump
 httpsessions
+innodb
 jarfile
+jdbcjobstore
 jsontesters
 len
 logfile

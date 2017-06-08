@@ -3,6 +3,7 @@ angularfaces
 apidocs
 bootsfaces
 brunorozendo
+btmatthews
 butterfaces
 co
 costigliola
@@ -14,6 +15,7 @@ fogbugz
 googlesource
 gov
 im
+influxdata
 javaserverfaces
 jetbrains
 joel

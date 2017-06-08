@@ -589,6 +589,7 @@ bypass
 bypassed
 bypassing
 calendar
+calendars
 calculate
 calculated
 calculator
@@ -1403,6 +1404,7 @@ dumps
 duplicate
 duplicates
 durable
+durably
 duration
 during
 duties
@@ -1741,6 +1743,7 @@ feeding
 feel
 fell
 fetch
+fetched
 fetcher
 fetches
 few
@@ -2805,6 +2808,7 @@ monitored
 monitoring
 monitors
 month
+monthly
 more
 most
 mostly
@@ -3254,6 +3258,7 @@ precision
 predefined
 predicate
 predicates
+predictable
 prefer
 preferable
 preferably
@@ -3271,6 +3276,7 @@ prematurely
 preparation
 prepare
 prepared
+preparer
 prepares
 preparing
 prepend
@@ -3802,6 +3808,7 @@ routed
 router
 routing
 row
+rows
 rubbish
 ruby
 rule
@@ -3854,6 +3861,7 @@ scans
 scavenge
 scenario
 scenarios
+scene
 scenes
 schedule
 scheduled
@@ -4590,6 +4598,7 @@ uncommitted
 unconditional
 unconditionally
 unconfigured
+unconverted
 undeclared
 undefined
 under
@@ -4779,6 +4788,7 @@ wants
 warn
 warning
 warnings
+warns
 warranties
 was
 washup
@@ -4799,6 +4809,7 @@ wealth
 web
 website
 wed
+weekly
 weird
 weight
 weighted

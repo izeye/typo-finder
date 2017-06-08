@@ -79,6 +79,7 @@ po
 ppluginclasspath
 predis
 ptaskname
+qrtz
 qux
 rbar
 rojo

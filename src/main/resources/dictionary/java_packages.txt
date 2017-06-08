@@ -3,10 +3,12 @@ arjunacore
 bytebuddy
 hawtbuf
 hotswap
+influxdb
 minidev
 okhttp
 reactivestreams
 searchbox
+simpl
 spockframework
 squareup
 unboundid

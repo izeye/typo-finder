@@ -55,6 +55,7 @@ eddú
 eder
 edmeier
 egorov
+ethan
 etienne
 fernández
 frederick
@@ -103,6 +104,7 @@ konsek
 kris
 kubrynski
 kunjummen
+kuptsov
 kwak
 laddad
 lagraulet
@@ -142,6 +144,7 @@ ouellet
 paluch
 patrick
 pavic
+pavić
 peter
 pierre
 piotr
@@ -160,6 +163,7 @@ rocher
 roland
 roy
 ruben
+rubinson
 russell
 saldanha
 sam
@@ -168,6 +172,7 @@ sawicki
 sebastian
 sebastien
 sergei
+sergey
 severson
 shah
 shimizu
