@@ -33,6 +33,7 @@ dlq
 donttell
 eee
 erver
+es
 faf
 fbar
 fiz
@@ -76,6 +77,7 @@ pincludelaunchscript
 pinfinispan
 plaunchscriptproperty
 po
+portsfile
 ppluginclasspath
 predis
 ptaskname

@@ -138,6 +138,7 @@ ois
 oos
 openqa
 org
+orika
 param
 paramnames
 params

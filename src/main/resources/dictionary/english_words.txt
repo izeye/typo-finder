@@ -1402,6 +1402,7 @@ dumped
 dumper
 dumps
 duplicate
+duplicated
 duplicates
 durable
 durably
@@ -1447,6 +1448,7 @@ electronic
 electronically
 element
 elements
+elevated
 eligible
 elite
 else
@@ -2286,6 +2288,7 @@ injected
 injecting
 injection
 injections
+injector
 injects
 inner
 innermost
@@ -2468,6 +2471,7 @@ lack
 lacks
 laid
 lame
+landscape
 language
 languages
 large
@@ -3159,6 +3163,7 @@ persistence
 persistent
 person
 personal
+persons
 perspective
 phase
 phases
@@ -4209,6 +4214,7 @@ strategies
 strategy
 strawberry
 stream
+streamable
 streams
 strict
 strictly

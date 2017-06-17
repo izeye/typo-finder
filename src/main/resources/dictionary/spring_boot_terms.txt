@@ -80,6 +80,7 @@ sqli
 stdev
 systemload
 testkit
+testsupport
 tomcats
 toolbox
 tsdb

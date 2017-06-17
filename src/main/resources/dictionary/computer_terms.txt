@@ -72,6 +72,8 @@ charset
 charsets
 checkstyle
 checksum
+choco
+chocolatey
 chown
 chrome
 ci
@@ -196,12 +198,15 @@ gz
 gzip
 gzipped
 hal
+hana
 hamcrest
 hardcoded
 hardcoding
 hashcodes
 hateoas
 hazelcast
+hc
+hcp
 heroku
 hibernate
 hikaricp
@@ -437,6 +442,7 @@ rsa
 runtime
 safari
 san
+sap
 sax
 scsv
 sdk
