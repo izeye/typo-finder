@@ -119,6 +119,7 @@ ldapsdk
 lettuce
 linkplain
 mbean
+mbeans
 metaspace
 mkdirs
 mm
