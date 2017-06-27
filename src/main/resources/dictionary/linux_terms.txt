@@ -17,6 +17,7 @@ rm
 sbin
 sig
 sigint
+stat
 sys
 systemctl
 systemd

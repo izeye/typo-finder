@@ -181,6 +181,7 @@ shimizu
 simon
 smith
 spencer
+spiegelberg
 stephane
 stéphane
 stern

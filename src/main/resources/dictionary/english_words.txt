@@ -1076,6 +1076,7 @@ cutting
 cyan
 cycle
 cyclic
+cypher
 cyrillic
 daemon
 dallas
