@@ -1070,6 +1070,7 @@ customize
 customized
 customizer
 customizers
+customizes
 customizing
 cut
 cutting
@@ -1493,7 +1494,9 @@ encounter
 encountered
 encourage
 encouraged
+encrypt
 encrypted
+encryption
 end
 ended
 ending
@@ -1805,6 +1808,7 @@ flattened
 flattens
 flavors
 fledged
+flex
 flexibility
 flexible
 flight
@@ -3298,6 +3302,7 @@ preserve
 preserved
 preserves
 preserving
+presumably
 prettify
 pretty
 prevent
@@ -3812,6 +3817,7 @@ rounding
 route
 routed
 router
+routes
 routing
 row
 rows
@@ -3858,6 +3864,7 @@ scalar
 scalars
 scale
 scaled
+scaling
 scan
 scanned
 scanner
@@ -4075,6 +4082,7 @@ slices
 slicing
 slight
 slightly
+slot
 slots
 slow
 slower
@@ -4798,6 +4806,7 @@ warnings
 warns
 warranties
 was
+washington
 washup
 wasn't
 watch
