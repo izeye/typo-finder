@@ -751,6 +751,7 @@ cluster
 coal
 code
 codec
+codecs
 coded
 codes
 coding
@@ -889,6 +890,7 @@ confirms
 conflict
 conflicting
 conflicts
+conforms
 confusing
 congratulations
 conjunction
