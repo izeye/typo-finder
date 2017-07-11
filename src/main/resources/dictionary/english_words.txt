@@ -700,6 +700,7 @@ chop
 chopped
 chopping
 chore
+chose
 chosen
 chunk
 chunks
@@ -736,6 +737,7 @@ client
 clients
 clone
 cloned
+cloning
 closable
 close
 closeable
@@ -816,6 +818,7 @@ company
 comparable
 comparator
 compare
+compared
 comparing
 comparison
 compatibility
@@ -1809,6 +1812,7 @@ flatten
 flattened
 flattens
 flavors
+flavours
 fledged
 flex
 flexibility
@@ -2533,6 +2537,7 @@ letters
 letting
 level
 levels
+leverage
 leveraged
 leverages
 leveraging
@@ -3954,6 +3959,7 @@ sentinels
 separate
 separated
 separately
+separates
 separator
 separators
 sequence

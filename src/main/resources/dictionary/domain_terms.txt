@@ -28,6 +28,7 @@ nz
 omnifaces
 osherove
 primefaces
+projectreactor
 redhat
 restfb
 sock

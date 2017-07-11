@@ -44,6 +44,7 @@ formcontent
 fs
 hangup
 heapdump
+httpcodecs
 httpsessions
 innodb
 jarfile
@@ -73,6 +74,7 @@ rabbitmq
 rcf
 releasetrain
 repro
+resttemplate
 sendgrid
 seq
 sitepreference
