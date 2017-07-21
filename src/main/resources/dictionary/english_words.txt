@@ -299,6 +299,7 @@ assembles
 assembling
 assembly
 assert
+assertable
 asserting
 assertion
 assertions
@@ -435,6 +436,7 @@ beats
 because
 become
 becomes
+becoming
 been
 before
 begin
@@ -640,6 +642,7 @@ cascade
 case
 cases
 cast
+casting
 cat
 catalog
 catalogs
@@ -765,6 +768,7 @@ coexists
 cold
 collaborators
 collapse
+collate
 collated
 collect
 collected
@@ -1330,6 +1334,7 @@ discoverers
 discovering
 discovery
 discrete
+discuss
 discussed
 discussing
 disk
@@ -1408,6 +1413,7 @@ dump
 dumped
 dumper
 dumps
+dunno
 duplicate
 duplicated
 duplicates
@@ -1446,6 +1452,7 @@ effective
 effectively
 effects
 efficient
+eg
 eight
 either
 elapsed
@@ -1881,6 +1888,7 @@ foundation
 foundry
 four
 fourth
+fox
 fragile
 fragment
 fragmented
@@ -2179,6 +2187,7 @@ idiomatic
 idioms
 idle
 ids
+ie
 if
 ignorable
 ignore
@@ -2187,6 +2196,7 @@ ignores
 ignoring
 ii
 illegal
+illustrates
 image
 imagery
 images
@@ -3289,7 +3299,9 @@ prefix
 prefixed
 prefixes
 prefixing
+preflight
 prematurely
+premium
 preparation
 prepare
 prepared
@@ -3857,6 +3869,7 @@ sanity
 sapphire
 satisfied
 satisfy
+satisfying
 saturation
 sauce
 save
@@ -3936,6 +3949,7 @@ select
 selected
 selecting
 selection
+selectively
 selector
 selectors
 selects
@@ -4685,6 +4699,7 @@ unsatisfied
 unsecure
 unset
 unspecified
+unstarted
 unstopped
 unstructured
 unsuccessful
@@ -4804,6 +4819,7 @@ vs
 wait
 waiting
 waits
+walk
 want
 wanted
 wanting
