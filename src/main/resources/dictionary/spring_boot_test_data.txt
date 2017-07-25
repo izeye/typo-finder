@@ -80,6 +80,7 @@ po
 portsfile
 ppluginclasspath
 predis
+pt
 ptaskname
 qrtz
 qux

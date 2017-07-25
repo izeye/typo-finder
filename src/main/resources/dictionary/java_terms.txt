@@ -166,6 +166,7 @@ std
 stmt
 struts
 substring
+swing
 tccl
 teiid
 testng

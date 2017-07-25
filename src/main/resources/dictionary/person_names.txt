@@ -13,6 +13,7 @@ aurélien
 aust
 badie
 beaudet
+bego
 benedikt
 bergamin
 bhave
@@ -50,6 +51,7 @@ doo
 dreis
 drummond
 dubois
+dylian
 eberhard
 eddú
 eder

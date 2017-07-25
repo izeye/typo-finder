@@ -1189,6 +1189,7 @@ deliver
 delivered
 delivery
 deliveries
+delivering
 delta
 deltas
 demo
@@ -3531,6 +3532,7 @@ recommendation
 recommendations
 recommended
 reconfigure
+reconnect
 reconnection
 record
 recorded
@@ -3549,6 +3551,7 @@ red
 redefine
 redefined
 redeliveries
+redelivery
 redirect
 redirected
 redirection
@@ -3781,6 +3784,7 @@ retrieve
 retrieved
 retrieves
 retrieving
+retrofit
 retry
 retryable
 retrying
@@ -4824,6 +4828,7 @@ want
 wanted
 wanting
 wants
+warm
 warn
 warning
 warnings
