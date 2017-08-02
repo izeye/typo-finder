@@ -49,6 +49,7 @@ fasterxml
 fileupload
 firebirdsql
 fixme
+flexy
 flux
 flywaydb
 gargoylesoftware

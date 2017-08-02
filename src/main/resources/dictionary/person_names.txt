@@ -51,6 +51,7 @@ doo
 dreis
 drummond
 dubois
+dudka
 dylian
 eberhard
 eddú
@@ -165,6 +166,7 @@ río
 robert
 rocher
 roland
+rostyslav
 roy
 ruben
 rubinson

@@ -27,6 +27,7 @@ changelogdbtest
 cid
 cloudfoundryapplication
 cpm
+customschema
 ddd
 dilbert
 dlq
