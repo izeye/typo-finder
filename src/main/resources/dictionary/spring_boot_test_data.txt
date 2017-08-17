@@ -27,6 +27,7 @@ changelogdbtest
 cid
 cloudfoundryapplication
 cpm
+customprops
 customschema
 ddd
 dilbert
@@ -48,12 +49,14 @@ idontexist
 intx
 ireallydontexist
 jf
+joan
 kcom
 ksloc
 kslocp
 listvalue
 logname
 logz
+lokia
 mmouse
 mymain
 mypath
@@ -61,8 +64,13 @@ myserver
 mywebapp
 nomatch
 nomjvb
+nonjmx
+nonweb
 nosecurity
+nullread
+nullwrite
 objectname
+onlyweb
 orcl
 papplyapplicationplugin
 papplydependencymanagementplugin
@@ -115,5 +123,6 @@ ue
 vallet
 vehicledetails
 vin
+voidwrite
 vloper
 za

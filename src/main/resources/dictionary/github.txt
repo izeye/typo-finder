@@ -1,4 +1,5 @@
 akihyro
+amqphub
 camunda
 candrews
 charon

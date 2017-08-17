@@ -412,6 +412,7 @@ putty
 # FIXME: For 'QoS' temporarily.
 qo
 qos
+qpid
 raid
 rc
 rdb

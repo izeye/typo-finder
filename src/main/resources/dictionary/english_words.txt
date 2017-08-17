@@ -1333,6 +1333,7 @@ discovered
 discoverer
 discoverers
 discovering
+discovers
 discovery
 discrete
 discuss
@@ -1394,6 +1395,7 @@ downloading
 downloads
 downstream
 downtime
+draft
 draw
 drawn
 drift
@@ -1413,6 +1415,7 @@ dummy
 dump
 dumped
 dumper
+dumping
 dumps
 dunno
 duplicate
@@ -1685,6 +1688,7 @@ expose
 exposed
 exposes
 exposing
+exposure
 express
 expressed
 expression
@@ -2205,6 +2209,7 @@ immediate
 immediately
 immutable
 imp
+impact
 impacted
 impatient
 implement
@@ -2279,12 +2284,14 @@ infer
 inferred
 infinite
 inflater
+inflector
 influence
 info
 inform
 information
 informational
 informed
+infos
 infrastructure
 infrequently
 inherent
@@ -2852,6 +2859,7 @@ multicast
 multicaster
 multiple
 multiplier
+multivalued
 must
 mustache
 mutable
@@ -2938,6 +2946,7 @@ noteworthy
 nothing
 notice
 notification
+notifications
 notified
 notifier
 notify
@@ -3282,6 +3291,7 @@ practice
 practices
 pre
 precedence
+preceding
 precision
 predefined
 predicate
@@ -3483,6 +3493,7 @@ ran
 random
 randomly
 range
+rank
 rapid
 rarely
 rate
@@ -3576,6 +3587,7 @@ refined
 reflect
 reflected
 reflection
+reflective
 reflects
 refresh
 refreshed
@@ -4402,12 +4414,14 @@ team
 teapot
 tear
 teaser
+tech
 technical
 technically
 technique
 techniques
 technologies
 technology
+techs
 telephone
 tell
 telling
@@ -4415,6 +4429,7 @@ tells
 temp
 temperature
 template
+templated
 templates
 templating
 temporal
@@ -4693,6 +4708,7 @@ unqualified
 unqualify
 unrecognized
 unregister
+unregistered
 unrelated
 unresolvable
 unresolved
