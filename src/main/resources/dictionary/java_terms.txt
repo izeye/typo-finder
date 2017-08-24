@@ -170,6 +170,7 @@ ss
 sss
 std
 stmt
+stripes
 struts
 substring
 swing
