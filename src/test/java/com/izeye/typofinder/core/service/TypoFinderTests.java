@@ -5,6 +5,7 @@ import com.izeye.typofinder.core.domain.WordToken;
 import com.izeye.typofinder.core.util.FileUtils;
 import com.izeye.typofinder.core.util.StringFormatValidationUtils;
 
+import com.izeye.typofinder.core.util.UsageValidationUtils;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,14 +23,16 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.Assert.fail;
 
 /**
- * Created by izeye on 15. 7. 2..
+ * Tests for {@link TypoFinder}.
+ *
+ * @author Johnny Lim
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.NONE)
 public class TypoFinderTests {
 	
 	@Autowired
-	TypoFinder typoFinder;
+	private TypoFinder typoFinder;
 	
 	@Test
 	public void testFindTypos() throws IOException {
@@ -81,28 +84,35 @@ public class TypoFinderTests {
 		exclusions.add("TokenTests.java");
 		exclusions.add("TokenValidatorTests.java");
 
-		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
-		int size = allFiles.size();
+		findTypos(directory, fileExtensions, exclusions);
+
 		List<ValidationReport> failureReports = new ArrayList<>();
-		for (int i = 0; i < size; i++) {
-			File file = allFiles.get(i);
-			System.out.println("Target file: " + file);
-			
-			Set<WordToken> typos = this.typoFinder.findTypos(file);
-			System.out.println("\n= Typos =");
-			typos.stream().forEach(typo -> System.out.println(typo.getLowerCaseWord()));
-			System.out.println("\nTotal typos: " + typos.size());
 
-			System.out.println("\n= Typos for analysis =");
-			typos.stream().forEach(System.out::println);
-			
-			assertThat(typos).isEmpty();
+		exclusions = new HashSet<>();
+		exclusions.add("target");
 
+		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
+		for (File file : allFiles) {
 			if (file.getName().endsWith(".java")) {
-				failureReports.addAll(StringFormatValidationUtils.validate(file));
+				failureReports.addAll(StringFormatValidationUtils.validateAndReturnFailures(file));
 			}
+		}
 
-			System.out.printf("%d of %d file(s) succeeded.%n", i + 1, size);
+		exclusions = new HashSet<>();
+		exclusions.add("target");
+		exclusions.add("AbstractConfigurationMetadataTests.java");
+		exclusions.add("AbstractReactiveWebServerFactoryTests.java");
+
+		allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
+		for (File file : allFiles) {
+			if (file.getName().endsWith(".java")) {
+				failureReports.addAll(StringFormatValidationUtils.validateAndReturnFailures(file));
+
+				ValidationReport validationReport = UsageValidationUtils.validateThrown(file);
+				if (!validationReport.isValid()) {
+					failureReports.add(validationReport);
+				}
+			}
 		}
 
 		if (!failureReports.isEmpty()) {
@@ -111,7 +121,28 @@ public class TypoFinderTests {
 			fail();
 		}
 	}
-	
+
+	private void findTypos(File directory, Set<String> fileExtensions, Set<String> exclusions) {
+		List<File> allFiles = FileUtils.findAllFiles(directory, fileExtensions, exclusions);
+		int size = allFiles.size();
+		for (int i = 0; i < size; i++) {
+			File file = allFiles.get(i);
+			System.out.println("Target file: " + file);
+
+			Set<WordToken> typos = this.typoFinder.findTypos(file);
+			System.out.println("\n= Typos =");
+			typos.stream().forEach(typo -> System.out.println(typo.getLowerCaseWord()));
+			System.out.println("\nTotal typos: " + typos.size());
+
+			System.out.println("\n= Typos for analysis =");
+			typos.stream().forEach(System.out::println);
+
+			assertThat(typos).isEmpty();
+
+			System.out.printf("%d of %d file(s) succeeded.%n", i + 1, size);
+		}
+	}
+
 	@Test
 	public void testFindTyposWithText() {
 		// FIXME: How to handle this kind of camelCase?

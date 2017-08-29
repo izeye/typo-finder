@@ -25,7 +25,7 @@ import com.izeye.typofinder.core.domain.ValidationReport;
  *
  * @author Johnny Lim
  */
-public abstract class StringFormatValidationUtils {
+public final class StringFormatValidationUtils {
 
 	private StringFormatValidationUtils() {
 	}
@@ -68,7 +68,7 @@ public abstract class StringFormatValidationUtils {
 		}
 	}
 
-	public static List<ValidationReport> validate(File file) {
+	public static List<ValidationReport> validateAndReturnFailures(File file) {
 		try {
 			CompilationUnit compilationUnit = JavaParser.parse(new FileInputStream(file));
 			MethodCallExpressionVisitor visitor = new MethodCallExpressionVisitor();

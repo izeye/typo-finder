@@ -51,14 +51,14 @@ public class StringFormatValidationUtilsTests {
 	}
 
 	@Test
-	public void testValidate() {
+	public void testValidateAndReturnFailures() {
 		String directory = "src/test/java/com/izeye/typofinder/core/util/";
 
 		String filename = directory + "StringFormatUsageExample.java";
-		assertThat(StringFormatValidationUtils.validate(new File(filename))).isEmpty();
+		assertThat(StringFormatValidationUtils.validateAndReturnFailures(new File(filename))).isEmpty();
 
 		filename = directory + "StringFormatWrongUsageExample.java";
-		assertThat(StringFormatValidationUtils.validate(new File(filename))).hasSize(4);
+		assertThat(StringFormatValidationUtils.validateAndReturnFailures(new File(filename))).hasSize(4);
 	}
 
 }

@@ -1,21 +1,25 @@
 package com.izeye.typofinder.core.util;
 
 import lombok.extern.slf4j.Slf4j;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import java.io.File;
 import java.io.FileFilter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
 /**
- * Created by izeye on 15. 11. 12..
+ * Utilities for {@link File}.
+ *
+ * @author Johnny Lim
  */
 @Slf4j
-public abstract class FileUtils {
+public final class FileUtils {
+
+	private FileUtils() {
+	}
 
 	public static String extractFileExtension(File file) {
 		String filename = file.getName();
@@ -52,6 +56,14 @@ public abstract class FileUtils {
 	public static List<File> findAllFiles(
 			File directory, Set<String> fileExtensions, Set<String> exclusions) {
 		return findAllFiles(directory, fileExtensions, exclusions, true);
+	}
+
+	public static List<String> readLines(File file) {
+		try {
+			return org.apache.commons.io.FileUtils.readLines(file);
+		} catch (IOException ex) {
+			throw new RuntimeException(ex);
+		}
 	}
 	
 }
