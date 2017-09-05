@@ -27,8 +27,10 @@ changelogdbtest
 cid
 cloudfoundryapplication
 cpm
+custommediatypes
 customprops
 customschema
+customsecurity
 ddd
 dilbert
 dlq
@@ -48,6 +50,7 @@ hz
 idontexist
 intx
 ireallydontexist
+jane
 jf
 joan
 kcom
@@ -67,6 +70,7 @@ nomjvb
 nonjmx
 nonweb
 nosecurity
+nulldelete
 nullread
 nullwrite
 objectname
@@ -123,6 +127,7 @@ ue
 vallet
 vehicledetails
 vin
+voiddelete
 voidwrite
 vloper
 za

@@ -83,6 +83,7 @@ public class TypoFinderTests {
 		exclusions.add("CloudFoundrySecurityServiceTests.java");
 		exclusions.add("TokenTests.java");
 		exclusions.add("TokenValidatorTests.java");
+		exclusions.add("CloudFoundryMvcWebEndpointIntegrationTests.java");
 
 		findTypos(directory, fileExtensions, exclusions);
 

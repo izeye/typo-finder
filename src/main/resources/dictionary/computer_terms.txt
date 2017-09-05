@@ -277,6 +277,7 @@ junit
 jvisualvm
 jvm
 jwk
+jwks
 jwt
 jwts
 kafka

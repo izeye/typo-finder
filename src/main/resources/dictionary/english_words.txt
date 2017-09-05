@@ -1689,6 +1689,7 @@ exposed
 exposes
 exposing
 exposure
+exposures
 express
 expressed
 expression
@@ -2086,6 +2087,7 @@ heading
 headless
 health
 healths
+healthy
 heap
 heart
 heartbeat
@@ -3040,6 +3042,7 @@ ordered
 ordering
 orders
 ordinal
+ordinary
 ordinates
 organisation
 organize
@@ -3506,6 +3509,7 @@ re
 reach
 reachable
 reached
+reaches
 reacting
 reactive
 reacts
@@ -3784,6 +3788,7 @@ result
 resulted
 resulting
 results
+resume
 retain
 retaining
 retains
@@ -4099,6 +4104,7 @@ single
 singleton
 singletons
 singular
+sink
 site
 sites
 sits
@@ -4264,6 +4270,7 @@ strawberry
 stream
 streamable
 streams
+street
 strict
 strictly
 strip
@@ -4690,6 +4697,7 @@ unlikely
 unlimited
 unloaded
 unlock
+unmanaged
 unmapped
 unmatched
 unmerged
@@ -4953,6 +4961,7 @@ year
 yellow
 yes
 yet
+yolo
 you
 you'll
 you're
