@@ -1,11 +1,13 @@
 akihyro
 amqphub
+bukhtoyarov
 camunda
 candrews
 charon
 clun
 denschu
 eddumelendez
+errorest
 freefair
 gavlyukovskiy
 helpermethod
