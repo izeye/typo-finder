@@ -1192,6 +1192,7 @@ deliveries
 delivering
 delta
 deltas
+demand
 demo
 demonstrate
 demonstrates
@@ -1313,6 +1314,7 @@ dirty
 disability
 disable
 disabled
+disablement
 disabler
 disables
 disabling
@@ -3278,6 +3280,7 @@ position
 positions
 positive
 positives
+possibility
 possible
 possibly
 post
