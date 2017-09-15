@@ -55,6 +55,7 @@ flexy
 flux
 flywaydb
 gargoylesoftware
+gen
 generic
 generics
 getenv
@@ -125,6 +126,7 @@ linkplain
 mbean
 mbeans
 metaspace
+micrometer
 mkdirs
 mm
 mmm
@@ -162,6 +164,7 @@ sb
 sf
 skyscreamer
 solrj
+spectator
 spi
 spliterator
 sqrt

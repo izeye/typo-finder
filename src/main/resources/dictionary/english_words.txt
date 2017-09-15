@@ -98,6 +98,7 @@ additive
 address
 addressed
 addresses
+addressing
 adds
 adheres
 adjacent
@@ -424,6 +425,7 @@ basis
 bat
 batch
 batched
+batches
 batching
 be
 bean
@@ -559,6 +561,7 @@ browser
 browsers
 bsc
 bucket
+buckets
 buddy
 buffer
 buffered
@@ -658,6 +661,7 @@ causes
 causing
 cautiously
 cellar
+celsius
 center
 central
 centrally
@@ -716,6 +720,7 @@ circumstances
 cities
 city
 claims
+clamping
 clarified
 clash
 clashes
@@ -738,6 +743,7 @@ clears
 click
 client
 clients
+clock
 clone
 cloned
 cloning
@@ -1302,6 +1308,7 @@ digester
 digit
 digits
 dimension
+dimensions
 direct
 direction
 directive
@@ -1426,6 +1433,7 @@ duplicates
 durable
 durably
 duration
+durations
 during
 duties
 dynamic
@@ -1727,6 +1735,7 @@ facto
 factor
 factories
 factory
+fahrenheit
 fail
 failed
 failing
@@ -2030,6 +2039,7 @@ grouping
 groups
 grow
 growing
+grows
 guarantee
 guaranteed
 guess
@@ -2235,6 +2245,7 @@ imports
 impossible
 improve
 improved
+improvement
 improvements
 in
 inaccessible
@@ -2355,7 +2366,9 @@ instructed
 instructing
 instructions
 instructs
+instrument
 instrumentation
+instrumented
 insufficient
 insulting
 intact
@@ -2383,6 +2396,7 @@ intercepted
 intercepting
 interceptor
 interceptors
+intercepts
 interest
 interested
 interesting
@@ -2653,6 +2667,7 @@ lower
 lowercase
 lowest
 luminance
+lump
 machine
 machinery
 machines
@@ -2729,6 +2744,7 @@ math
 matter
 matured
 max
+maximize
 maximum
 may
 maybe
@@ -2739,6 +2755,7 @@ meaningful
 means
 meant
 meantime
+measure
 measures
 measurement
 measurements
@@ -2794,6 +2811,7 @@ min
 mind
 mine
 minimal
+minimize
 minimizes
 minimum
 minor
@@ -2825,6 +2843,7 @@ mocking
 mocks
 mode
 model
+modeled
 modeling
 modelling
 modern
@@ -3176,6 +3195,8 @@ pending
 people
 per
 percentage
+percentile
+percentiles
 perfectly
 perform
 performance
@@ -3467,6 +3488,8 @@ qualifier
 qualifiers
 qualifying
 quality
+quantile
+quantiles
 quartz
 queries
 query
@@ -3503,6 +3526,7 @@ rank
 rapid
 rarely
 rate
+rates
 rather
 rating
 ratio
@@ -3540,6 +3564,7 @@ rebuilt
 receive
 received
 receiver
+receives
 receiving
 recent
 recipe
@@ -3614,6 +3639,7 @@ registrar
 registrars
 registration
 registrations
+registries
 registry
 regroups
 regular
@@ -3933,6 +3959,8 @@ scope
 scoped
 scopes
 score
+scrape
+scraped
 scratch
 scratched
 scratches
@@ -4047,6 +4075,7 @@ shells
 shim
 ship
 shipped
+shipping
 ships
 shop
 short
@@ -4118,6 +4147,7 @@ six
 size
 sized
 sizes
+sketch
 skip
 skipped
 skipping
@@ -4272,6 +4302,7 @@ strategy
 strawberry
 stream
 streamable
+streaming
 streams
 street
 strict
@@ -4304,6 +4335,7 @@ subscriber
 subscribers
 subscribing
 subscription
+subscriptions
 subsection
 subsequent
 subsequently
@@ -4348,6 +4380,7 @@ superset
 supplied
 supplier
 suppliers
+supplies
 supply
 support
 supportable
@@ -4692,6 +4725,7 @@ unique
 uniquely
 uniqueness
 unit
+units
 unity
 unknown
 unless
@@ -4713,6 +4747,7 @@ unpacking
 unpacks
 unparseable
 unprefixed
+unprocessable
 unprocessed
 unprofessional
 unqualified
@@ -4738,6 +4773,7 @@ unsuccessful
 unsupport
 unsupported
 until
+untimed
 unused
 unusual
 unwanted

@@ -18,6 +18,7 @@ asm
 asp
 aspectj
 async
+atlas
 atomikos
 awk
 azure
@@ -109,6 +110,7 @@ curies
 curl
 cxf
 dao
+datadog
 datagram
 db
 dbcp
@@ -175,6 +177,7 @@ fqn
 freemarker
 ftl
 ga
+ganglia
 gb
 gc
 gecko
@@ -314,6 +317,7 @@ lookups
 loopback
 ls
 lucene
+lwc
 mac
 macports
 macro
@@ -407,6 +411,7 @@ postfixes
 postgres
 prefetch
 preinitialization
+prometheus
 python
 pub
 putty
@@ -532,11 +537,13 @@ twitter
 txt
 ubuntu
 udb
+udp
 ui
 uk
 unc
 uncompressed
 undertow
+unicast
 unicode
 uninstall
 uninstalling

@@ -1,7 +1,9 @@
 arjuna
 arjunacore
 bytebuddy
+gmetric
 hawtbuf
+hist
 hotswap
 influxdb
 minidev

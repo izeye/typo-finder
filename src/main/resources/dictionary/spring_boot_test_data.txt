@@ -61,6 +61,7 @@ logname
 logz
 lokia
 mmouse
+myerror
 mymain
 mypath
 myserver
