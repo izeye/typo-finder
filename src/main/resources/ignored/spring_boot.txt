@@ -457,6 +457,7 @@ pgenerate
 phil
 phillip
 philwebb
+pjdbc
 pkg
 pl
 playfield

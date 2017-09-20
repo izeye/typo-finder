@@ -1185,6 +1185,7 @@ delegator
 delete
 deleted
 deleting
+deletion
 deliberately
 delimit
 delimited
@@ -1665,6 +1666,7 @@ expect
 expectation
 expectations
 expected
+expecting
 expects
 expense
 expensive
@@ -4752,6 +4754,7 @@ unprocessed
 unprofessional
 unqualified
 unqualify
+unquoted
 unrecognized
 unregister
 unregistered

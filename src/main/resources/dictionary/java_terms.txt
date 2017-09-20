@@ -198,6 +198,7 @@ xdebug
 xff
 xid
 xids
+xlint
 xms
 xmx
 xnio
