@@ -109,6 +109,7 @@ jsessionid
 jsf
 jsn
 jsonassert
+jsonb
 jsonpath
 jsp
 jsps

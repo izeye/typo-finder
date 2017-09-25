@@ -78,6 +78,7 @@ chocolatey
 chown
 chrome
 ci
+citrus
 class
 classes
 classload
@@ -592,6 +593,7 @@ xhr
 xhtml
 xml
 xpath
+xsds
 xss
 yaml
 yml

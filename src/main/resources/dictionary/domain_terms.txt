@@ -5,6 +5,7 @@ bootsfaces
 brunorozendo
 btmatthews
 butterfaces
+citrusframework
 co
 costigliola
 datadoghq

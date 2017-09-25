@@ -90,6 +90,7 @@ phazelcast
 pincludelaunchscript
 pinfinispan
 plaunchscriptproperty
+pmongodb
 po
 portsfile
 ppluginclasspath
@@ -99,6 +100,7 @@ ptaskname
 qrtz
 qux
 rbar
+restassured
 rojo
 rt
 rver
