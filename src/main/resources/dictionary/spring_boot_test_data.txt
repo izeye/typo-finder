@@ -48,6 +48,7 @@ hellotwo
 helloworld
 hz
 idontexist
+ing
 intx
 ireallydontexist
 jane
@@ -60,6 +61,7 @@ listvalue
 logname
 logz
 lokia
+mitteleuropäische
 mmouse
 myerror
 mymain
@@ -100,6 +102,7 @@ ptaskname
 qrtz
 qux
 rbar
+requiredparameters
 restassured
 rojo
 rt

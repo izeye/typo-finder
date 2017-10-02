@@ -1,6 +1,7 @@
 ahlenstorf
 akira
 alexander
+ali
 alice
 anand
 anderson
@@ -96,9 +97,11 @@ jon
 joshi
 juergen
 julien
+justin
 kaewkasi
 kalimullin
 kazuki
+kedar
 kerola
 kirsch
 klerk
@@ -166,6 +169,7 @@ río
 robert
 rocher
 roland
+rosenberg
 rostyslav
 roy
 ruben
@@ -182,6 +186,7 @@ sergei
 sergey
 severson
 shah
+shahbour
 shimizu
 simon
 smith
