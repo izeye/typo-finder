@@ -5,6 +5,7 @@ bootsfaces
 brunorozendo
 btmatthews
 butterfaces
+certs
 citrusframework
 co
 costigliola
@@ -14,6 +15,7 @@ dl
 elasticbeanstalk
 exampledriven
 fogbugz
+googleapis
 googlesource
 gov
 graphiteapp

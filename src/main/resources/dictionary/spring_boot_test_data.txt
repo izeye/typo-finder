@@ -42,6 +42,7 @@ faf
 fbar
 fiz
 fof
+foos
 foovalue
 gradleit
 hellotwo
@@ -102,6 +103,7 @@ ptaskname
 qrtz
 qux
 rbar
+reg
 requiredparameters
 restassured
 rojo
@@ -137,3 +139,4 @@ voiddelete
 voidwrite
 vloper
 za
+èåþßáñàÿ

@@ -76,6 +76,7 @@ harrop
 henri
 henryk
 heusingfeld
+hirata
 hoeller
 hotari
 hrishikesh
@@ -200,6 +201,7 @@ strobl
 stummvoll
 swaef
 tanaka
+thiago
 thomas
 thornhill
 tomasz

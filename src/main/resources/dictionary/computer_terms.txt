@@ -93,6 +93,7 @@ cn
 codahale
 codehaus
 commons
+concourse
 config
 configs
 cors
@@ -354,6 +355,7 @@ mongodb
 mozilla
 mpsc
 mq
+mtu
 mule
 multicore
 multipart
@@ -377,8 +379,10 @@ nullable
 nulls
 octet
 odm
+okta
 oltp
 opcodes
+openid
 opentsdb
 ops
 oracle
@@ -431,6 +435,7 @@ recompile
 recompiled
 recompiling
 reconfiguration
+recurses
 redis
 rediss
 referer

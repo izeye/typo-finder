@@ -47,7 +47,7 @@ public class TypoFinderTests {
 //		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/spring-boot-cli.adoc";
 //		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/build-tool-plugins.adoc";
 //		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/howto.adoc";
-		String filename = "../spring-boot/spring-boot-docs/src/main/asciidoc/appendix.adoc";
+		String filename = "../spring-boot/spring-boot-project/spring-boot-docs/src/main/asciidoc/appendix.adoc";
 		
 		Set<WordToken> typos = this.typoFinder.findTypos(new File(filename));
 		System.out.println("\n= Typos =");

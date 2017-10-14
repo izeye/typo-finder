@@ -8,6 +8,7 @@ aopalliance
 arg
 args
 arraycopy
+artifactory
 aspectjrt
 aspectjweaver
 assertj

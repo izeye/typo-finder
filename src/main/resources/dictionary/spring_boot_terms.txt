@@ -100,6 +100,7 @@ webflux
 webservices
 websocket
 websockets
+webtestclient
 whitelabel
 wlp
 writetimeout

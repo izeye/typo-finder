@@ -711,7 +711,9 @@ chopping
 chore
 chose
 chosen
+chrono
 chunk
+chunked
 chunks
 cipher
 ciphers
@@ -850,6 +852,7 @@ completely
 completer
 completers
 completes
+completing
 completion
 complex
 compliance
@@ -1311,6 +1314,7 @@ digester
 digit
 digits
 dimension
+dimensional
 dimensions
 direct
 direction
@@ -1411,6 +1415,7 @@ draft
 draw
 drawn
 drift
+drilldown
 drive
 driven
 driver
@@ -1840,6 +1845,7 @@ flat
 flatten
 flattened
 flattens
+flavor
 flavors
 flavours
 fledged
@@ -2004,6 +2010,7 @@ goodbye
 got
 govern
 governing
+governs
 gpl
 grab
 grabbed
@@ -2183,6 +2190,7 @@ hours
 housekeeping
 how
 however
+hub
 hue
 human
 hunt
@@ -2500,6 +2508,7 @@ keep
 keeper
 keeping
 keeps
+kept
 key
 keyed
 keys
@@ -2933,6 +2942,7 @@ negotiation
 neither
 neo
 nest
+nestable
 nested
 nesting
 net
@@ -3237,6 +3247,7 @@ physical
 pi
 pick
 picked
+pickled
 picks
 picture
 piece
@@ -3245,6 +3256,7 @@ ping
 pinned
 pipe
 pipeline
+pipelines
 piste
 pivot
 pixel
@@ -3280,6 +3292,7 @@ policies
 policy
 poll
 pollable
+polled
 poller
 pollers
 polling
@@ -3434,6 +3447,7 @@ progressed
 prohibited
 project
 projects
+promote
 prompt
 prompted
 prompts
@@ -3570,6 +3584,7 @@ rebindable
 rebuild
 rebuilding
 rebuilt
+recalculated
 receive
 received
 receiver
@@ -3998,6 +4013,7 @@ secures
 securing
 security
 see
+seeds
 seeing
 seek
 seeking
@@ -4465,6 +4481,7 @@ tasks
 taste
 teach
 team
+teams
 teapot
 tear
 teaser
