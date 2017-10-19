@@ -20,6 +20,7 @@ aspectj
 async
 atlas
 atomikos
+autocommit
 awk
 azure
 backend
@@ -291,6 +292,7 @@ kib
 kilobyte
 kilobytes
 kotlin
+kubernetes
 lab
 lambda
 ldap
@@ -342,6 +344,7 @@ meta
 metadata
 mf
 mib
+microservices
 microsoft
 middleware
 mime
@@ -450,6 +453,7 @@ requeued
 rest
 restful
 rethrow
+rhoar
 rollback
 rs
 rsa

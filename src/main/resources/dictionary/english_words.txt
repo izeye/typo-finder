@@ -264,6 +264,7 @@ apt
 aquamarine
 arbitrary
 architecture
+architectures
 archive
 archived
 archivers
@@ -359,6 +360,7 @@ audit
 auditing
 augment
 augmented
+augmenting
 australia
 authenticate
 authenticated
@@ -547,6 +549,7 @@ bridge
 bridged
 bridging
 brief
+briefing
 bright
 bring
 bringing
@@ -594,6 +597,7 @@ by
 bye
 bypass
 bypassed
+bypasses
 bypassing
 calendar
 calendars
@@ -3073,6 +3077,7 @@ options
 opts
 or
 orange
+orchestration
 order
 ordered
 ordering
@@ -4251,6 +4256,7 @@ specific
 specifically
 specification
 specifications
+specificity
 specifics
 specified
 specifiers

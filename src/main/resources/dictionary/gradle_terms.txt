@@ -1,6 +1,7 @@
 buildscript
 dist
 gradlew
+impldep
 javaexec
 testfixtures
 userguide
