@@ -914,6 +914,7 @@ conflicting
 conflicts
 conforms
 confusing
+confusion
 congratulations
 conjunction
 connect
@@ -2638,6 +2639,7 @@ listings
 lists
 lite
 literal
+litter
 little
 live
 living
@@ -4387,6 +4389,7 @@ successful
 successfully
 successor
 such
+sudden
 suffered
 sufficient
 suffix
