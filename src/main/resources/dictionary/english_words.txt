@@ -2382,6 +2382,7 @@ instead
 instruct
 instructed
 instructing
+instruction
 instructions
 instructs
 instrument
@@ -3767,6 +3768,7 @@ replicas
 replicated
 replicates
 replication
+replies
 reply
 report
 reportable
