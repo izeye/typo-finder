@@ -108,6 +108,7 @@ adjusted
 admin
 administer
 administration
+administrator
 adopting
 adopts
 advanced
@@ -3041,6 +3042,7 @@ ok
 old
 older
 omit
+omits
 omitted
 on
 once
@@ -3389,6 +3391,7 @@ preserve
 preserved
 preserves
 preserving
+press
 presumably
 prettify
 pretty
@@ -3800,6 +3803,7 @@ requires
 requiring
 requisite
 rerun
+resemble
 reserve
 reserved
 reservoir

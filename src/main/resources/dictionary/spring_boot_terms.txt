@@ -88,6 +88,7 @@ stdev
 systemload
 testkit
 testsupport
+thirdpartyproject
 threaddump
 tomcats
 toolbox
