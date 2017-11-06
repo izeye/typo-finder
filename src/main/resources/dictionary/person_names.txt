@@ -30,6 +30,7 @@ bray
 brian
 brisbin
 brock
+bryant
 buettner
 burke
 cédric
@@ -92,6 +93,7 @@ jay
 jayaram
 jean
 jeremy
+jetzke
 johannes
 john
 jon
@@ -110,6 +112,7 @@ kolli
 konczak
 konsek
 kris
+kristine
 kubrynski
 kunjummen
 kuptsov
@@ -144,6 +147,7 @@ mills
 mohsin
 nasko
 nicolas
+nikolay
 noronha
 odín
 oliver
@@ -176,6 +180,7 @@ roy
 ruben
 rubinson
 russell
+rybak
 saldanha
 sam
 santana

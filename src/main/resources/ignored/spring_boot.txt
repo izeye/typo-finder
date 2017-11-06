@@ -30,6 +30,7 @@ andrey
 andy
 ann
 annotatednodeasttransformation
+aorg
 apitester
 appname
 appserver
@@ -316,6 +317,7 @@ kvtimeout
 largemessages
 lastname
 launchscript
+le
 legacycookieprocessor
 lemur
 libx
@@ -604,6 +606,7 @@ tr
 translatecommandline
 triggerfile
 trnf
+ts
 tsanev
 ttest
 turnquest

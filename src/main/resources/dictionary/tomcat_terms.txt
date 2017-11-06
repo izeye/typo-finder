@@ -1,3 +1,5 @@
+apr
 compressable
+libtcnative
 ser
 truststore

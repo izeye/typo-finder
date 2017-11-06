@@ -1,8 +1,6 @@
 aes
-asc
-ascii
-ast
 ajp
+alpn
 alps
 amazon
 amqp
@@ -14,9 +12,12 @@ api
 apis
 appengine
 artemis
+asc
+ascii
 asm
 asp
 aspectj
+ast
 async
 atlas
 atomikos
@@ -102,6 +103,7 @@ couchbase
 coyote
 cql
 crc
+cron
 crud
 csrf
 css

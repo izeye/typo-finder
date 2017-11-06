@@ -1,6 +1,7 @@
 autoproxy
 autowire
 autowired
+autowires
 autowiring
 backoff
 basename
