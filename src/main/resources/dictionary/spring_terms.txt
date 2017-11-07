@@ -11,6 +11,7 @@ buildpacks
 cfapps
 classreading
 cloudfoundry
+credhub
 crypto
 datetime
 exp
