@@ -160,6 +160,7 @@ aliases
 aliasing
 align
 aligned
+aligns
 alive
 all
 allocate
@@ -561,6 +562,7 @@ bringing
 brings
 broadcast
 broader
+broadest
 broadly
 broken
 broker
@@ -939,6 +941,7 @@ consequence
 consequently
 conservative
 consider
+consideration
 considered
 considering
 considers
@@ -1179,6 +1182,7 @@ deduction
 deem
 deemed
 deep
+deeper
 default
 defaulted
 defaulting
@@ -1228,6 +1232,7 @@ demonstrates
 demos
 denial
 denied
+denominator
 denotes
 deny
 depend
@@ -1258,6 +1263,7 @@ descendants
 descending
 describe
 described
+describers
 describes
 describing
 description
@@ -3668,6 +3674,7 @@ reference
 referenced
 references
 referencing
+referential
 referred
 referring
 refers

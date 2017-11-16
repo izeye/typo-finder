@@ -45,6 +45,7 @@ fof
 foos
 foovalue
 gradleit
+healthcheck
 hellotwo
 helloworld
 hz

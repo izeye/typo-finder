@@ -81,6 +81,7 @@ rcf
 releasetrain
 repro
 resttemplate
+scheduledtasks
 sendgrid
 seq
 sitepreference
