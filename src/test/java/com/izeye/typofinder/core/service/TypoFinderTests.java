@@ -88,6 +88,9 @@ public class TypoFinderTests {
 		exclusions.add("ReactiveCloudFoundrySecurityInterceptorTests.java");
 		exclusions.add("ReactiveCloudFoundrySecurityServiceTests.java");
 		exclusions.add("ReactiveTokenValidatorTests.java");
+		exclusions.add("sessions.adoc");
+		exclusions.add("InfoEndpointDocumentationTests.java");
+		exclusions.add("SessionsEndpointDocumentationTests.java");
 
 		findTypos(directory, fileExtensions, exclusions);
 

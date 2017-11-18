@@ -40,5 +40,6 @@ restfb
 sock
 sourceforge
 tbaggery
+technotes
 wordpress
 youtrack

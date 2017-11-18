@@ -987,6 +987,7 @@ containers
 containing
 contains
 content
+contention
 contents
 context
 contexts
@@ -1438,7 +1439,9 @@ draft
 draw
 drawn
 drift
+drill
 drilldown
+drilling
 drive
 driven
 driver
@@ -2287,6 +2290,7 @@ improvements
 in
 inaccessible
 inactive
+inactivity
 inappropriate
 incantation
 incident
@@ -3022,6 +3026,7 @@ notified
 notifier
 notify
 notion
+november
 now
 nowhere
 nuclear
@@ -3536,6 +3541,7 @@ pulls
 pumped
 pure
 purely
+purge
 purpose
 purposes
 push
@@ -3585,6 +3591,7 @@ random
 randomly
 range
 rank
+ranks
 rapid
 rarely
 rate
@@ -4031,6 +4038,7 @@ scopes
 score
 scrape
 scraped
+scraping
 scratch
 scratched
 scratches
@@ -4308,6 +4316,7 @@ specifying
 specs
 speed
 speeds
+spent
 sphere
 spinel
 split
@@ -4477,6 +4486,7 @@ surface
 surrounded
 surrounding
 suspend
+suspended
 suspending
 swallow
 swallowed
@@ -4496,6 +4506,8 @@ sync
 synchronization
 synchronize
 synchronized
+synchronizer
+synchronizers
 synchronous
 synonym
 synonymous
@@ -4967,6 +4979,7 @@ voter
 voters
 vs
 wait
+waited
 waiting
 waits
 walk
@@ -5092,5 +5105,6 @@ yours
 yourself
 yup
 zone
+zoned
 zero
 zoo
