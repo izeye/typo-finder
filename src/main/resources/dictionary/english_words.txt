@@ -813,6 +813,7 @@ colour
 column
 columns
 combination
+combinations
 combine
 combined
 combines
@@ -2448,6 +2449,7 @@ interfaces
 interfere
 interference
 interleaving
+intermediaries
 intermediary
 intermediate
 internal
@@ -3918,6 +3920,7 @@ returns
 reuse
 reused
 reuses
+revalidate
 reverse
 reversed
 reverser

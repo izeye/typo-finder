@@ -139,6 +139,7 @@ mono
 multiline
 mx
 mybatis
+nanos
 narayana
 nifty
 nl

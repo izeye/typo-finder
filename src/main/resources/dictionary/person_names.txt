@@ -31,7 +31,9 @@ bray
 brian
 brisbin
 brock
+brouwer
 bryant
+bruce
 buettner
 burke
 cédric
@@ -146,7 +148,9 @@ meang
 meléndez
 michael
 mills
+mishra
 mohsin
+nakul
 nasko
 nicolas
 nikolay
