@@ -2059,6 +2059,7 @@ grape
 grapes
 graph
 graphed
+graphic
 graphics
 graphing
 great

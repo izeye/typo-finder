@@ -78,6 +78,7 @@ props
 putfilter
 rabbitmq
 rcf
+reactiverepositories
 releasetrain
 repro
 resttemplate
