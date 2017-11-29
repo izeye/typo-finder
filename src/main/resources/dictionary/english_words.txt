@@ -2268,6 +2268,7 @@ imp
 impact
 impacted
 impatient
+imperative
 implement
 implementation
 implementations

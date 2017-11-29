@@ -13,6 +13,7 @@ basedir
 beanfactory
 beaninfo
 buildinfo
+cachecontrol
 classesroot
 closeables
 cls
@@ -51,6 +52,7 @@ innodb
 jarfile
 jdbcjobstore
 jsontesters
+jvmmemory
 len
 logfile
 keyspace
