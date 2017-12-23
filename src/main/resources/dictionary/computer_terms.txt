@@ -119,6 +119,7 @@ datadog
 datagram
 db
 dbcp
+dbs
 ddl
 debian
 debug
@@ -147,6 +148,7 @@ dom
 dos
 dropwizard
 dsl
+dto
 ear
 ecdhe
 eclipse
@@ -377,6 +379,7 @@ nginx
 nio
 nix
 nondefault
+noop
 nop
 nosql
 nul
@@ -385,6 +388,7 @@ nullable
 nulls
 octet
 odm
+oidc
 okta
 oltp
 opcodes

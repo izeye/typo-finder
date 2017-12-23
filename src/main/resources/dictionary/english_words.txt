@@ -215,6 +215,8 @@ and
 angeles
 angle
 angular
+animated
+animates
 annotate
 annotated
 annotating
@@ -736,6 +738,7 @@ circumvents
 circumstances
 cities
 city
+claim
 claims
 clamping
 clarified
@@ -1099,6 +1102,7 @@ cumbersome
 cumulative
 curated
 curious
+currency
 current
 currently
 cursor
@@ -1772,6 +1776,7 @@ fact
 facto
 factor
 factories
+factors
 factory
 fahrenheit
 fail
@@ -2086,6 +2091,7 @@ guaranteed
 guess
 guessed
 guesses
+guest
 guidance
 guide
 guideline
@@ -2097,6 +2103,7 @@ had
 hadn't
 half
 halts
+hamburger
 hand
 handbook
 handle
@@ -2373,6 +2380,7 @@ initializing
 initially
 initiated
 inject
+injectable
 injected
 injecting
 injection
@@ -2853,7 +2861,9 @@ migrated
 migrating
 migration
 migrations
+mile
 mileage
+miles
 milestone
 milestones
 milli
@@ -2911,6 +2921,7 @@ modify
 modifying
 module
 modules
+monetary
 money
 mongo
 monitor
@@ -2974,6 +2985,7 @@ needed
 needing
 needlessly
 needs
+negate
 negated
 negative
 negotiate
@@ -4064,6 +4076,7 @@ secondly
 seconds
 secret
 secrets
+secs
 section
 sections
 secure
@@ -4215,6 +4228,7 @@ simply
 simulate
 simulated
 simulates
+simulating
 simulator
 since
 sing
@@ -4254,6 +4268,7 @@ sluggish
 small
 smaller
 smart
+smiles
 smoothing
 snake
 snakes
@@ -4665,6 +4680,7 @@ tokens
 tolerant
 tolerate
 tolerated
+tolerates
 too
 took
 tool
@@ -4899,6 +4915,8 @@ upper
 uppercase
 uptime
 upwards
+urge
+urgh
 us
 usable
 usage
