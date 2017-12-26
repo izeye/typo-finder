@@ -118,9 +118,14 @@ public class TypoFinderTests {
 			if (file.getName().endsWith(".java")) {
 				failureReports.addAll(StringFormatValidationUtils.validateAndReturnFailures(file));
 
-				ValidationReport validationReport = UsageValidationUtils.validateThrown(file);
-				if (!validationReport.isValid()) {
-					failureReports.add(validationReport);
+				ValidationReport thrownValidationReport = UsageValidationUtils.validateThrown(file);
+				if (!thrownValidationReport.isValid()) {
+					failureReports.add(thrownValidationReport);
+				}
+
+				ValidationReport stringUtilsValidationReport = UsageValidationUtils.validateStringUtils(file);
+				if (!stringUtilsValidationReport.isValid()) {
+					failureReports.add(stringUtilsValidationReport);
 				}
 			}
 		}
