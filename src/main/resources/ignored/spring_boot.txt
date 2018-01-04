@@ -400,6 +400,8 @@ mysystem
 myvhost
 na
 namingstrategy
+nan
+nans
 ne
 nes
 neuland
@@ -612,6 +614,7 @@ ttest
 turnquest
 typesafe
 uaa
+ufeff
 uid
 ultraq
 un

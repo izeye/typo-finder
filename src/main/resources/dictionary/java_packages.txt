@@ -1,6 +1,7 @@
 arjuna
 arjunacore
 bytebuddy
+ducttape
 gmetric
 hawtbuf
 hist
@@ -9,9 +10,12 @@ influxdb
 minidev
 okhttp
 reactivestreams
+rnorth
 searchbox
 simpl
 spockframework
 squareup
+testcontainers
 unboundid
+unreliables
 webresources

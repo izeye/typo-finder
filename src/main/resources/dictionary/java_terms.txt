@@ -30,6 +30,7 @@ comp
 concat
 conn
 connectiontimeout
+conscrypt
 cp
 databind
 dataformat
@@ -92,6 +93,7 @@ jboss
 jbossatx
 jbossts
 jcl
+jcp
 jdom
 jdwp
 jest

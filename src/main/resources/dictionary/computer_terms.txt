@@ -4,6 +4,7 @@ alpn
 alps
 amazon
 amqp
+android
 ansi
 ant
 aop
@@ -376,6 +377,7 @@ namespaces
 ncsa
 netty
 newline
+newlines
 nginx
 nio
 nix
@@ -462,6 +464,7 @@ requeued
 rest
 restful
 rethrow
+rfc
 rhoar
 rollback
 rs

@@ -27,6 +27,7 @@ crsh
 datasource
 datasources
 dateformat
+dehexchar
 delims
 dep
 dependencymanagement
@@ -90,14 +91,19 @@ seq
 sitepreference
 sqli
 stdev
+stringer
+stringers
 systemload
 testkit
 testsupport
 thirdpartyproject
 threaddump
+thru
+tokener
 tomcats
 toolbox
 tsdb
+unreads
 userid
 val
 webclient

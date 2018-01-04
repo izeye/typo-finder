@@ -105,6 +105,7 @@ adheres
 adjacent
 adjust
 adjusted
+adjusts
 admin
 administer
 administration
@@ -113,6 +114,7 @@ adopting
 adoption
 adopts
 advanced
+advances
 advantage
 advantages
 advertised
@@ -183,6 +185,7 @@ alright
 also
 alter
 alternate
+alternating
 alternative
 alternatively
 alternatives
@@ -248,6 +251,7 @@ appenders
 appendices
 appending
 appendix
+appends
 apple
 applicability
 applicable
@@ -289,6 +293,7 @@ arrange
 arrangement
 array
 arrays
+arrow
 art
 article
 artifact
@@ -544,7 +549,9 @@ bounds
 box
 boxed
 boxing
+brace
 bracket
+bracketless
 brackets
 branch
 brand
@@ -764,6 +771,7 @@ cleartext
 click
 client
 clients
+clobbering
 clock
 clone
 cloned
@@ -790,6 +798,7 @@ coding
 coerce
 coerced
 coercible
+coercing
 coercion
 coexists
 cold
@@ -808,6 +817,7 @@ collects
 collision
 collisions
 colon
+colons
 color
 colored
 coloring
@@ -877,6 +887,7 @@ complexity
 compliance
 compliant
 complication
+complies
 component
 components
 compose
@@ -1002,6 +1013,7 @@ continued
 continuously
 contract
 contracts
+contradicts
 contrary
 contribute
 contributed
@@ -1129,6 +1141,7 @@ daemon
 dallas
 damage
 dangerous
+dangling
 dark
 dash
 dashed
@@ -1240,6 +1253,7 @@ denial
 denied
 denominator
 denotes
+dense
 deny
 depend
 depended
@@ -1396,6 +1410,7 @@ displays
 disposable
 dispose
 disposition
+disregard
 distance
 distinct
 distinguish
@@ -1554,6 +1569,7 @@ encode
 encoded
 encoder
 encoders
+encodes
 encoding
 encompassing
 encounter
@@ -1596,6 +1612,7 @@ ensures
 ensuring
 enter
 enterprise
+enters
 entertainment
 entire
 entirely
@@ -1626,6 +1643,7 @@ escape
 escaped
 escaper
 escapes
+escaping
 especially
 essential
 essentially
@@ -1771,6 +1789,7 @@ facade
 faces
 facets
 facilitate
+facility
 facing
 fact
 facto
@@ -1813,6 +1832,7 @@ feat
 feature
 featured
 features
+february
 fed
 fee
 feed
@@ -1857,6 +1877,7 @@ finest
 finish
 finished
 finishes
+finite
 fire
 fired
 firewall
@@ -1890,6 +1911,7 @@ flights
 flip
 flipping
 float
+floating
 floats
 flow
 flows
@@ -1938,6 +1960,7 @@ formatting
 formed
 forms
 formula
+forthcoming
 forward
 forwarded
 forwarder
@@ -2311,6 +2334,7 @@ including
 inclusion
 inclusive
 incoming
+incompatible
 inconsistent
 incorrect
 incorrectly
@@ -2325,7 +2349,9 @@ indeed
 indefinite
 indefinitely
 indent
+indentation
 indented
+indenting
 independence
 independent
 indices
@@ -2350,6 +2376,7 @@ infer
 inferred
 infers
 infinite
+infinities
 inflater
 inflector
 influence
@@ -2363,6 +2390,7 @@ infrastructure
 infrequently
 inherent
 inherit
+inheritance
 inherited
 inheriting
 inherits
@@ -2401,6 +2429,7 @@ inserts
 inside
 inspect
 inspected
+inspecting
 inspection
 instance
 instances
@@ -2428,6 +2457,7 @@ insulting
 intact
 integer
 integers
+integral
 integrate
 integrated
 integrates
@@ -2467,6 +2497,7 @@ internally
 internals
 internationalization
 internet
+interoperability
 interpolate
 interpolated
 interpolation
@@ -2606,6 +2637,7 @@ leads
 leaf
 leak
 leaking
+leaks
 leaky
 learn
 learning
@@ -2717,6 +2749,7 @@ loosely
 los
 lose
 losing
+lossy
 lost
 lot
 lots
@@ -2888,6 +2921,7 @@ misconfiguration
 misconfigured
 mismatch
 mismatched
+mismatches
 miss
 misses
 missing
@@ -2909,8 +2943,10 @@ model
 modeled
 modeling
 modelling
+models
 modern
 modes
+modifiable
 modification
 modifications
 modified
@@ -3016,7 +3052,9 @@ nodes
 noise
 non
 none
+nonempty
 nonexistent
+nonfinal
 noninvasive
 nonspecific
 nope
@@ -3070,6 +3108,7 @@ occurred
 occurrence
 occurrences
 occurs
+octal
 odd
 of
 off
@@ -3173,6 +3212,7 @@ overloaded
 overridable
 overridden
 override
+overrideable
 overriden
 overrides
 overriding
@@ -3201,6 +3241,7 @@ pageable
 pages
 paging
 pair
+paired
 pairs
 paragraph
 paragraphs
@@ -3284,6 +3325,7 @@ periodically
 periods
 perm
 permanently
+permissible
 permission
 permissions
 permit
@@ -3318,6 +3360,7 @@ pipelines
 piste
 pivot
 pixel
+pizza
 place
 placed
 placeholder
@@ -3504,6 +3547,7 @@ programmatically
 programming
 progress
 progressed
+prohibit
 prohibited
 project
 projects
@@ -3592,6 +3636,7 @@ quiet
 quietly
 quit
 quite
+quotation
 quote
 quoted
 quotes
@@ -3606,9 +3651,11 @@ ran
 random
 randomly
 range
+ranges
 rank
 ranks
 rapid
+rapidly
 rarely
 rate
 rates
@@ -3668,6 +3715,7 @@ recorded
 recording
 records
 recover
+recoverable
 recovered
 recoverer
 recoverers
@@ -4052,6 +4100,7 @@ scheme
 scope
 scoped
 scopes
+scoping
 score
 scrape
 scraped
@@ -4165,6 +4214,7 @@ shallow
 shards
 share
 shared
+shares
 sharing
 sheet
 shell
@@ -4187,6 +4237,7 @@ shouldn't
 show
 showcase
 showcases
+showed
 showing
 shown
 shows
@@ -4280,10 +4331,12 @@ so
 social
 socket
 sockets
+soda
 soft
 software
 sole
 solely
+solidus
 solo
 solution
 solutions
@@ -4338,6 +4391,7 @@ speed
 speeds
 spent
 sphere
+spins
 spinel
 split
 splitting
@@ -4383,6 +4437,7 @@ stats
 status
 statuses
 stay
+steal
 step
 steps
 stepwise
@@ -4542,6 +4597,7 @@ table
 tables
 tablet
 tabs
+taco
 tag
 tagged
 tagging
@@ -4596,6 +4652,7 @@ tends
 tera
 term
 terminal
+terminated
 termination
 terms
 terrible
@@ -4807,6 +4864,7 @@ uncapitalize
 uncaught
 unchanged
 unchecked
+unclosed
 uncommitted
 unconditional
 unconditionally
@@ -4824,6 +4882,8 @@ understanding
 understands
 understood
 unencoded
+unescapes
+unescaping
 unethical
 unexpected
 unfinished
@@ -4887,6 +4947,7 @@ unstructured
 unsuccessful
 unsupport
 unsupported
+unterminated
 until
 untimed
 unused
@@ -4984,6 +5045,7 @@ victoria
 view
 views
 violated
+violates
 violation
 virtual
 visible
@@ -5118,6 +5180,8 @@ year
 yellow
 yes
 yet
+yield
+yields
 yolo
 you
 you'll
