@@ -443,6 +443,7 @@ packagestest
 paddresources
 paramvalue
 parseargsdoesntreplace
+pathmatch
 pbootrunmain
 pbootversion
 pdefault
@@ -456,6 +457,7 @@ pextensionexecutable
 pextensionproperties
 pextensionscript
 pfast
+pfull
 pg
 pgenerate
 phil
@@ -514,6 +516,7 @@ rejectanddontrequeuerecoverer
 reloadtrigger
 remoteaddr
 req
+requestmapping
 res
 resourceresolver
 resp

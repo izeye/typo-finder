@@ -110,6 +110,7 @@ admin
 administer
 administration
 administrator
+admins
 adopting
 adoption
 adopts
@@ -193,6 +194,7 @@ although
 altogether
 always
 am
+ambiguity
 ambiguous
 amenable
 amended
@@ -684,6 +686,7 @@ causes
 causing
 caution
 cautiously
+caveats
 cellar
 celsius
 center
@@ -757,6 +760,7 @@ classic
 classified
 classifier
 classifiers
+clause
 clean
 cleaned
 cleaning
@@ -938,6 +942,7 @@ confirms
 conflict
 conflicting
 conflicts
+conform
 conforms
 confusing
 confusion
@@ -1181,6 +1186,7 @@ decoded
 decoder
 decoders
 decoding
+decompressor
 decorate
 decorated
 decorating
@@ -1198,6 +1204,7 @@ deduce
 deduced
 deduces
 deduction
+deduplicated
 deem
 deemed
 deep
@@ -1472,6 +1479,7 @@ droplet
 dropped
 dropping
 drops
+dry
 dual
 due
 dummy
@@ -1673,6 +1681,7 @@ everywhere
 evict
 evictable
 eviction
+evil
 exact
 exactly
 examine
@@ -1885,6 +1894,7 @@ firing
 first
 firstly
 fit
+fits
 five
 fix
 fixed
@@ -2320,11 +2330,13 @@ improve
 improved
 improvement
 improvements
+improves
 in
 inaccessible
 inactive
 inactivity
 inappropriate
+inbound
 incantation
 incident
 include
@@ -2519,6 +2531,7 @@ introspected
 introspection
 introspector
 introspectors
+introspects
 intuitive
 invalid
 invasive
@@ -2530,6 +2543,7 @@ investigating
 invite
 invocation
 invocations
+invoice
 invoke
 invoked
 invoker
@@ -2955,6 +2969,7 @@ modifiers
 modifies
 modify
 modifying
+modularize
 module
 modules
 monetary
@@ -2964,6 +2979,7 @@ monitor
 monitored
 monitoring
 monitors
+monotonic
 month
 monthly
 more
@@ -3082,6 +3098,7 @@ notify
 notion
 november
 now
+nowadays
 nowhere
 nuclear
 number
@@ -3181,9 +3198,11 @@ orientation
 oriented
 origin
 original
+originally
 originate
 originated
 originates
+originating
 origins
 orphan
 orphaned
@@ -3366,6 +3385,7 @@ placed
 placeholder
 placeholders
 places
+placing
 plain
 plan
 planned
@@ -3938,6 +3958,7 @@ response
 responses
 responsibility
 responsible
+responsive
 restart
 restartable
 restarted
@@ -4167,6 +4188,7 @@ sensitivity
 sensor
 sent
 sentence
+sentences
 sentinel
 sentinels
 separate
@@ -4881,7 +4903,9 @@ understand
 understanding
 understands
 understood
+undo
 unencoded
+unescaped
 unescapes
 unescaping
 unethical

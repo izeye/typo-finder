@@ -71,6 +71,7 @@ frederick
 fullarton
 gary
 gierke
+golovko
 gordon
 graeme
 greg
@@ -180,6 +181,7 @@ río
 robert
 rocher
 roland
+roman
 rosenberg
 rostyslav
 roy
@@ -239,3 +241,4 @@ yang
 yogesh
 young
 yunkun
+zaynetdinov
