@@ -1763,6 +1763,7 @@ exporter
 exporters
 exporting
 exports
+exposable
 expose
 exposed
 exposes
@@ -3432,6 +3433,7 @@ populated
 populates
 populator
 port
+portability
 portable
 portal
 portfolio

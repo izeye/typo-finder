@@ -172,6 +172,7 @@ solrj
 spectator
 spi
 spliterator
+spliterators
 sqrt
 src
 ss

@@ -30,6 +30,7 @@ cid
 cloudfoundryapplication
 cpm
 custommediatypes
+custommvc
 customprops
 customschema
 customsecurity
@@ -47,6 +48,7 @@ fiz
 fof
 foos
 foovalue
+fromannotation
 gradleit
 healthcheck
 hellotwo
@@ -63,6 +65,7 @@ kcom
 ksloc
 kslocp
 listvalue
+llun
 logname
 logz
 lokia
@@ -70,6 +73,7 @@ mitteleuropäische
 mmouse
 myerror
 mymain
+myone
 myparam
 mypath
 myserver
@@ -125,13 +129,16 @@ stringx
 tbar
 testa
 testb
+testcontroller
 testenum
 testnomockito
+testrestcontroller
 teststring
 testviamg
 testx
 thebar
 threeandfour
+toob
 tsloc
 tslocp
 ty
