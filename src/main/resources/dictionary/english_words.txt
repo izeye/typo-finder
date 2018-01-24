@@ -205,6 +205,7 @@ amongst
 amount
 amounts
 an
+analyse
 analysed
 analysis
 analytics
@@ -1747,6 +1748,7 @@ expires
 expiring
 expiry
 explained
+explaining
 explains
 explanation
 explicit
@@ -2444,6 +2446,7 @@ inspect
 inspected
 inspecting
 inspection
+inspects
 instance
 instances
 instant
@@ -4286,6 +4289,7 @@ significantly
 signify
 signifying
 signing
+silence
 silent
 silently
 silver
@@ -4520,6 +4524,7 @@ subscribing
 subscription
 subscriptions
 subsection
+subsequence
 subsequent
 subsequently
 subset

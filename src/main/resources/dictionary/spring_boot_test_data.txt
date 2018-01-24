@@ -64,6 +64,7 @@ joan
 kcom
 ksloc
 kslocp
+legacyproperties
 listvalue
 llun
 logname
