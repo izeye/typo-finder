@@ -134,6 +134,7 @@ testcontroller
 testenum
 testnomockito
 testrestcontroller
+testservlet
 teststring
 testviamg
 testx
