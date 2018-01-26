@@ -54,6 +54,7 @@ deinum
 del
 derkach
 dijkstra
+dominic
 doninger
 doo
 dreis
@@ -78,6 +79,7 @@ gordon
 graeme
 greg
 grzegorz
+gunn
 gytis
 hale
 harrop
@@ -173,6 +175,7 @@ potter
 poznachowski
 pradhan
 przybyla
+qin
 quinten
 raja
 ramnivas
@@ -242,5 +245,6 @@ wolff
 yang
 yogesh
 young
+yulin
 yunkun
 zaynetdinov
