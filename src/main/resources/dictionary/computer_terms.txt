@@ -378,6 +378,7 @@ ncsa
 netty
 newline
 newlines
+newrelic
 nginx
 nio
 nix
@@ -493,6 +494,7 @@ servlet
 servlets
 sh
 sha
+signalfx
 slf
 smile
 smtp
@@ -593,6 +595,7 @@ vm
 void
 war
 wars
+wavefront
 webjar
 webjars
 wget

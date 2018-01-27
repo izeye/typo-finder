@@ -435,6 +435,7 @@ banner
 banners
 bare
 barely
+barrier
 base
 based
 baseline
@@ -881,6 +882,7 @@ compiler
 compiles
 compiling
 complaints
+completable
 complete
 completed
 completely
