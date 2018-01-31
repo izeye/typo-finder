@@ -170,6 +170,7 @@ allocate
 allocated
 allocation
 allow
+allowable
 allowed
 allowing
 allows
@@ -1171,6 +1172,7 @@ dead
 deal
 dealing
 deals
+dealt
 dear
 death
 decapitalize
@@ -1652,6 +1654,7 @@ equally
 equals
 equivalent
 equivalently
+erasure
 error
 errors
 escape
@@ -2060,6 +2063,7 @@ generating
 generation
 generator
 generators
+generically
 gentle
 geo
 geospatial
@@ -2359,6 +2363,7 @@ inclusive
 incoming
 incompatible
 inconsistent
+inconvertible
 incorrect
 incorrectly
 increase
@@ -2944,6 +2949,7 @@ mirror
 mirrors
 misbehave
 misc
+miscellaneous
 misconfiguration
 misconfigured
 mismatch
@@ -5117,6 +5123,7 @@ wanting
 wants
 warm
 warn
+warned
 warning
 warnings
 warns

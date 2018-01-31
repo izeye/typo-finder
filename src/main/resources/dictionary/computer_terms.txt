@@ -300,6 +300,7 @@ kotlin
 kubernetes
 lab
 lambda
+lambdas
 ldap
 ldif
 lifo

@@ -49,6 +49,7 @@ hangup
 heapdump
 httpcodecs
 httpsessions
+httptrace
 innodb
 jarfile
 jdbcjobstore
