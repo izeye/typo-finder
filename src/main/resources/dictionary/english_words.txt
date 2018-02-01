@@ -5219,6 +5219,7 @@ wrapping
 wraps
 writable
 write
+writeable
 writer
 writers
 writes
