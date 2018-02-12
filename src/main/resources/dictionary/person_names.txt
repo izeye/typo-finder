@@ -83,6 +83,7 @@ gunn
 gytis
 hale
 harrop
+hcxin
 henri
 henryk
 heusingfeld
@@ -107,6 +108,7 @@ johannes
 john
 jon
 joshi
+juan
 juergen
 julien
 justin
@@ -120,6 +122,7 @@ klerk
 kolli
 konczak
 konsek
+kostrzewa
 kris
 kristine
 kubrynski
@@ -166,6 +169,7 @@ olivier
 ouellet
 paluch
 patrick
+patryk
 pavic
 pavić
 peter
@@ -177,6 +181,7 @@ pradhan
 przybyla
 qin
 quinten
+rada
 raja
 ramnivas
 rickard

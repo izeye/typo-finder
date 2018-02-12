@@ -272,6 +272,7 @@ appropriately
 approval
 approve
 approved
+approximations
 approximately
 apps
 apt
@@ -550,6 +551,7 @@ both
 bother
 bottom
 bound
+boundaries
 boundary
 bounds
 box
@@ -625,6 +627,7 @@ calendar
 calendars
 calculate
 calculated
+calculation
 calculator
 call
 callable
@@ -1394,6 +1397,7 @@ disabling
 disallow
 disallowed
 disallows
+disambiguation
 disappears
 disappointment
 discard
@@ -1561,6 +1565,7 @@ embedding
 embraces
 emit
 emitted
+emitting
 emoji
 employ
 employed
@@ -1811,6 +1816,7 @@ facade
 faces
 facets
 facilitate
+facilities
 facility
 facing
 fact
@@ -2408,6 +2414,7 @@ infinities
 inflater
 inflector
 influence
+influences
 info
 inform
 information
@@ -2455,6 +2462,7 @@ inserted
 inserters
 inserts
 inside
+insights
 inspect
 inspected
 inspecting
@@ -2771,6 +2779,7 @@ logic
 logical
 long
 longer
+longest
 look
 looked
 looking
@@ -3841,6 +3850,7 @@ releases
 releasing
 relevant
 reliable
+relic
 relied
 relies
 religion
@@ -4346,6 +4356,7 @@ skip
 skipped
 skipping
 skips
+sla
 slash
 slashes
 sleep
@@ -4575,6 +4586,7 @@ suited
 suites
 suits
 sum
+summaries
 summarized
 summarizes
 summary

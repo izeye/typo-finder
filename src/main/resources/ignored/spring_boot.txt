@@ -57,6 +57,7 @@ bbbb
 bbbbb
 bc
 bcd
+bcryptpasswordencoder
 bd
 beandesc
 ben
@@ -206,6 +207,7 @@ en
 enableautoconfiguration
 enableother
 enableprofileviaapplicationproperties
+encodewithbcryptshouldusebcrypt
 endpointoutput
 eric
 escf

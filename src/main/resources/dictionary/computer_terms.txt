@@ -34,6 +34,7 @@ basenames
 bash
 bath
 baz
+bcrypt
 beanstalk
 birt
 bintray
@@ -184,6 +185,7 @@ formation
 fqn
 freemarker
 ftl
+fx
 ga
 ganglia
 gb
@@ -409,6 +411,7 @@ packet
 pascal
 passphrase
 pathname
+pbkdf
 pdf
 pem
 perl

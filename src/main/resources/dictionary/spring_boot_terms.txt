@@ -23,6 +23,7 @@ configurationmetadata
 configurationprocessor
 connectionfactory
 connecttimeout
+contentnegotiation
 crsh
 datasource
 datasources
@@ -73,6 +74,7 @@ nto
 oauth
 oauths
 obj
+pathmatch
 pidfile
 portfile
 pos

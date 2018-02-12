@@ -93,6 +93,9 @@ public class TypoFinderTests {
 		exclusions.add("SessionsEndpointDocumentationTests.java");
 		exclusions.add("ReactiveAuthenticationManagerConfigurationTests.java");
 		exclusions.add("AuthenticationManagerConfigurationTests.java");
+		exclusions.add("UserDetailsServiceAutoConfigurationTests.java");
+		exclusions.add("ReactiveUserDetailsServiceAutoConfigurationTests.java");
+		exclusions.add("GitInfoContributorTests.java");
 
 		findTypos(directory, fileExtensions, exclusions);
 
