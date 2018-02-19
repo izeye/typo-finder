@@ -214,6 +214,7 @@ analyze
 analyzed
 analyzer
 analyzers
+analyzes
 analyzing
 anchor
 ancestor
@@ -286,6 +287,7 @@ archivers
 archives
 are
 area
+areas
 aren't
 arguably
 argument
@@ -997,6 +999,7 @@ constructing
 construction
 constructor
 constructors
+constructs
 consult
 consulted
 consulting
@@ -1214,6 +1217,7 @@ decryption
 dedicated
 deduce
 deduced
+deducer
 deduces
 deduction
 deduplicated
@@ -1227,6 +1231,7 @@ defaulting
 defaults
 defer
 deferred
+deferring
 define
 defined
 defines
@@ -1353,6 +1358,7 @@ diagnose
 diagnosing
 diagnosis
 diagnostic
+diagnostically
 diagnostics
 dialect
 dialects
@@ -1377,6 +1383,7 @@ digit
 digits
 dimension
 dimensional
+dimensionally
 dimensions
 direct
 direction
@@ -1550,10 +1557,12 @@ elastic
 eldest
 electronic
 electronically
+elegant
 element
 elements
 elevated
 eligible
+eliminate
 elite
 else
 elsewhere
@@ -1596,6 +1605,7 @@ encoding
 encompassing
 encounter
 encountered
+encountering
 encourage
 encouraged
 encrypt
@@ -1697,6 +1707,7 @@ evict
 evictable
 eviction
 evil
+evolve
 exact
 exactly
 examine
@@ -1964,6 +1975,7 @@ food
 foods
 fool
 footprint
+footprints
 for
 forbidden
 force
@@ -1987,6 +1999,7 @@ formatter
 formatters
 formatting
 formed
+former
 forms
 formula
 forthcoming
@@ -2534,6 +2547,7 @@ internally
 internals
 internationalization
 internet
+interop
 interoperability
 interpolate
 interpolated
@@ -2856,6 +2870,7 @@ marginally
 mark
 marked
 marker
+markers
 marketplace
 marking
 marks
@@ -3054,6 +3069,7 @@ naturally
 nature
 navigable
 navigate
+navigating
 nb
 near
 nearest
@@ -3339,12 +3355,14 @@ patched
 patches
 patching
 path
+pathless
 paths
 pattern
 patterns
 pause
 paused
 pay
+paying
 payload
 payloads
 pc
@@ -3632,6 +3650,7 @@ provision
 provisioned
 provisioning
 provisions
+proxied
 proxies
 proxy
 prudent
@@ -3828,6 +3847,7 @@ registries
 registry
 regroups
 regular
+reified
 reinitialize
 reinject
 reinstate
@@ -4097,6 +4117,7 @@ runs
 safe
 safely
 safer
+safety
 said
 same
 sample
@@ -4300,6 +4321,7 @@ shuts
 shutting
 sibling
 side
+sidecar
 sign
 signal
 signals
@@ -4458,6 +4480,7 @@ square
 squash
 stable
 stack
+stacked
 stacks
 stage
 staging
@@ -4485,6 +4508,7 @@ statement
 statements
 states
 static
+statically
 statistic
 statistics
 stats
@@ -4557,6 +4581,7 @@ subset
 substantially
 substitute
 substituting
+substitution
 substitutions
 subsystem
 subtle
@@ -5057,6 +5082,7 @@ usually
 utc
 utilities
 utility
+utilization
 utilize
 valid
 validate
@@ -5104,6 +5130,7 @@ veto
 via
 victoria
 view
+viewed
 views
 violated
 violates

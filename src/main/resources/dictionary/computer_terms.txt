@@ -103,6 +103,7 @@ configs
 cors
 couchbase
 coyote
+cpu
 cql
 crc
 cron
@@ -164,6 +165,7 @@ eocd
 epub
 esb
 esc
+etsy
 eval
 exe
 facebook
@@ -184,7 +186,9 @@ foobar
 formation
 fqn
 freemarker
+frontend
 ftl
+fun
 fx
 ga
 ganglia
@@ -303,6 +307,7 @@ kubernetes
 lab
 lambda
 lambdas
+lateinit
 ldap
 ldif
 lifo
@@ -392,6 +397,7 @@ nosql
 nul
 null
 nullable
+nullability
 nulls
 octet
 odm
@@ -499,6 +505,7 @@ servlets
 sh
 sha
 signalfx
+slack
 slf
 smile
 smtp

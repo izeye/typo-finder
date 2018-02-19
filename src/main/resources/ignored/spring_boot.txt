@@ -527,6 +527,7 @@ restclient
 restdoc
 rob
 rtn
+runapplication
 sa
 sampleconfig
 sampletomeedeployapplication
@@ -660,6 +661,7 @@ xetorthio
 xffffff
 xformed
 xinfox
+xjsr
 xverify
 xwex
 xwexception
