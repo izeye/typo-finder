@@ -115,6 +115,7 @@ portsfile
 ppluginclasspath
 predis
 principalquery
+profilenegation
 pt
 ptaskname
 qrtz
@@ -128,7 +129,9 @@ rg
 rojo
 rt
 rver
+securitycontext
 servername
+servletapi
 setx
 sframework
 simpsons
@@ -156,6 +159,7 @@ ty
 ud
 udca
 ue
+userinrole
 vallet
 vehicledetails
 vin

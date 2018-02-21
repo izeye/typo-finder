@@ -727,6 +727,7 @@ characters
 charge
 charlie
 chat
+cheap
 check
 checked
 checker
@@ -2273,6 +2274,7 @@ home
 honored
 honors
 honoured
+honouring
 honours
 hood
 hook
@@ -2281,6 +2283,7 @@ hooking
 hooks
 hoops
 hopefully
+hops
 hornet
 host
 hosted
@@ -2436,6 +2439,7 @@ informed
 infos
 infrastructure
 infrequently
+ingest
 inherent
 inherit
 inheritance
@@ -3084,6 +3088,7 @@ needs
 negate
 negated
 negative
+negation
 negotiate
 negotiated
 negotiating
@@ -4100,6 +4105,7 @@ rounding
 route
 routed
 router
+routers
 routes
 routing
 row
@@ -4185,6 +4191,8 @@ screws
 script
 scripting
 scripts
+sealer
+sealing
 search
 searched
 searcher
@@ -5266,6 +5274,7 @@ writing
 written
 wrong
 wrote
+yay
 year
 yellow
 yes
