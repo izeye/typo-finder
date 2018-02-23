@@ -680,6 +680,7 @@ case
 cases
 casing
 cast
+castable
 casting
 cat
 catalog
