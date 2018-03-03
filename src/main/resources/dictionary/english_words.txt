@@ -40,6 +40,7 @@ account
 accounts
 accumulate
 accumulated
+accuracy
 accurate
 achieve
 achieved
@@ -676,6 +677,7 @@ carries
 carry
 cartridge
 cascade
+cascading
 case
 cases
 casing
@@ -1106,6 +1108,7 @@ countries
 country
 counts
 couple
+coupled
 couples
 course
 covenant
@@ -1802,6 +1805,7 @@ exposure
 exposures
 express
 expressed
+expressing
 expression
 expressions
 extend
@@ -2335,6 +2339,7 @@ ignores
 ignoring
 ii
 illegal
+illustrated
 illustrates
 image
 imagery
@@ -3659,6 +3664,7 @@ provisions
 proxied
 proxies
 proxy
+proxying
 prudent
 pseudo
 public
@@ -3930,6 +3936,7 @@ repackager
 repackages
 repackaging
 repeat
+repeatability
 repeatable
 repeated
 repeatedly
@@ -4192,6 +4199,7 @@ screws
 script
 scripting
 scripts
+sealed
 sealer
 sealing
 search
@@ -4881,6 +4889,7 @@ translates
 translating
 translation
 translator
+transparent
 transparently
 transport
 transporter
@@ -4909,6 +4918,7 @@ trolling
 trouble
 troubleshoot
 true
+truly
 trumps
 truncated
 truncating

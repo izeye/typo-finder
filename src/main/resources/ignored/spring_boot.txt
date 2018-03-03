@@ -474,7 +474,9 @@ pm
 pmc
 pnomainclass
 pnonjavaexecrun
+pnulltime
 pository
+pprojectversion
 pr
 prefertokeninfo
 preinit
