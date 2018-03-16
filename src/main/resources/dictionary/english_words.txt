@@ -1368,6 +1368,7 @@ diagnostics
 dialect
 dialects
 diamond
+dictionary
 did
 didn't
 die
@@ -2625,6 +2626,7 @@ iterated
 iterating
 iteration
 iterator
+iterators
 its
 itself
 jan

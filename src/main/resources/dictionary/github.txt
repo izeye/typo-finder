@@ -14,6 +14,7 @@ errorest
 freefair
 fullstack
 gavlyukovskiy
+generale
 helpermethod
 hiatus
 jihor
@@ -36,6 +37,7 @@ restfbmessenger
 santos
 sbraconnier
 sdeleuze
+societe
 ttddyy
 vladmihalcea
 wiremock
