@@ -4638,6 +4638,7 @@ summed
 sunny
 super
 supersede
+superseded
 supersedes
 superset
 supplied
