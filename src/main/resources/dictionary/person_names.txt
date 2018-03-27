@@ -1,6 +1,7 @@
 abbott
 ahlenstorf
 akira
+alen
 alex
 alexander
 ali
@@ -241,6 +242,7 @@ tommy
 toshiaki
 trikleris
 turanski
+turkovic
 turnquist
 tyler
 valkealahti
