@@ -76,6 +76,7 @@ inetaddress
 inet
 inf
 instanceof
+intelli
 isnan
 jaas
 jandex
@@ -195,6 +196,7 @@ tmjoin
 tmpdir
 tmstartrscan
 todo
+unmapper
 uow
 vaadin
 vararg

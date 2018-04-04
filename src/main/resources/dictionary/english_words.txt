@@ -1978,6 +1978,7 @@ followed
 following
 follows
 font
+fonts
 food
 foods
 fool
@@ -3027,6 +3028,7 @@ modifying
 modularize
 module
 modules
+moment
 monetary
 money
 mongo
@@ -4322,6 +4324,7 @@ shortcomings
 shortcut
 shortcuts
 shorten
+shortened
 shorter
 shorthand
 should
@@ -4493,6 +4496,7 @@ splitting
 spot
 spied
 spies
+sprout
 spy
 spying
 square

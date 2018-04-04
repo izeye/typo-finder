@@ -38,6 +38,7 @@ bcrypt
 beanstalk
 birt
 bintray
+bitmask
 bitronix
 blob
 blogs
@@ -565,6 +566,7 @@ tinyint
 tls
 tomcat
 tsd
+ttf
 ttl
 tty
 tuple
