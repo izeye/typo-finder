@@ -18,6 +18,7 @@ generale
 helpermethod
 hiatus
 jihor
+jliu
 jodconverter
 juanpablo
 marsbits
@@ -39,6 +40,7 @@ savantly
 sbraconnier
 sdeleuze
 societe
+spotify
 ttddyy
 vladmihalcea
 wiremock

@@ -4207,6 +4207,7 @@ sealed
 sealer
 sealing
 search
+searchable
 searched
 searcher
 searches

@@ -78,6 +78,7 @@ lokia
 mitteleuropäische
 mmouse
 myerror
+myjob
 mymain
 myone
 myparam
@@ -97,6 +98,7 @@ nullwrite
 objectname
 onlyweb
 orcl
+pa
 papplyapplicationplugin
 papplydependencymanagementplugin
 papplyjavaplugin
@@ -120,6 +122,7 @@ profilenegation
 pt
 ptaskname
 qrtz
+quartztest
 qux
 rbar
 reg

@@ -82,6 +82,7 @@ postgresql
 prop
 props
 putfilter
+queryservice
 rabbitmq
 rcf
 reactiverepositories
@@ -109,6 +110,7 @@ tsdb
 unreads
 userid
 val
+viewservice
 webclient
 webdriver
 webflux

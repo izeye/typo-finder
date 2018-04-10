@@ -124,6 +124,7 @@ juli
 jupiter
 keystore
 krb
+kv
 lang
 ldapsdk
 lettuce
