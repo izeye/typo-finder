@@ -73,6 +73,7 @@ egorov
 ethan
 etienne
 fernández
+figueira
 frederick
 fullarton
 gary
@@ -204,6 +205,7 @@ rostyslav
 roy
 ruben
 rubinson
+rui
 rupert
 russell
 rybak
