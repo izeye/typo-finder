@@ -52,6 +52,7 @@ httpcodecs
 httpsessions
 httptrace
 innodb
+integrationgraph
 jarfile
 jdbcjobstore
 jsontesters

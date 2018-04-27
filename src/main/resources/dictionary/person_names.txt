@@ -52,11 +52,13 @@ cogoluègnes
 craig
 cramer
 daniel
+danny
 dawson
 deinum
 del
 derkach
 dijkstra
+dmytro
 dominic
 doninger
 doo
@@ -99,6 +101,7 @@ huang
 hunger
 husen
 hwan
+hyun
 ingram
 jacques
 jakub
@@ -171,6 +174,7 @@ nasko
 nicolas
 nikolay
 noronha
+nosan
 odín
 oliver
 olivier
@@ -239,6 +243,7 @@ telechev
 thiago
 thomas
 thornhill
+tim
 tomasz
 tommy
 toshiaki
@@ -262,6 +267,7 @@ wolff
 yang
 yogesh
 young
+ysewyn
 yulin
 yunkun
 zaynetdinov

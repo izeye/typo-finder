@@ -167,6 +167,7 @@ dispatcherservlet
 dist
 dit
 djava
+dkey
 dloader
 dlrow
 dnop
@@ -179,6 +180,7 @@ domix
 dontrecompresszips
 dontrestoreexpired
 dp
+dproperty
 dps
 drun
 ds

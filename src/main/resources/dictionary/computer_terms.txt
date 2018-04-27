@@ -300,6 +300,7 @@ jwks
 jwt
 jwts
 kafka
+kapt
 kb
 kib
 kilobyte

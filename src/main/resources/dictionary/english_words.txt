@@ -2775,6 +2775,7 @@ listings
 lists
 lite
 literal
+literally
 litter
 little
 live
@@ -4919,6 +4920,7 @@ triggering
 triggers
 trim
 trimmed
+trims
 trip
 triple
 trivial
@@ -4998,6 +5000,7 @@ unescaped
 unescapes
 unescaping
 unethical
+unevaluated
 unexpected
 unfinished
 unfortunately

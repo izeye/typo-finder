@@ -66,6 +66,7 @@ ireallydontexist
 jane
 jf
 joan
+jvmargs
 kcom
 ksloc
 kslocp
@@ -160,6 +161,7 @@ threeandfour
 toob
 tsloc
 tslocp
+tt
 ty
 ud
 udca
