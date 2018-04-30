@@ -668,6 +668,7 @@ capture
 captured
 captures
 capturing
+cardinality
 care
 careful
 carefully
@@ -2753,6 +2754,7 @@ limit
 limitation
 limitations
 limited
+limiting
 limits
 line
 linear
@@ -3068,6 +3070,7 @@ my
 naively
 name
 named
+namely
 names
 naming
 nano
@@ -4071,6 +4074,7 @@ returns
 reuse
 reused
 reuses
+reusing
 revalidate
 reverse
 reversed
@@ -4420,6 +4424,7 @@ small
 smaller
 smart
 smiles
+smoother
 smoothing
 snake
 snakes
