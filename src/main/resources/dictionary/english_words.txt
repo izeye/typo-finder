@@ -1516,6 +1516,7 @@ dumper
 dumping
 dumps
 dunno
+dupe
 duplicate
 duplicated
 duplicates
@@ -3702,6 +3703,7 @@ putting
 qualified
 qualifier
 qualifiers
+qualify
 qualifying
 quality
 quantile
