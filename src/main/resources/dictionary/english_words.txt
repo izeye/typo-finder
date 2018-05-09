@@ -4682,6 +4682,7 @@ swallowed
 swallowing
 swallows
 swap
+swapped
 swapping
 sweden
 swedish
@@ -4979,6 +4980,7 @@ unavailable
 unbind
 unbindable
 unbound
+unbounded
 unboxing
 uncapitalize
 uncaught
