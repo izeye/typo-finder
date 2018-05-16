@@ -27,6 +27,7 @@ bickers
 biju
 bilan
 binwei
+björn
 blum
 bob
 bourgain
@@ -115,6 +116,7 @@ johannes
 john
 johnny
 jon
+jonas
 joshi
 juan
 juergen
@@ -125,6 +127,7 @@ kalimullin
 kazuki
 kedar
 kerola
+keßler
 kirsch
 klerk
 kolli
@@ -147,6 +150,7 @@ leboulanger
 leibiger
 lejeune
 lim
+lindström
 lonkar
 lucas
 ludwig

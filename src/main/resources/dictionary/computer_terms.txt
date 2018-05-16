@@ -448,6 +448,7 @@ prometheus
 python
 pub
 putty
+qa
 # FIXME: For 'QoS' temporarily.
 qo
 qos
@@ -489,6 +490,7 @@ safari
 san
 sap
 sax
+scoop
 scsv
 sdk
 sdkman

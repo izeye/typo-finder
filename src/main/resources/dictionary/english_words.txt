@@ -867,6 +867,7 @@ commit
 commits
 committed
 committer
+committing
 commodity
 common
 commonly
@@ -1299,6 +1300,7 @@ deployer
 deploying
 deployment
 deployments
+deploys
 deprecate
 deprecated
 deprecation
@@ -4656,6 +4658,7 @@ supersede
 superseded
 supersedes
 superset
+supplemental
 supplied
 supplier
 suppliers
@@ -4959,6 +4962,7 @@ turned
 turning
 turns
 tutorial
+tutorials
 tweak
 tweaks
 twice
@@ -4996,6 +5000,7 @@ unconfigured
 unconverted
 undeclared
 undefined
+undeploy
 under
 underline
 underlying
