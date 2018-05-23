@@ -187,6 +187,7 @@ already
 alright
 also
 alter
+altered
 alternate
 alternating
 alternative
@@ -339,6 +340,7 @@ assistance
 associate
 associates
 associated
+associating
 association
 associative
 assume
@@ -691,6 +693,7 @@ catalogs
 catch
 catchall
 catching
+categories
 categorized
 category
 caught
@@ -1418,6 +1421,7 @@ disappears
 disappointment
 discard
 discarded
+disclose
 disconnect
 disconnected
 disconnecting
@@ -2620,6 +2624,7 @@ issue
 issuer
 issuers
 issues
+issuing
 it
 italian
 italic
@@ -4035,6 +4040,7 @@ response
 responses
 responsibility
 responsible
+responsibly
 responsive
 restart
 restartable
@@ -4819,6 +4825,7 @@ three
 threshold
 through
 throughout
+throughput
 throw
 throwable
 throwing
@@ -5062,6 +5069,7 @@ unquoted
 unrecognized
 unregister
 unregistered
+unregisters
 unrelated
 unresolvable
 unresolved
@@ -5196,6 +5204,8 @@ volatile
 vote
 voter
 voters
+vulnerability
+vulnerabilities
 vs
 wait
 waited
