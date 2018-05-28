@@ -17,6 +17,7 @@ gavlyukovskiy
 generale
 helpermethod
 hiatus
+javaformat
 javamelody
 jihor
 jliu
