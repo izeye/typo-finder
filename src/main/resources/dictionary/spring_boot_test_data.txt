@@ -129,7 +129,9 @@ quartztest
 qux
 rbar
 reg
+req
 requiredparameters
+resp
 restassured
 restcontroller
 rg

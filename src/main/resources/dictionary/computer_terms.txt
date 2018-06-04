@@ -591,6 +591,7 @@ uninstall
 uninstalling
 unix
 unmarshal
+unmarshaller
 untyped
 unzip
 urandom
