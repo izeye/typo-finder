@@ -115,6 +115,7 @@ viewservice
 webclient
 webdriver
 webflux
+webserver
 webservices
 websocket
 websockets

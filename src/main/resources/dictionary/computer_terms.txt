@@ -53,6 +53,7 @@ boxfuse
 bpm
 breakpoint
 breakpoints
+brotli
 bson
 btm
 byte

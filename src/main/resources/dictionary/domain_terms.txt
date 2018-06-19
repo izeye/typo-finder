@@ -14,6 +14,7 @@ costigliola
 datadoghq
 dg
 dl
+dozermapper
 elasticbeanstalk
 exampledriven
 fogbugz

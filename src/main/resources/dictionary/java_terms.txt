@@ -39,6 +39,7 @@ datatype
 ddebug
 deser
 dotall
+dozer
 dt
 eap
 ecj
@@ -205,6 +206,7 @@ vaadin
 vararg
 varargs
 webapp
+wiretap
 wro
 xa
 xdebug
