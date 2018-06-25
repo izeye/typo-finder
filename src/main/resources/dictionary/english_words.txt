@@ -3721,6 +3721,7 @@ quality
 quantile
 quantiles
 quartz
+queried
 queries
 query
 querying
@@ -3922,6 +3923,7 @@ relocators
 rely
 relying
 remain
+remainder
 remaining
 remains
 remapped
@@ -5198,6 +5200,7 @@ violates
 violation
 virtual
 visible
+visibilities
 visibility
 visit
 visited
