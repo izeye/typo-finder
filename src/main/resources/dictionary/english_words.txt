@@ -1141,6 +1141,7 @@ critical
 cross
 cruncher
 cumbersome
+cumulate
 cumulative
 curated
 curious
@@ -2969,6 +2970,8 @@ methods
 metric
 metrics
 micro
+micros
+microseconds
 middle
 might
 migrate

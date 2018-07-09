@@ -4,6 +4,7 @@ brettwooldridge
 bukhtoyarov
 camunda
 candrews
+catalysts
 charon
 christophd
 clun
@@ -43,6 +44,7 @@ sbraconnier
 sdeleuze
 societe
 spotify
+structurizr
 ttddyy
 vladmihalcea
 wiremock
