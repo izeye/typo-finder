@@ -2456,6 +2456,7 @@ information
 informational
 informed
 infos
+infra
 infrastructure
 infrequently
 ingest
@@ -2731,6 +2732,7 @@ legal
 legit
 length
 lengths
+lengthy
 lenient
 leniently
 less

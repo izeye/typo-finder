@@ -95,10 +95,12 @@ sendgrid
 seq
 sitepreference
 sqli
+sqlplus
 stdev
 stringer
 stringers
 systemload
+tablespace
 testkit
 testsupport
 thirdpartyproject

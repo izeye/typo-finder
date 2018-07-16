@@ -40,6 +40,7 @@ customprops
 customschema
 customsecurity
 customservlet
+databasechangeloglock
 ddd
 dilbert
 dlq
@@ -73,6 +74,7 @@ kcom
 ksloc
 kslocp
 legacyproperties
+liqui
 listvalue
 llun
 logname
