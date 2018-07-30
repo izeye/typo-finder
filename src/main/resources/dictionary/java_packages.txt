@@ -9,6 +9,7 @@ hist
 hotswap
 influxdb
 minidev
+mockwebserver
 okhttp
 reactivestreams
 rnorth

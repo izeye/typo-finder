@@ -1651,6 +1651,7 @@ enjoyed
 enlisted
 enlisting
 enough
+enqueue
 enriched
 enroll
 enrolling
@@ -2478,6 +2479,7 @@ initializers
 initializes
 initializing
 initially
+initiate
 initiated
 inject
 injectable
@@ -3251,6 +3253,7 @@ opportunity
 opposed
 opposite
 opt
+optimal
 optimisation
 optimization
 optimizations
@@ -3845,6 +3848,7 @@ reduce
 reduced
 reduces
 reducing
+redundancy
 redundant
 reentrant
 ref
@@ -3911,6 +3915,7 @@ releases
 releasing
 relevant
 reliable
+reliably
 relic
 relied
 relies
@@ -4109,6 +4114,8 @@ reviews
 revised
 revision
 revisiting
+revocation
+revoke
 reward
 rewrite
 rewrites
@@ -4335,6 +4342,7 @@ shadowing
 shadows
 shall
 shallow
+shard
 shards
 share
 shared

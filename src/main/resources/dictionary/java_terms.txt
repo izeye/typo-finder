@@ -18,6 +18,7 @@ baos
 bcprov
 beanutils
 befores
+boringssl
 caffeine
 cbrt
 ceil
@@ -192,6 +193,7 @@ struts
 substring
 swing
 tccl
+tcnative
 teiid
 testng
 tld
