@@ -151,6 +151,7 @@ mybatis
 nanos
 narayana
 nifty
+nimbus
 nl
 npe
 objenesis

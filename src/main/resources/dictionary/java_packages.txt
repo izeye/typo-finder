@@ -8,6 +8,7 @@ hawtbuf
 hist
 hotswap
 influxdb
+messaginghub
 minidev
 mockwebserver
 okhttp

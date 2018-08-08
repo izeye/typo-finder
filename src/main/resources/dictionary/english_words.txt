@@ -144,6 +144,7 @@ aggregates
 aggregating
 aggregation
 aggregator
+aggressive
 agile
 agnostic
 ago
@@ -558,6 +559,7 @@ bottom
 bound
 boundaries
 boundary
+bounded
 bounds
 box
 boxed
@@ -659,6 +661,7 @@ capabilities
 capable
 capacity
 capitalise
+capitalization
 capitalize
 capitalized
 capitalizing
@@ -1913,6 +1916,7 @@ filenames
 filer
 files
 fill
+filling
 filter
 filterable
 filtered
@@ -3813,6 +3817,7 @@ receiving
 recent
 recipe
 reclaim
+reclaimed
 recognized
 recommend
 recommendation
@@ -4374,6 +4379,8 @@ showed
 showing
 shown
 shows
+shrink
+shrinking
 shut
 shutdown
 shutdowns

@@ -57,6 +57,7 @@ fof
 foos
 foovalue
 fromannotation
+getmixedcase
 gradleit
 healthcheck
 hellotwo
@@ -81,6 +82,7 @@ logname
 logz
 lokia
 mitteleuropäische
+mixedcase
 mmouse
 myerror
 myjob
@@ -91,6 +93,7 @@ mypassword
 mypath
 myserver
 mytag
+mytest
 mywebapp
 nomatch
 nomjvb
@@ -143,6 +146,7 @@ rver
 securitycontext
 servername
 servletapi
+setmixedcase
 setx
 sframework
 simpsons
@@ -184,5 +188,6 @@ xabc
 xabcd
 za
 zoe
+zzz
 èåþßáñàÿ
 宋体
