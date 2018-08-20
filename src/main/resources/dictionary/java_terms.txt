@@ -134,6 +134,8 @@ lang
 ldapsdk
 lettuce
 linkplain
+ljava
+ljavax
 mbean
 mbeans
 metaspace

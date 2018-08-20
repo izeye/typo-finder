@@ -447,6 +447,8 @@ barrier
 base
 based
 baseline
+baselined
+baselining
 bases
 basic
 basically
@@ -546,6 +548,7 @@ boots
 bootstrap
 bootstrapped
 bootstrapper
+bootstrapping
 bootstraps
 border
 born
@@ -668,6 +671,7 @@ capitalizing
 capitals
 capped
 caps
+caption
 captor
 capture
 captured
@@ -2116,6 +2120,7 @@ gets
 getter
 getters
 getting
+giga
 give
 given
 gives
@@ -2505,6 +2510,7 @@ inserted
 inserters
 inserts
 inside
+insight
 insights
 inspect
 inspected
@@ -2678,6 +2684,7 @@ kid
 kill
 killed
 killer
+kilo
 kind
 kinds
 kit
@@ -2950,6 +2957,7 @@ media
 medium
 meet
 meeting
+mega
 melbourne
 member
 members

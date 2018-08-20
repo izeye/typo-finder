@@ -25,6 +25,7 @@ connectionfactory
 connecttimeout
 contentnegotiation
 crsh
+datasize
 datasource
 datasources
 dateformat
@@ -48,6 +49,7 @@ formcontent
 fs
 hangup
 heapdump
+hiddenmethod
 httpcodecs
 httpsessions
 httptrace
@@ -82,6 +84,7 @@ pos
 postgresql
 prop
 props
+pui
 putfilter
 queryservice
 rabbitmq

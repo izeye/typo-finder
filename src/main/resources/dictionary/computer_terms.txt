@@ -201,6 +201,7 @@ gecko
 gemfire
 geronimo
 gif
+gigabytes
 git
 github
 globbing
@@ -559,8 +560,10 @@ superclass
 superclasses
 superuser
 tar
+tb
 tcp
 telnet
+terabytes
 thread
 threaded
 threading
@@ -639,6 +642,7 @@ xml
 xpath
 xsds
 xss
+yahoo
 yaml
 yml
 zeroturnaround
