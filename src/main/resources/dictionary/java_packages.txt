@@ -8,6 +8,7 @@ hawtbuf
 hist
 hotswap
 influxdb
+kstream
 messaginghub
 minidev
 mockwebserver
@@ -15,6 +16,8 @@ okhttp
 reactivestreams
 rnorth
 searchbox
+serde
+serdes
 simpl
 spockframework
 squareup

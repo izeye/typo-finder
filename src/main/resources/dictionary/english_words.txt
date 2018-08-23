@@ -886,6 +886,7 @@ communicating
 communication
 community
 compact
+companion
 company
 comparable
 comparator
@@ -1912,6 +1913,7 @@ fetches
 few
 field
 fields
+fifth
 figure
 file
 filed
@@ -3983,6 +3985,7 @@ repackaged
 repackager
 repackages
 repackaging
+repartition
 repeat
 repeatability
 repeatable

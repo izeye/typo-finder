@@ -74,6 +74,7 @@ jf
 joan
 jvmargs
 kcom
+ks
 ksloc
 kslocp
 legacyproperties
