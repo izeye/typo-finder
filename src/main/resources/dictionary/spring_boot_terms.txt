@@ -92,6 +92,7 @@ rcf
 reactiverepositories
 releasetrain
 repro
+resourceserver
 resttemplate
 scheduledtasks
 sendgrid
