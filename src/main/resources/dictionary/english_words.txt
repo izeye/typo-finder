@@ -2994,6 +2994,7 @@ middle
 might
 migrate
 migrated
+migrates
 migrating
 migration
 migrations

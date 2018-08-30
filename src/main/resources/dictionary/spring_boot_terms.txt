@@ -4,6 +4,8 @@ activemq
 arch
 auditevents
 auth
+authorizationcode
+authorizationgranttype
 authserver
 autoconfig
 autoconfigure
@@ -15,6 +17,10 @@ beaninfo
 buildinfo
 cachecontrol
 classesroot
+clientauthenticationmethod
+clientid
+clientname
+clientsecret
 closeables
 cls
 configprops
@@ -90,6 +96,7 @@ queryservice
 rabbitmq
 rcf
 reactiverepositories
+redirecturitemplate
 releasetrain
 repro
 resourceserver
