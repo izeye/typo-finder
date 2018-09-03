@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import com.github.javaparser.JavaParser;
@@ -16,6 +17,7 @@ import com.github.javaparser.ast.expr.FieldAccessExpr;
 import com.github.javaparser.ast.expr.MethodCallExpr;
 import com.github.javaparser.ast.expr.NameExpr;
 import com.github.javaparser.ast.visitor.VoidVisitorAdapter;
+import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 
 import com.izeye.typofinder.core.domain.ValidationReport;
@@ -25,6 +27,7 @@ import com.izeye.typofinder.core.domain.ValidationReport;
  *
  * @author Johnny Lim
  */
+@Slf4j
 public final class StringFormatValidationUtils {
 
 	private StringFormatValidationUtils() {
@@ -69,12 +72,18 @@ public final class StringFormatValidationUtils {
 	}
 
 	public static List<ValidationReport> validateAndReturnFailures(File file) {
+		// FIXME: In-method annotations like '@SuppressWarnings("unchecked")' don't work with JavaParser.
+		if (file.getName().equals("ConfigurationPropertiesReportEndpoint.java")) {
+			return Collections.emptyList();
+		}
+
 		try {
 			CompilationUnit compilationUnit = JavaParser.parse(new FileInputStream(file));
 			MethodCallExpressionVisitor visitor = new MethodCallExpressionVisitor();
 			visitor.visit(compilationUnit, null);
 			return visitor.getFailureReports();
 		} catch (ParseException ex) {
+			log.error("Failed to parse: {}", file, ex);
 			throw new RuntimeException(ex);
 		} catch (FileNotFoundException ex) {
 			throw new RuntimeException(ex);
