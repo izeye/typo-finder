@@ -45,6 +45,7 @@ burke
 cédric
 champeau
 chanwit
+chentao
 christoffer
 christoph
 clarkson
@@ -154,6 +155,7 @@ leboulanger
 lee
 leibiger
 lejeune
+levi
 lim
 lindström
 lonkar
@@ -181,6 +183,7 @@ mohsin
 myeonghyeon
 nakul
 nasko
+neiser
 nicolas
 nikolay
 noronha
@@ -192,6 +195,7 @@ ouellet
 paluch
 patrick
 patryk
+paul
 pavic
 pavić
 peter
@@ -200,8 +204,11 @@ piotr
 potter
 poznachowski
 pradhan
+pratt
 przybyla
+puot
 qin
+qu
 quinten
 rada
 raja

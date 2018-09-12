@@ -174,6 +174,7 @@ rawtypes
 readlimit
 restlet
 rmi
+rollbar
 rome
 sb
 sf
@@ -191,6 +192,7 @@ sssz
 std
 stdlib
 stmt
+stripe
 stripes
 struts
 substring
