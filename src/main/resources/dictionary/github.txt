@@ -12,6 +12,7 @@ deepdive
 denschu
 eddumelendez
 errorest
+fonimus
 freefair
 fullstack
 gavlyukovskiy

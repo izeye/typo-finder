@@ -181,6 +181,7 @@ alone
 along
 alongside
 alpha
+alphabet
 alphabetic
 alphabetically
 alphanumeric
@@ -2987,6 +2988,7 @@ method
 methods
 metric
 metrics
+mgmt
 micro
 micros
 microseconds
