@@ -155,6 +155,7 @@ dos
 dropwizard
 dsl
 dto
+dynatrace
 ear
 ecdhe
 eclipse
@@ -228,6 +229,7 @@ hateoas
 hazelcast
 hc
 hcp
+hdb
 heroku
 hibernate
 hikaricp
@@ -488,6 +490,7 @@ rs
 rsa
 runtime
 rx
+saas
 safari
 san
 sap

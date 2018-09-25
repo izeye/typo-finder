@@ -8,6 +8,7 @@ hawtbuf
 hist
 hotswap
 influxdb
+jdbcext
 kstream
 messaginghub
 minidev

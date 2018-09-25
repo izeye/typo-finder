@@ -65,6 +65,7 @@ gradleit
 healthcheck
 hellotwo
 helloworld
+hugh
 hz
 idontexist
 ing
@@ -85,6 +86,7 @@ llun
 logname
 logz
 lokia
+meredith
 mitteleuropäische
 mixedcase
 mmouse
