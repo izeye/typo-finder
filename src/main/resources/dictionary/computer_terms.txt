@@ -225,6 +225,7 @@ hamcrest
 hardcoded
 hardcoding
 hashcodes
+hashi
 hateoas
 hazelcast
 hc
@@ -304,12 +305,15 @@ jwks
 jwt
 jwts
 kafka
+kairos
 kapt
 kb
 kib
 kilobyte
 kilobytes
 kotlin
+kt
+kts
 kubernetes
 lab
 lambda
@@ -451,6 +455,7 @@ preprocessor
 prometheus
 python
 pub
+pushgateway
 putty
 qa
 # FIXME: For 'QoS' temporarily.
@@ -576,6 +581,7 @@ thymeleaf
 tinyint
 tls
 tomcat
+transcoding
 tsd
 ttf
 ttl
@@ -616,6 +622,7 @@ uuids
 valiktor
 vars
 varchar
+vault
 velocity
 vm
 void

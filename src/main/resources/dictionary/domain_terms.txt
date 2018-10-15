@@ -46,5 +46,6 @@ sock
 sourceforge
 tbaggery
 technotes
+vaultproject
 wordpress
 youtrack

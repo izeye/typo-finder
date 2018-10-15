@@ -1,4 +1,5 @@
 abbott
+abramov
 ahlenstorf
 akira
 alen
@@ -19,6 +20,7 @@ artur
 aurélien
 aust
 badie
+baptiste
 beaudet
 bego
 benedikt
@@ -109,6 +111,7 @@ husen
 hwan
 hyun
 ingram
+jacobs
 jacques
 jakub
 janne
@@ -129,6 +132,7 @@ julien
 justin
 kaewkasi
 kalimullin
+karlsen
 kazuki
 kedar
 kerola
@@ -162,12 +166,14 @@ lonkar
 lucas
 ludwig
 lukas
+lushchytski
 maciej
 madden
 madhura
 maj
 maki
 maldini
+mancioppi
 manuel
 marco
 marten
@@ -178,6 +184,8 @@ mcfadyen
 meang
 meléndez
 michael
+michele
+mikalai
 mills
 mishra
 mohsin
@@ -187,6 +195,7 @@ nasko
 neiser
 nicolas
 nikolay
+nizet
 noronha
 nosan
 odín
@@ -283,6 +292,7 @@ wadge
 walkowiak
 walls
 wallace
+weirauch
 weisleder
 wolff
 yang

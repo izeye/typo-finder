@@ -75,6 +75,7 @@ jane
 jf
 joan
 jvmargs
+kairosdb
 kcom
 ks
 ksloc
@@ -165,6 +166,7 @@ tbar
 testa
 testb
 testcontroller
+testendpoint
 testenum
 testnomockito
 testrestcontroller
@@ -194,6 +196,8 @@ withwebapplicationtype
 xab
 xabc
 xabcd
+xame
+xamespace
 za
 zoe
 zzz

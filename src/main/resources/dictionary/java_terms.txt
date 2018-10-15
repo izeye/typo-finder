@@ -110,6 +110,7 @@ jmxremote
 jmxrmi
 jnlp
 joda
+johnzon
 joptsimple
 joran
 jre
@@ -179,6 +180,7 @@ rome
 sb
 sf
 skyscreamer
+sm
 solrj
 spectator
 spi
@@ -195,6 +197,7 @@ stmt
 stripe
 stripes
 struts
+subplugin
 substring
 swing
 tccl
