@@ -1,6 +1,7 @@
 abbrev
 accesslog
 activemq
+appoptics
 arch
 auditevents
 auth

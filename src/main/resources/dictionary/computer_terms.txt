@@ -78,6 +78,8 @@ cgi
 changelog
 charset
 charsets
+checkbox
+checkboxes
 checkstyle
 checksum
 choco
@@ -242,6 +244,7 @@ hsts
 html
 http
 https
+humio
 hypermedia
 ibm
 ico

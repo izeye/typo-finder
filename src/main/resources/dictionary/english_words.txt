@@ -821,6 +821,7 @@ closure
 closures
 cloud
 cluster
+clusters
 coal
 code
 codec
@@ -1479,6 +1480,7 @@ distributions
 diverge
 divergence
 dives
+divide
 diving
 diy
 do
@@ -3219,6 +3221,7 @@ numbered
 numbers
 numeric
 numerically
+numerics
 numerous
 nutshell
 object
@@ -3288,6 +3291,7 @@ opportunity
 opposed
 opposite
 opt
+optics
 optimal
 optimisation
 optimization
@@ -4219,6 +4223,7 @@ same
 sample
 samples
 sampling
+sandbox
 sane
 sanitization
 sanitize
@@ -5364,6 +5369,7 @@ with
 within
 without
 wizard
+wouldn't
 won't
 word
 words
