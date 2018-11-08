@@ -2,6 +2,7 @@ arjuna
 arjunacore
 bytebuddy
 cj
+clientside
 ducttape
 gmetric
 hawtbuf

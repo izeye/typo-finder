@@ -62,6 +62,7 @@ dawson
 deinum
 del
 derkach
+devia
 dijkstra
 dmytro
 dominic
@@ -97,6 +98,7 @@ gunn
 gytis
 hale
 harrop
+hassine
 hcxin
 henri
 henryk
@@ -128,6 +130,7 @@ jonas
 joshi
 juan
 juergen
+julian
 julien
 justin
 kaewkasi
@@ -170,6 +173,7 @@ lushchytski
 maciej
 madden
 madhura
+mahmoud
 maj
 maki
 maldini
@@ -250,6 +254,7 @@ sebastian
 sebastien
 sergei
 sergey
+serna
 severson
 shah
 shahbour

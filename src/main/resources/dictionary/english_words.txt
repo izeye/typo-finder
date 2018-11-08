@@ -943,6 +943,7 @@ compromised
 compute
 computed
 computing
+concatenate
 conceivably
 concept
 concepts
@@ -1203,6 +1204,7 @@ de
 dead
 deal
 dealing
+deallocate
 deals
 dealt
 dear
@@ -3454,6 +3456,7 @@ peer
 pending
 people
 per
+percent
 percentage
 percentile
 percentiles

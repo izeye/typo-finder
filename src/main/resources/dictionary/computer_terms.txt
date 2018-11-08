@@ -489,6 +489,7 @@ repl
 requeue
 requeued
 rest
+rests
 restful
 rethrow
 rfc
