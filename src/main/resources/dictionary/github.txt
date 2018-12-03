@@ -1,5 +1,6 @@
 akihyro
 amqphub
+arangodb
 brettwooldridge
 bukhtoyarov
 camunda
@@ -17,6 +18,7 @@ freefair
 fullstack
 gavlyukovskiy
 generale
+getsentry
 helpermethod
 hiatus
 javaformat

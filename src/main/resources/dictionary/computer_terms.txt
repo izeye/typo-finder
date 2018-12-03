@@ -167,6 +167,7 @@ ejb
 elasticsearch
 endian
 enqueued
+entrypoint
 eocd
 epub
 esb
@@ -239,6 +240,7 @@ hikaricp
 homebrew
 hornetq
 hostname
+hs
 hsqldb
 hsts
 html
@@ -290,6 +292,7 @@ jndi
 jira
 jolokia
 jooq
+jose
 jpa
 jpg
 jquery
@@ -305,6 +308,7 @@ jvisualvm
 jvm
 jwk
 jwks
+jws
 jwt
 jwts
 kafka
@@ -512,6 +516,7 @@ sdks
 se
 selenium
 semaphore
+sentry
 serializable
 serialization
 serialize

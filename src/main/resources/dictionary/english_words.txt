@@ -1411,6 +1411,7 @@ difficult
 digest
 digester
 digit
+digital
 digits
 dimension
 dimensional
@@ -4129,6 +4130,7 @@ resulting
 results
 resume
 retain
+retained
 retaining
 retains
 retention
@@ -4390,6 +4392,7 @@ sexual
 sexualized
 shade
 shaded
+shadow
 shadowing
 shadows
 shall
@@ -5174,7 +5177,9 @@ unusual
 unwanted
 unwrap
 unwrapped
+unwrapper
 unwrapping
+unwraps
 up
 updatable
 update
@@ -5256,6 +5261,7 @@ verifies
 verify
 verifying
 version
+versioned
 versioning
 versionless
 versions

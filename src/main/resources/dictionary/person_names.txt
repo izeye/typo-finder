@@ -44,6 +44,7 @@ bryant
 bruce
 buettner
 burke
+carriere
 cédric
 champeau
 chanwit
@@ -227,6 +228,7 @@ quinten
 rada
 raja
 ramnivas
+razib
 rickard
 richard
 ritter
@@ -258,6 +260,7 @@ serna
 severson
 shah
 shahbour
+shahriar
 shimizu
 silva
 simon
@@ -271,18 +274,21 @@ stolyarov
 strobl
 stummvoll
 swaef
+tadaya
 tanaka
 telechev
 thiago
 thomas
 thornhill
 tim
+tisseur
 tomasz
 tommy
 tompkins
 toshiaki
 tremblay
 trikleris
+tsuyukubo
 turanski
 turkovic
 turnquist
